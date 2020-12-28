@@ -1,5 +1,5 @@
 #;;;;;;;;;;;;;x
-COLONIAL_RANGE;식민지 범위: 쬒+$VAL$쬦;;;;;;;;;;;;;
+COLONIAL_RANGE;식민지 범위: [SUB_A7]G+$VAL$[SUB_A7]W;;;;;;;;;;;;;
 MODIFIER_LOCAL_SHIP_BUILD;지역 전함 건조 기간;;;;;;;;;;;;;
 CB_ALLOWED_ANNEX;강제 합병;;;;;;;;;;;;;
 CB_ALLOWED_ADD_TO_SPHERE;영향권 편입;;;;;;;;;x
@@ -9,17 +9,17 @@ CB_ALLOWED_TRANSFER_PROVINCES;영토 양도;;;;;;;;;;;;;
 CB_ALLOWED_PRESTIGE;위신 실추;;;;;;;;;;;;;
 CB_ALLOWED_CONCESSION;조차지 할양;;;;;;;;;;;;;
 MAINTENANCE_DESC;필요 유지품:;;;;;;;;;;;;;
-MISSING_MAINTENANCE;유지품이 부족해 생산량이 기존의 쬟$PERC$쬦입니다.;;;;;;;;;;;;;
+MISSING_MAINTENANCE;유지품이 부족해 생산량이 기존의 [SUB_A7]R$PERC$[SUB_A7]W입니다.;;;;;;;;;;;;;
 PROCEED;진행;;;;;;;;;;;;;
 ENDGAME_HEADLINE;게임 끝;;;;;;;;;;;;;
 ENDGAME_DESC;백년이 흘러 현대에 접어들었습니다. 세상은 근본적으로 달라졌습니다. 우리나라는 어떻게 지냈나요?;;;;;;;;;;;;;
 NEEDS_BOUGHT;오늘의 예상 수요:;;;;;;;;;;;;;
 TOTAL_NEEDS_BOUGHT;예상 구매비:;;;;;;;;;;;;;
-TOTAL_SOLD_FOR;어제 $NUM$만큼의 쬨$GOOD$쬦을(를) $CASH$� 에 팔았습니다.;;;;;;;;;;;;;
+TOTAL_SOLD_FOR;어제 $NUM$만큼의 [SUB_A7]Y$GOOD$[SUB_A7]W을(를) $CASH$[SUB_A4] 에 팔았습니다.;;;;;;;;;;;;;
 COULDNT_AFFORD;어제 공장이 원자재를 충분히 구매하지 못했습니다.;;;;;;;;;;;;;
-INPUT_LACKING;쬨$GOOD$쬦의 양이 공장 투입량보다 적습니다.;;;;;;;;;;;;;
-OUTPUT_WASTED;어제 쬨$GOOD$쬦 생산량: $PRODUCED$, 팔리지 않은 양: $NUM$;;;;;;;;;;;;;
+INPUT_LACKING;[SUB_A7]Y$GOOD$[SUB_A7]W의 양이 공장 투입량보다 적습니다.;;;;;;;;;;;;;
+OUTPUT_WASTED;어제 [SUB_A7]Y$GOOD$[SUB_A7]W 생산량: $PRODUCED$, 팔리지 않은 양: $NUM$;;;;;;;;;;;;;
 TRADE_CONFIRM_DESC;수동 거래를 설정하면 구매를 위해 차관을 도입할 수 있습니다.;;;;;;;;;;;;;
-BUDGET_TAX_EFFICIENCY;세금 효율: 쬨$VALUE$%쬦;;;;;;;;;;;;;
-BUDGET_TAX_EFFECT;실효세율: 쬨$VALUE$%쬦;;;;;;;;;;;;;
-LEADERSHIP_EFFECT; 지휘력: 쬒$VALUE$쬦.\n;;;;;;;;;;;;;
+BUDGET_TAX_EFFICIENCY;세금 효율: [SUB_A7]Y$VALUE$%[SUB_A7]W;;;;;;;;;;;;;
+BUDGET_TAX_EFFECT;실효세율: [SUB_A7]Y$VALUE$%[SUB_A7]W;;;;;;;;;;;;;
+LEADERSHIP_EFFECT; 지휘력: [SUB_A7]G$VALUE$[SUB_A7]W.\n;;;;;;;;;;;;;

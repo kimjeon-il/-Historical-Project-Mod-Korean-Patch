@@ -21,9 +21,9 @@ CAL_hms_government;캘리포니아;;;;;;;;;;;;;
 DOM_absolute_monarchy;산토도밍고;;;;;;;;;;;;;
 DOM_hms_government;산토도밍고;;;;;;;;;;;;;
 ENG_democracy;그레이트브리튼
-TECH_DAILY_LEADERSHIP_BASE_TOOLTIP;월간 기본 지휘력: 쬨$VALUE$쬦;;;;;;;;;;;;;
-TECH_DAILY_LEADERSHIP_TOTAL_TOOLTIP;월간 지휘력: 쬒+$VALUE$쬦;;;;;;;;;;;;;
-TECH_DAILY_LEADERSHIP_TOOLTIP;$POPTYPE$ 주민들이 지휘력을 쬒$VALUE$쬦 제공합니다.\n (전체 인구의 쬨$FRACTION$%쬦이며, $OPTIMAL$%가 최적임);;;;;;;;;;;;;
+TECH_DAILY_LEADERSHIP_BASE_TOOLTIP;월간 기본 지휘력: [SUB_A7]Y$VALUE$[SUB_A7]W;;;;;;;;;;;;;
+TECH_DAILY_LEADERSHIP_TOTAL_TOOLTIP;월간 지휘력: [SUB_A7]G+$VALUE$[SUB_A7]W;;;;;;;;;;;;;
+TECH_DAILY_LEADERSHIP_TOOLTIP;$POPTYPE$ 주민들이 지휘력을 [SUB_A7]G$VALUE$[SUB_A7]W 제공합니다.\n (전체 인구의 [SUB_A7]Y$FRACTION$%[SUB_A7]W이며, $OPTIMAL$%가 최적임);;;;;;;;;;;;;
 MODIFIER_CORE_POP_MILITANCY_MODIFIER;비식민주민 불만도;;;;;;;;;;;;;
 MODIFIER_CORE_POP_CONSCIOUSNESS_MODIFIER;비식민주민 의식도;;;;;;;;;;;;;
 MODIFIER_NON_ACCEPTED_POP_MILITANCY_MODIFIER;소수 문화 불만도;;;;;;;;;;;;;
@@ -41,7 +41,7 @@ become_guatemala_desc;중앙아메리카 연합의 꿈이 무너졌습니다. 다른 지방들은 과테�
 MOR_1683;타자:;;;;;;;;;;;;;
 LAG_PAUSE;$PLAYER$이(가) 뒤쳐져 게임을 일시정지합니다.;;;;;;;;;;;;;
 LAG_DECREASE_SPEED;$PLAYER$이(가) 뒤쳐져 속도가 감소합니다.;;;;;;;;;;;;;
-PAUSED_BY;쬨$PLAYER$쬦이(가) 게임을 일시정지했습니다.;;;;;;;;;;;;;
+PAUSED_BY;[SUB_A7]Y$PLAYER$[SUB_A7]W이(가) 게임을 일시정지했습니다.;;;;;;;;;;;;;
 WARGOAL_OTHER_ACCEPT_SETUP;한 국가가 다른 국가에 대해 전쟁목표를 추가했을 때;;;;;;;;;;;;;
 WARGOAL_THEY_ACCEPT_SETUP;우리나라가 다른 국가에 대해 전쟁목표를 추가했을 때;;;;;;;;;;;;;
 WARGOAL_WE_ACCEPT_SETUP;다른 국가가 우리나라에 대해 전쟁목표를 추가했을 때;;;;;;;;;;;;;

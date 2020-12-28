@@ -6,7 +6,7 @@ HAS_NOT_GOODS; 생산품 ≠ ;;;;;;;;;;;;;
 IS_IN_REGION; 소속 = ;;;;;;;;;;;;;
 TRIGMOD_HEADER;$MONARCHTITLE$ 보고서;;;;;;;;;;;;;
 TRIGMODLOST_HEADER;$MONARCHTITLE$ 보고서;;;;;;;;;;;;;
-TRIGGER_CIV_PROGRESS_LESS;문명화 진행도: 쬨50쬦%;;;;;;;;;;;;;
+TRIGGER_CIV_PROGRESS_LESS;문명화 진행도: [SUB_A7]Y50[SUB_A7]W%;;;;;;;;;;;;;
 had_liberal_revolution;자유주의 혁명 종료;;;;;;;;;;;;;
 oriental_crisis_support_OE;오스만 지원;;;;;;;;;;;;;
 oriental_crisis_support_Egypt;이집트 지원;;;;;;;;;;;;;

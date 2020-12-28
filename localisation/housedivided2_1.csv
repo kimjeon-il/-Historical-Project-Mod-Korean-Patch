@@ -1,6 +1,6 @@
 PV_INTERNAL_IMMIGRATION;국내 입국이민: ;;;;;;;;;;;;;
 PV_EXTERNAL_IMMIGRATION;국외 입국이민: ;;;;;;;;;;;;;
-COUNTRYALERT_CanRemoveFromSphere;쬨영향권�! 이탈 가능 국가: :;;;;;;;;;;;;;
+COUNTRYALERT_CanRemoveFromSphere;[SUB_A7]Y영향권[SUB_A7]! 이탈 가능 국가: :;;;;;;;;;;;;;
 PV_CLERGY_LIT_DESC1;$NUM$명의 $LOC$ 주민이 성직자입니다.;;;;;;;;;;;;;
 PV_CLERGY_LIT_DESC2;$OPT$명이 최적입니다.;;;;;;;;;;;;;
 PV_CLERGY_LIT_DESC3;월간 변동 기본값: $VAL$;;;;;;;;;;;;;
