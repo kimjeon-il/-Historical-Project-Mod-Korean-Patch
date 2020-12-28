@@ -2503,7 +2503,7 @@ east_african = {
         first_names = { Badi Adlan Idris Ranfa Nawwar Hassab Tabl Nasir Awkal Rajab Isma'il Nul Unsa
         }
 
-        last_names = { "ibn Nul" Likaylik "Ibn Badi" "Ibn Isma´il" Muhammad "Ibn Tabl" Rabihi "wad Rajab"
+        last_names = { "ibn Nul" Likaylik "Ibn Badi" "Ibn IsmaÂ´il" Muhammad "Ibn Tabl" Rabihi "wad Rajab"
         }
     }
     dinka = {
