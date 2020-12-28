@@ -51,7 +51,7 @@ country_event = { #Mzilikazi of Matabele flees to Matabeland
             }
         }
 
-        2071 = { state_scope = { change_region_name = "¸¶Å¸º§·¹¶õµå" } }
+        2071 = { state_scope = { change_region_name = "Â¸Â¶Ã…Â¸ÂºÂ§Â·Â¹Â¶ÃµÂµÃ¥" } }
 
         any_owned = {
             limit = {
