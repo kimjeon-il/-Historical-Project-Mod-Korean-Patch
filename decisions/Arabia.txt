@@ -903,7 +903,7 @@ political_decisions = {
         effect = {
             set_global_flag = dar_es_salaam_built
             money = -1000
-            2036 = { any_pop = { militancy = -1 } add_province_modifier = { name = recently_built_city duration = 365 } change_province_name = "´Ù^¿¡¨Ù»ì¶÷" }
+            2036 = { any_pop = { militancy = -1 } add_province_modifier = { name = recently_built_city duration = 365 } change_province_name = "Â´Ã™^Â¿Â¡Â¨Ã™Â»Ã¬Â¶Ã·" }
         }
         ai_will_do = { factor = 1 }
     }
