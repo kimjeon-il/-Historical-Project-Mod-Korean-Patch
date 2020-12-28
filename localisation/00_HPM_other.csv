@@ -1,0 +1,17 @@
+Key;English;;;;;;;;;;;;;
+HAVE_BLOCKADE_IN; = 항구 봉쇄;;;;;;;;;;;x
+HAVE_NOT_BLOCKADE_IN; ≠ 항구 봉쇄;;;;;;;;;;;x
+Culture;문화;;;;;;;;;;;;;
+Select;선택;;;;;;;;;;;;;
+MAP_SAVED;Map is saved;;;;;;;;;;;;;
+SCREENSHOT_TAKEN;Screenshot is taken;;;;;;;;;;;;;
+ANY_PROVINCE_STARTS; 지역 전체;;;;;;;;;;;x
+ANY_COUNTRY_STARTS; 국가 전체;;;;;;;;;;;x
+ANY_OWNED_PROVINCE; 지역 전체;;;;;;;;;;;x
+NOT_PROVINCE_CONTROL_DAYS; ≠ 최근 쬨$DAYS$쬦일 사이에 지역 통제국 변동\n;;;;;;;;;;;x
+neutrality_modifier;정치적 중립;;;;;;;;;;;;;
+neutrality_modifier_desc;우리나라는 일부러 편을 들지 않으며, 전세계에서 매도하더라도 전쟁을 하지 않습니다. 그래서 아무도 우리와 전쟁을 하려하지 않을 것입니다. 이는 우리가 결코 '거물'로 인정받지 못할 것임을 의미하지만, 우리를 보호해주기도 합니다. 국력과 영향력에 눈이 멀어 해당 원칙을 버리지 않을 것입니다.;;;;;;;;;;;;;
+signed_the_geneva_convention;제네바 협정;;;;;;;;;;;x
+signed_the_geneva_convention_desc;제네바 협정의 조인국입니다.;;;;;;;;;;;x
+french_cultural_unity;프랑스 문화적 단결;;;;;;;;;;;x
+french_cultural_desc; ;;;;;;;;;;;x
