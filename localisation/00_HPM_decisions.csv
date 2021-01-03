@@ -1231,13 +1231,13 @@ boer_republic_desc;우리는 아프리카 원주민의 영토에 보어인 이�
 sand_river_convention_desc;트란스발의 보어인은 점점 더 식민지배에 저항하고 있습니다. 프레토리아에서 회동을 가지고 독립 조건을 논의할 때가 왔습니다. 노예제도를 허용하는 모든 법을 폐지하고 국경 내에서 우리의 영향력을 강하게 유지하도록 하는 우리 조건에 따르는 것이 바람직합니다.;;;;;;;;;;;;;
 orange_river_convention_desc;오라녜 자유국의 보어인은 점점 더 식민지배에 저항하고 있습니다. 블룸폰테인에서 회동을 가지고 독립 조건을 논의할 때가 왔습니다. 노예제도를 허용하는 모든 법을 폐지하고 국경 내에서 우리의 영향력을 강하게 유지하도록 하는 우리 조건에 따르는 것이 바람직합니다.;;;;;;;;;;;;;
 claim_north_cape_colony_title;노던케이프 영유권 주장;;;;;;;;;;;;;
-claim_north_cape_colony_desc;노던케이프는 보어인의 땅이며, 우리나라의 적법한 일부분입니다.;;;;;;;;;;;;;
+claim_north_cape_colony_desc;노던케이프 식민지는 적법한 $COUNTRY_ADJ$입니다. 아프리카에서의 야망이 수포로 돌아가기 전에 영유주장 절차를 밟아야 합니다.;;;;;;;;;;;;;
 claim_transvaal_title;트란스발 영유권 주장;;;;;;;;;;;;;
-claim_transvaal_desc;트란스발은 보어인의 땅이며, 우리나라의 적법한 일부분입니다.;;;;;;;;;;;;;
+claim_transvaal_desc;트란스발은 보어인의 땅이며 $COUNTRY$의 적법한 일부분입니다.;;;;;;;;;;;;;
 claim_oranje_title;트란스오라녜 영유권 주장;;;;;;;;;;;;;
-claim_oranje_desc;오라녜 자유주는 보어인의 땅이며, 우리나라의 적법한 일부분입니다.;;;;;;;;;;;;;
+claim_oranje_desc;오라녜 자유국 준주는 보어인의 땅이며 $COUNTRY$의 적법한 일부분입니다.;;;;;;;;;;;;;
 claim_natalia_title;나탈 영유권 주장;;;;;;;;;;;;;
-claim_natalia_desc;나탈은 보어인의 땅이며, 우리나라의 적법한 일부분입니다.;;;;;;;;;;;;;
+claim_natalia_desc;나탈은 보어인의 땅이며 $COUNTRY$의 적법한 일부분입니다.;;;;;;;;;;;;;
 form_south_africa_title;남아프리카 결성;;;;;;;;;;;;;
 form_south_africa_desc;케이프 식민지가 우리의 통제하에 있다면 통일 보어 공화국을 형성할 수 있습니다.;;;;;;;;;;;;;
 treaty_of_vereeniging_title;페레니힝 조약;;;;;;;;;;;;;
