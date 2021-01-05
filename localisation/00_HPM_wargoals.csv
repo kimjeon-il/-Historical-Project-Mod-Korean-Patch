@@ -187,7 +187,7 @@ install_communism_short;$RECIPIENT$ 공산주의 정부 수립;;;;;;;;;;;;;
 install_communism_setup;$RECIPIENT$에 공산주의 정부를 수립합니다.;;;;;;;;;;;;;
 great_war_liberate;해방;;;;;;;;;;;;;
 great_war_liberate_desc;적국이 점유한 [SUB_A7]Y국가[SUB_A7]W를 해방합니다.;;;;;;;;;;;;;
-great_war_liberate_short;$THIRD$ $STATE$ 탈횐;;;;;;;;;;;;;
+great_war_liberate_short;$THIRD$ $STATE$ 탈환;;;;;;;;;;;;;
 great_war_liberate_setup;$RECIPIENT$이 점유한 $STATE$ 지방을 $THIRD$에게 반환합니다.;;;;;;;;;;;;;
 great_war_acquire_core;영유권 보유 지역 인수;;;;;;;;;;;;;
 great_war_acquire_core_desc;적국이 점유한 [SUB_A7]Y영유권 보유 지역[SUB_A7]W이 위치한 [SUB_A7]Y주[SUB_A7]W를 인수합니다.;;;;;;;;;;;;;
