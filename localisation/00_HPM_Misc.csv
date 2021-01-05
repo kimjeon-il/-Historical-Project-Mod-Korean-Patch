@@ -331,8 +331,8 @@ early_electrical_telegraph_desc;첫 상업용 전신은 윌리엄 포더길 쿡 
 telegraph;전보;;;;;;;;;;;;;
 REMOVE_MONEY_EFFECT; 돈: - $VALUE$[SUB_A4] \n;;;;;;;;;;;;;
 MONEY_EFFECT;돈: + $VALUE$[SUB_A4] \n;;;;;;;;;;;;;
-theocracy_ruler;성하;;;;;;;;;;;;;
-proletarian_dictatorship_ruler;서기장;;;;;;;;;;;;;
+theocracy_ruler;교주 성하;;;;;;;;;;;;;
+proletarian_dictatorship_ruler;주석;;;;;;;;;;;;;
 presidential_dictatorship_ruler;대통령;;;;;;;;;;;;;
 bourgeois_dictatorship_ruler;총재;;;;;;;;;;;;;
 fascist_dictatorship_ruler;총통;;;;;;;;;;;;
