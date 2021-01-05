@@ -85,8 +85,8 @@ TICKING_WARSCORE_DESC_SCORE_SHORT;현재 전쟁점수: $VAL$ (일일 변동: $CH
 TICKING_WARSCORE_DESC_SCORE_MAX_SHORT;현재 전쟁점수: $VAL$ (최대);;;;;;;;;;;;;
 CB_DESTROY_FORTS;요새 철거;;;;;;;;;;;;;
 CB_DESTROY_NAVAL_BASES;군항 철거;;;;;;;;;;;;;
-po_destroy_forts;$STATE$에 속한 모든 요새를 파괴합니다.;;;;;;;;;;;;;
-po_destroy_naval_bases;$STATE$에 속한 모든 군항을 파괴합니다.;;;;;;;;;;;;;
+po_destroy_forts;$STATE$ 내 모든 요새를 파괴합니다.;;;;;;;;;;;;;
+po_destroy_naval_bases;$STATE$ 내 모든 군항을 파괴합니다.;;;;;;;;;;;;;
 ALL_CORE_PROVINCES;영유권 보유 지역이 속한 주 전체;;;;;;;;;;;;;
 ALL_SATES; 주 전체;;;;;;;;;;;;;
 dismantle_forts_desc;적국에 속한 주의 요새와 군항을 철거합니다.;;;;;;;;;;;;;
