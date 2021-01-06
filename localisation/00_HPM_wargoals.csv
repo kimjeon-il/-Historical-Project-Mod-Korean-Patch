@@ -57,7 +57,7 @@ AGRESSION_WAR_CONQUEST_ANY_NAME_ENG_PNJ;$ORDER$영국-펀자브 전쟁;;;;;;;;;;
 NORMAL_WAR_CONQUEST_ANY_NAME_ENG_PNJ;$ORDER$영국-펀자브 전쟁;;;;;;;;;;;;;;;;;;;
 NORMAL_CIVIL_WAR_NAME_ARC_ENT;$ORDER$플라티네 전쟁;;;;;;;;;;;;;;;;;;;;;
 AGRESSION_CIVIL_WAR_NAME_ARC_ENT;$ORDER$플라티네 전쟁;;;;;;;;;;;;;;;;;;;;;
-NO_ALLOWED_STATES;(해당국 없음);;;;;;;;;;;;;;;
+NO_ALLOWED_STATES;(해당 주 없음);;;;;;;;;;;;;;;
 po_reduce_prestige;위신이 [SUB_A7]R-$VALUE$[SUB_A7]W 감소합니다.;;;;;;;;;;;;;;;;;;;;;;;;;;
 NORMAL_PUNITIVE_EXPEDITION_WAR_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;;;;;;;;
 AGRESSION_PUNITIVE_EXPEDITION_WAR_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;
