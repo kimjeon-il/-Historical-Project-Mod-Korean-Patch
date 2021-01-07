@@ -8,7 +8,7 @@ PNK_proletarian_dictatorship;;;;;;;;;;;;;;
 PNK_presidential_dictatorship;;;;;;;;;;;;;;
 PNK_bourgeois_dictatorship;;;;;;;;;;;;;;
 PNK_fascist_dictatorship;;;;;;;;;;;;;;
-PNK_ADJ;령;;;;;;;;;;;;x;
+PNK_ADJ;령;;;;;;;;;;;;;;
 #####GHN(Ghana)#####
 GHN_absolute_monarchy;;;;;;;;;;;;;;
 GHN_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -18,7 +18,7 @@ GHN_proletarian_dictatorship;;;;;;;;;;;;;;
 GHN_presidential_dictatorship;;;;;;;;;;;;;;
 GHN_bourgeois_dictatorship;;;;;;;;;;;;;;
 GHN_fascist_dictatorship;;;;;;;;;;;;;;
-GHN_ADJ;령;;;;;;;;;;;;x;
+GHN_ADJ;령;;;;;;;;;;;;;;
 #####PPG(Papua New Guinea)#####
 PPG_absolute_monarchy;;;;;;;;;;;;;;
 PPG_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -28,7 +28,7 @@ PPG_proletarian_dictatorship;;;;;;;;;;;;;;
 PPG_presidential_dictatorship;;;;;;;;;;;;;;
 PPG_bourgeois_dictatorship;;;;;;;;;;;;;;
 PPG_fascist_dictatorship;;;;;;;;;;;;;;
-PPG_ADJ;령;;;;;;;;;;;;x;
+PPG_ADJ;령;;;;;;;;;;;;;;
 #####VTU(Vanuatu)#####
 VTU_absolute_monarchy;;;;;;;;;;;;;;
 VTU_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -38,7 +38,7 @@ VTU_proletarian_dictatorship;;;;;;;;;;;;;;
 VTU_presidential_dictatorship;;;;;;;;;;;;;;
 VTU_bourgeois_dictatorship;;;;;;;;;;;;;;
 VTU_fascist_dictatorship;;;;;;;;;;;;;;
-VTU_ADJ;령;;;;;;;;;;;;x;
+VTU_ADJ;령;;;;;;;;;;;;;;
 #####SMO(Samoa)#####
 SMO_absolute_monarchy;;;;;;;;;;;;;;
 SMO_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -48,7 +48,7 @@ SMO_proletarian_dictatorship;;;;;;;;;;;;;;
 SMO_presidential_dictatorship;;;;;;;;;;;;;;
 SMO_bourgeois_dictatorship;;;;;;;;;;;;;;
 SMO_fascist_dictatorship;;;;;;;;;;;;;;
-SMO_ADJ;령;;;;;;;;;;;;x;
+SMO_ADJ;령;;;;;;;;;;;;;;
 #####ATC(Antillean Conf)#####
 ATC_absolute_monarchy;;;;;;;;;;;;;;
 ATC_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -58,7 +58,7 @@ ATC_proletarian_dictatorship;;;;;;;;;;;;;;
 ATC_presidential_dictatorship;;;;;;;;;;;;;;
 ATC_bourgeois_dictatorship;;;;;;;;;;;;;;
 ATC_fascist_dictatorship;;;;;;;;;;;;;;
-ATC_ADJ;령;;;;;;;;;;;;x;
+ATC_ADJ;령;;;;;;;;;;;;;;
 #####MNP(Manipur)#####
 MNP_absolute_monarchy;;;;;;;;;;;;;;
 MNP_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -68,7 +68,7 @@ MNP_proletarian_dictatorship;;;;;;;;;;;;;;
 MNP_presidential_dictatorship;;;;;;;;;;;;;;
 MNP_bourgeois_dictatorship;;;;;;;;;;;;;;
 MNP_fascist_dictatorship;;;;;;;;;;;;;;
-MNP_ADJ;령;;;;;;;;;;;;x;
+MNP_ADJ;령;;;;;;;;;;;;;;
 #####BDK(Badakhshan)#####
 BDK_absolute_monarchy;;;;;;;;;;;;;;
 BDK_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -78,7 +78,7 @@ BDK_proletarian_dictatorship;;;;;;;;;;;;;;
 BDK_presidential_dictatorship;;;;;;;;;;;;;;
 BDK_bourgeois_dictatorship;;;;;;;;;;;;;;
 BDK_fascist_dictatorship;;;;;;;;;;;;;;
-BDK_ADJ;령;;;;;;;;;;;;x;
+BDK_ADJ;령;;;;;;;;;;;;;;
 #####PGG(Pingnan Guo)#####
 PGG_absolute_monarchy;;;;;;;;;;;;;;
 PGG_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -88,7 +88,7 @@ PGG_proletarian_dictatorship;;;;;;;;;;;;;;
 PGG_presidential_dictatorship;;;;;;;;;;;;;;
 PGG_bourgeois_dictatorship;;;;;;;;;;;;;;
 PGG_fascist_dictatorship;;;;;;;;;;;;;;
-PGG_ADJ;령;;;;;;;;;;;;x;
+PGG_ADJ;령;;;;;;;;;;;;;;
 #####SGM(Sigmaringen-Hohe)#####
 SGM_absolute_monarchy;;;;;;;;;;;;;;
 SGM_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -98,7 +98,7 @@ SGM_proletarian_dictatorship;;;;;;;;;;;;;;
 SGM_presidential_dictatorship;;;;;;;;;;;;;;
 SGM_bourgeois_dictatorship;;;;;;;;;;;;;;
 SGM_fascist_dictatorship;;;;;;;;;;;;;;
-SGM_ADJ;령;;;;;;;;;;;;x;
+SGM_ADJ;령;;;;;;;;;;;;;;
 #####NMB(Namibia)#####
 NMB_absolute_monarchy;;;;;;;;;;;;;;
 NMB_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -108,7 +108,7 @@ NMB_proletarian_dictatorship;;;;;;;;;;;;;;
 NMB_presidential_dictatorship;;;;;;;;;;;;;;
 NMB_bourgeois_dictatorship;;;;;;;;;;;;;;
 NMB_fascist_dictatorship;;;;;;;;;;;;;;
-NMB_ADJ;령;;;;;;;;;;;;x;
+NMB_ADJ;령;;;;;;;;;;;;;;
 #####TMR(Timor)#####
 _absolute_monarchy;;;;;;;;;;;;;;
 _prussian_constitutionalism;;;;;;;;;;;;;;
@@ -118,7 +118,7 @@ _proletarian_dictatorship;;;;;;;;;;;;;;
 _presidential_dictatorship;;;;;;;;;;;;;;
 _bourgeois_dictatorship;;;;;;;;;;;;;;
 _fascist_dictatorship;;;;;;;;;;;;;;
-_ADJ;령;;;;;;;;;;;;x;
+_ADJ;령;;;;;;;;;;;;;;
 #####SLG(Selangor)#####
 SLG_absolute_monarchy;;;;;;;;;;;;;;
 SLG_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -128,7 +128,7 @@ SLG_proletarian_dictatorship;;;;;;;;;;;;;;
 SLG_presidential_dictatorship;;;;;;;;;;;;;;
 SLG_bourgeois_dictatorship;;;;;;;;;;;;;;
 SLG_fascist_dictatorship;;;;;;;;;;;;;;
-SLG_ADJ;령;;;;;;;;;;;;x;
+SLG_ADJ;령;;;;;;;;;;;;;;
 #####PRK(Perak)#####
 PRK_absolute_monarchy;;;;;;;;;;;;;;
 PRK_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -138,7 +138,7 @@ PRK_proletarian_dictatorship;;;;;;;;;;;;;;
 PRK_presidential_dictatorship;;;;;;;;;;;;;;
 PRK_bourgeois_dictatorship;;;;;;;;;;;;;;
 PRK_fascist_dictatorship;;;;;;;;;;;;;;
-PRK_ADJ;령;;;;;;;;;;;;x;
+PRK_ADJ;령;;;;;;;;;;;;;;
 #####PHG(Pahang)#####
 PHG_absolute_monarchy;;;;;;;;;;;;;;
 PHG_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -148,7 +148,7 @@ PHG_proletarian_dictatorship;;;;;;;;;;;;;;
 PHG_presidential_dictatorship;;;;;;;;;;;;;;
 PHG_bourgeois_dictatorship;;;;;;;;;;;;;;
 PHG_fascist_dictatorship;;;;;;;;;;;;;;
-PHG_ADJ;령;;;;;;;;;;;;x;
+PHG_ADJ;령;;;;;;;;;;;;;;
 #####FRO(Faroe)#####
 FRO_absolute_monarchy;;;;;;;;;;;;;;
 FRO_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -158,7 +158,7 @@ FRO_proletarian_dictatorship;;;;;;;;;;;;;;
 FRO_presidential_dictatorship;;;;;;;;;;;;;;
 FRO_bourgeois_dictatorship;;;;;;;;;;;;;;
 FRO_fascist_dictatorship;;;;;;;;;;;;;;
-FRO_ADJ;령;;;;;;;;;;;;x;
+FRO_ADJ;령;;;;;;;;;;;;;;
 #####NEH(Neuchatel Canton)#####
 NEH_absolute_monarchy;;;;;;;;;;;;;;
 NEH_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -168,7 +168,7 @@ NEH_proletarian_dictatorship;;;;;;;;;;;;;;
 NEH_presidential_dictatorship;;;;;;;;;;;;;;
 NEH_bourgeois_dictatorship;;;;;;;;;;;;;;
 NEH_fascist_dictatorship;;;;;;;;;;;;;;
-NEH_ADJ;령;;;;;;;;;;;;x;
+NEH_ADJ;령;;;;;;;;;;;;;;
 #####HBY(Hobyo)#####
 HBY_absolute_monarchy;;;;;;;;;;;;;;
 HBY_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -178,7 +178,7 @@ HBY_proletarian_dictatorship;;;;;;;;;;;;;;
 HBY_presidential_dictatorship;;;;;;;;;;;;;;
 HBY_bourgeois_dictatorship;;;;;;;;;;;;;;
 HBY_fascist_dictatorship;;;;;;;;;;;;;;
-HBY_ADJ;령;;;;;;;;;;;;x;
+HBY_ADJ;령;;;;;;;;;;;;;;
 #####QAT(Qatar)#####
 QAT_absolute_monarchy;;;;;;;;;;;;;;
 QAT_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -188,7 +188,7 @@ QAT_proletarian_dictatorship;;;;;;;;;;;;;;
 QAT_presidential_dictatorship;;;;;;;;;;;;;;
 QAT_bourgeois_dictatorship;;;;;;;;;;;;;;
 QAT_fascist_dictatorship;;;;;;;;;;;;;;
-QAT_ADJ;령;;;;;;;;;;;;x;
+QAT_ADJ;령;;;;;;;;;;;;;;
 #####BRY(Buryatia)#####
 BRY_absolute_monarchy;;;;;;;;;;;;;;
 BRY_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -198,7 +198,7 @@ BRY_proletarian_dictatorship;;;;;;;;;;;;;;
 BRY_presidential_dictatorship;;;;;;;;;;;;;;
 BRY_bourgeois_dictatorship;;;;;;;;;;;;;;
 BRY_fascist_dictatorship;;;;;;;;;;;;;;
-BRY_ADJ;령;;;;;;;;;;;;x;
+BRY_ADJ;령;;;;;;;;;;;;;;
 #####MLD(Maldives)#####
 MLD_absolute_monarchy;;;;;;;;;;;;;;
 MLD_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -208,7 +208,7 @@ MLD_proletarian_dictatorship;;;;;;;;;;;;;;
 MLD_presidential_dictatorship;;;;;;;;;;;;;;
 MLD_bourgeois_dictatorship;;;;;;;;;;;;;;
 MLD_fascist_dictatorship;;;;;;;;;;;;;;
-MLD_ADJ;령;;;;;;;;;;;;x;
+MLD_ADJ;령;;;;;;;;;;;;;;
 #####KAR(Karen)#####
 KAR_absolute_monarchy;;;;;;;;;;;;;;
 KAR_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -218,7 +218,7 @@ KAR_proletarian_dictatorship;;;;;;;;;;;;;;
 KAR_presidential_dictatorship;;;;;;;;;;;;;;
 KAR_bourgeois_dictatorship;;;;;;;;;;;;;;
 KAR_fascist_dictatorship;;;;;;;;;;;;;;
-KAR_ADJ;령;;;;;;;;;;;;x;
+KAR_ADJ;령;;;;;;;;;;;;;;
 #####PAK(Pakistan)#####
 PAK_absolute_monarchy;;;;;;;;;;;;;;
 PAK_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -228,7 +228,7 @@ PAK_proletarian_dictatorship;;;;;;;;;;;;;;
 PAK_presidential_dictatorship;;;;;;;;;;;;;;
 PAK_bourgeois_dictatorship;;;;;;;;;;;;;;
 PAK_fascist_dictatorship;;;;;;;;;;;;;;
-PAK_ADJ;령;;;;;;;;;;;;x;
+PAK_ADJ;령;;;;;;;;;;;;;;
 #####CRL(Chitral)#####
 CRL_absolute_monarchy;;;;;;;;;;;;;;
 CRL_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -238,7 +238,7 @@ CRL_proletarian_dictatorship;;;;;;;;;;;;;;
 CRL_presidential_dictatorship;;;;;;;;;;;;;;
 CRL_bourgeois_dictatorship;;;;;;;;;;;;;;
 CRL_fascist_dictatorship;;;;;;;;;;;;;;
-CRL_ADJ;령;;;;;;;;;;;;x;
+CRL_ADJ;령;;;;;;;;;;;;;;
 #####RDL(Ardalan)#####
 RDL_absolute_monarchy;;;;;;;;;;;;;;
 RDL_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -248,7 +248,7 @@ RDL_proletarian_dictatorship;;;;;;;;;;;;;;
 RDL_presidential_dictatorship;;;;;;;;;;;;;;
 RDL_bourgeois_dictatorship;;;;;;;;;;;;;;
 RDL_fascist_dictatorship;;;;;;;;;;;;;;
-RDL_ADJ;령;;;;;;;;;;;;x;
+RDL_ADJ;령;;;;;;;;;;;;;;
 #####BTL(Bitlis)#####
 BTL_absolute_monarchy;;;;;;;;;;;;;;
 BTL_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -258,7 +258,7 @@ BTL_proletarian_dictatorship;;;;;;;;;;;;;;
 BTL_presidential_dictatorship;;;;;;;;;;;;;;
 BTL_bourgeois_dictatorship;;;;;;;;;;;;;;
 BTL_fascist_dictatorship;;;;;;;;;;;;;;
-BTL_ADJ;령;;;;;;;;;;;;x;
+BTL_ADJ;령;;;;;;;;;;;;;;
 #####BDN(Bahdinan)#####
 BDN_absolute_monarchy;;;;;;;;;;;;;;
 BDN_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -268,7 +268,7 @@ BDN_proletarian_dictatorship;;;;;;;;;;;;;;
 BDN_presidential_dictatorship;;;;;;;;;;;;;;
 BDN_bourgeois_dictatorship;;;;;;;;;;;;;;
 BDN_fascist_dictatorship;;;;;;;;;;;;;;
-BDN_ADJ;령;;;;;;;;;;;;x;
+BDN_ADJ;령;;;;;;;;;;;;;;
 #####BNB(Baban)#####
 BNB_absolute_monarchy;;;;;;;;;;;;;;
 BNB_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -278,7 +278,7 @@ BNB_proletarian_dictatorship;;;;;;;;;;;;;;
 BNB_presidential_dictatorship;;;;;;;;;;;;;;
 BNB_bourgeois_dictatorship;;;;;;;;;;;;;;
 BNB_fascist_dictatorship;;;;;;;;;;;;;;
-BNB_ADJ;령;;;;;;;;;;;;x;
+BNB_ADJ;령;;;;;;;;;;;;;;
 #####MKN(Mukriyan)#####
 MKN_absolute_monarchy;;;;;;;;;;;;;;
 MKN_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -288,7 +288,7 @@ MKN_proletarian_dictatorship;;;;;;;;;;;;;;
 MKN_presidential_dictatorship;;;;;;;;;;;;;;
 MKN_bourgeois_dictatorship;;;;;;;;;;;;;;
 MKN_fascist_dictatorship;;;;;;;;;;;;;;
-MKN_ADJ;령;;;;;;;;;;;;x;
+MKN_ADJ;령;;;;;;;;;;;;;;
 #####BHT(Bohtan)#####
 BHT_absolute_monarchy;;;;;;;;;;;;;;
 BHT_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -298,7 +298,7 @@ BHT_proletarian_dictatorship;;;;;;;;;;;;;;
 BHT_presidential_dictatorship;;;;;;;;;;;;;;
 BHT_bourgeois_dictatorship;;;;;;;;;;;;;;
 BHT_fascist_dictatorship;;;;;;;;;;;;;;
-BHT_ADJ;령;;;;;;;;;;;;x;
+BHT_ADJ;령;;;;;;;;;;;;;;
 #####SRN(Soran)#####
 SRN_absolute_monarchy;;;;;;;;;;;;;;
 SRN_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -308,7 +308,7 @@ SRN_proletarian_dictatorship;;;;;;;;;;;;;;
 SRN_presidential_dictatorship;;;;;;;;;;;;;;
 SRN_bourgeois_dictatorship;;;;;;;;;;;;;;
 SRN_fascist_dictatorship;;;;;;;;;;;;;;
-SRN_ADJ;령;;;;;;;;;;;;x;
+SRN_ADJ;령;;;;;;;;;;;;;;
 #####LBG(Limburg)#####
 LBG_absolute_monarchy;;;;;;;;;;;;;;
 LBG_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -318,7 +318,7 @@ LBG_proletarian_dictatorship;;;;;;;;;;;;;;
 LBG_presidential_dictatorship;;;;;;;;;;;;;;
 LBG_bourgeois_dictatorship;;;;;;;;;;;;;;
 LBG_fascist_dictatorship;;;;;;;;;;;;;;
-LBG_ADJ;령;;;;;;;;;;;;x;
+LBG_ADJ;령;;;;;;;;;;;;;;
 #####PNB(Pernambuco)#####
 PNB_absolute_monarchy;;;;;;;;;;;;;;
 PNB_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -328,7 +328,7 @@ PNB_proletarian_dictatorship;;;;;;;;;;;;;;
 PNB_presidential_dictatorship;;;;;;;;;;;;;;
 PNB_bourgeois_dictatorship;;;;;;;;;;;;;;
 PNB_fascist_dictatorship;;;;;;;;;;;;;;
-PNB_ADJ;령;;;;;;;;;;;;x;
+PNB_ADJ;령;;;;;;;;;;;;;;
 #####FIU(Fiume)#####
 FIU_absolute_monarchy;;;;;;;;;;;;;;
 FIU_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -338,7 +338,7 @@ FIU_proletarian_dictatorship;;;;;;;;;;;;;;
 FIU_presidential_dictatorship;;;;;;;;;;;;;;
 FIU_bourgeois_dictatorship;;;;;;;;;;;;;;
 FIU_fascist_dictatorship;;;;;;;;;;;;;;
-FIU_ADJ;령;;;;;;;;;;;;x;
+FIU_ADJ;령;;;;;;;;;;;;;;
 #####SYC(Sicily)#####
 SYC_absolute_monarchy;;;;;;;;;;;;;;
 SYC_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -348,7 +348,7 @@ SYC_proletarian_dictatorship;;;;;;;;;;;;;;
 SYC_presidential_dictatorship;;;;;;;;;;;;;;
 SYC_bourgeois_dictatorship;;;;;;;;;;;;;;
 SYC_fascist_dictatorship;;;;;;;;;;;;;;
-SYC_ADJ;령;;;;;;;;;;;;x;
+SYC_ADJ;령;;;;;;;;;;;;;;
 #####MDV(Moldova)#####
 MDV_absolute_monarchy;;;;;;;;;;;;;;
 MDV_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -358,7 +358,7 @@ MDV_proletarian_dictatorship;;;;;;;;;;;;;;
 MDV_presidential_dictatorship;;;;;;;;;;;;;;
 MDV_bourgeois_dictatorship;;;;;;;;;;;;;;
 MDV_fascist_dictatorship;;;;;;;;;;;;;;
-MDV_ADJ;령;;;;;;;;;;;;x;
+MDV_ADJ;령;;;;;;;;;;;;;;
 #####ABK(Abkhazia)#####
 ABK_absolute_monarchy;;;;;;;;;;;;;;
 ABK_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -368,7 +368,7 @@ ABK_proletarian_dictatorship;;;;;;;;;;;;;;
 ABK_presidential_dictatorship;;;;;;;;;;;;;;
 ABK_bourgeois_dictatorship;;;;;;;;;;;;;;
 ABK_fascist_dictatorship;;;;;;;;;;;;;;
-ABK_ADJ;령;;;;;;;;;;;;x;
+ABK_ADJ;령;;;;;;;;;;;;;;
 #####CRT(Corrientes)#####
 CRT_absolute_monarchy;;;;;;;;;;;;;;
 CRT_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -378,7 +378,7 @@ CRT_proletarian_dictatorship;;;;;;;;;;;;;;
 CRT_presidential_dictatorship;;;;;;;;;;;;;;
 CRT_bourgeois_dictatorship;;;;;;;;;;;;;;
 CRT_fascist_dictatorship;;;;;;;;;;;;;;
-CRT_ADJ;령;;;;;;;;;;;;x;
+CRT_ADJ;령;;;;;;;;;;;;;;
 #####SBA(Buenos Aires)#####
 SBA_absolute_monarchy;;;;;;;;;;;;;;
 SBA_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -388,7 +388,7 @@ SBA_proletarian_dictatorship;;;;;;;;;;;;;;
 SBA_presidential_dictatorship;;;;;;;;;;;;;;
 SBA_bourgeois_dictatorship;;;;;;;;;;;;;;
 SBA_fascist_dictatorship;;;;;;;;;;;;;;
-SBA_ADJ;령;;;;;;;;;;;;x;
+SBA_ADJ;령;;;;;;;;;;;;;;
 #####ARC(Argentine Conf)#####
 ARC_absolute_monarchy;;;;;;;;;;;;;;
 ARC_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -398,7 +398,7 @@ ARC_proletarian_dictatorship;;;;;;;;;;;;;;
 ARC_presidential_dictatorship;;;;;;;;;;;;;;
 ARC_bourgeois_dictatorship;;;;;;;;;;;;;;
 ARC_fascist_dictatorship;;;;;;;;;;;;;;
-ARC_ADJ;령;;;;;;;;;;;;x;
+ARC_ADJ;령;;;;;;;;;;;;;;
 #####LHJ(Lahej)#####
 LHJ_absolute_monarchy;;;;;;;;;;;;;;
 LHJ_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -408,7 +408,7 @@ LHJ_proletarian_dictatorship;;;;;;;;;;;;;;
 LHJ_presidential_dictatorship;;;;;;;;;;;;;;
 LHJ_bourgeois_dictatorship;;;;;;;;;;;;;;
 LHJ_fascist_dictatorship;;;;;;;;;;;;;;
-LHJ_ADJ;령;;;;;;;;;;;;x;
+LHJ_ADJ;령;;;;;;;;;;;;;;
 #####FDL(Fadhli)#####
 FDL_absolute_monarchy;;;;;;;;;;;;;;
 FDL_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -418,7 +418,7 @@ FDL_proletarian_dictatorship;;;;;;;;;;;;;;
 FDL_presidential_dictatorship;;;;;;;;;;;;;;
 FDL_bourgeois_dictatorship;;;;;;;;;;;;;;
 FDL_fascist_dictatorship;;;;;;;;;;;;;;
-FDL_ADJ;령;;;;;;;;;;;;x;
+FDL_ADJ;령;;;;;;;;;;;;;;
 #####KTH(Kathiri)#####
 KTH_absolute_monarchy;;;;;;;;;;;;;;
 KTH_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -428,7 +428,7 @@ KTH_proletarian_dictatorship;;;;;;;;;;;;;;
 KTH_presidential_dictatorship;;;;;;;;;;;;;;
 KTH_bourgeois_dictatorship;;;;;;;;;;;;;;
 KTH_fascist_dictatorship;;;;;;;;;;;;;;
-KTH_ADJ;령;;;;;;;;;;;;x;
+KTH_ADJ;령;;;;;;;;;;;;;;
 #####MHR(Mahra)#####
 MHR_absolute_monarchy;;;;;;;;;;;;;;
 MHR_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -438,7 +438,7 @@ MHR_proletarian_dictatorship;;;;;;;;;;;;;;
 MHR_presidential_dictatorship;;;;;;;;;;;;;;
 MHR_bourgeois_dictatorship;;;;;;;;;;;;;;
 MHR_fascist_dictatorship;;;;;;;;;;;;;;
-MHR_ADJ;령;;;;;;;;;;;;x;
+MHR_ADJ;령;;;;;;;;;;;;;;
 #####KML(Kumul)#####
 KML_absolute_monarchy;;;;;;;;;;;;;;
 KML_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -448,7 +448,7 @@ KML_proletarian_dictatorship;;;;;;;;;;;;;;
 KML_presidential_dictatorship;;;;;;;;;;;;;;
 KML_bourgeois_dictatorship;;;;;;;;;;;;;;
 KML_fascist_dictatorship;;;;;;;;;;;;;;
-KML_ADJ;령;;;;;;;;;;;;x;
+KML_ADJ;령;;;;;;;;;;;;;;
 #####SHK(Shilluk)#####
 SHK_absolute_monarchy;;;;;;;;;;;;;;
 SHK_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -458,7 +458,7 @@ SHK_proletarian_dictatorship;;;;;;;;;;;;;;
 SHK_presidential_dictatorship;;;;;;;;;;;;;;
 SHK_bourgeois_dictatorship;;;;;;;;;;;;;;
 SHK_fascist_dictatorship;;;;;;;;;;;;;;
-SHK_ADJ;령;;;;;;;;;;;;x;
+SHK_ADJ;령;;;;;;;;;;;;;;
 #####WRL(Warsangali)#####
 WRL_absolute_monarchy;;;;;;;;;;;;;;
 WRL_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -468,7 +468,7 @@ WRL_proletarian_dictatorship;;;;;;;;;;;;;;
 WRL_presidential_dictatorship;;;;;;;;;;;;;;
 WRL_bourgeois_dictatorship;;;;;;;;;;;;;;
 WRL_fascist_dictatorship;;;;;;;;;;;;;;
-WRL_ADJ;령;;;;;;;;;;;;x;
+WRL_ADJ;령;;;;;;;;;;;;;;
 #####BHP(Bahawalpur)#####
 BHP_absolute_monarchy;;;;;;;;;;;;;;
 BHP_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -478,7 +478,7 @@ BHP_proletarian_dictatorship;;;;;;;;;;;;;;
 BHP_presidential_dictatorship;;;;;;;;;;;;;;
 BHP_bourgeois_dictatorship;;;;;;;;;;;;;;
 BHP_fascist_dictatorship;;;;;;;;;;;;;;
-BHP_ADJ;령;;;;;;;;;;;;x;
+BHP_ADJ;령;;;;;;;;;;;;;;
 #####EZO(EzoRep)#####
 EZO_absolute_monarchy;;;;;;;;;;;;;;
 EZO_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -488,7 +488,7 @@ EZO_proletarian_dictatorship;;;;;;;;;;;;;;
 EZO_presidential_dictatorship;;;;;;;;;;;;;;
 EZO_bourgeois_dictatorship;;;;;;;;;;;;;;
 EZO_fascist_dictatorship;;;;;;;;;;;;;;
-EZO_ADJ;령;;;;;;;;;;;;x;
+EZO_ADJ;령;;;;;;;;;;;;;;
 #####CHY(Chechnya)#####
 CHY_absolute_monarchy;;;;;;;;;;;;;;
 CHY_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -498,7 +498,7 @@ CHY_proletarian_dictatorship;;;;;;;;;;;;;;
 CHY_presidential_dictatorship;;;;;;;;;;;;;;
 CHY_bourgeois_dictatorship;;;;;;;;;;;;;;
 CHY_fascist_dictatorship;;;;;;;;;;;;;;
-CHY_ADJ;령;;;;;;;;;;;;x;
+CHY_ADJ;령;;;;;;;;;;;;;;
 #####CHK(Champasak)#####
 CHK_absolute_monarchy;;;;;;;;;;;;;;
 CHK_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -508,7 +508,7 @@ CHK_proletarian_dictatorship;;;;;;;;;;;;;;
 CHK_presidential_dictatorship;;;;;;;;;;;;;;
 CHK_bourgeois_dictatorship;;;;;;;;;;;;;;
 CHK_fascist_dictatorship;;;;;;;;;;;;;;
-CHK_ADJ;령;;;;;;;;;;;;x;
+CHK_ADJ;령;;;;;;;;;;;;;;
 #####QNG(Qing China)#####
 QNG_absolute_monarchy;;;;;;;;;;;;;;
 QNG_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -518,7 +518,7 @@ QNG_proletarian_dictatorship;;;;;;;;;;;;;;
 QNG_presidential_dictatorship;;;;;;;;;;;;;;
 QNG_bourgeois_dictatorship;;;;;;;;;;;;;;
 QNG_fascist_dictatorship;;;;;;;;;;;;;;
-QNG_ADJ;령;;;;;;;;;;;;x;
+QNG_ADJ;령;;;;;;;;;;;;;;
 #####MGH(Maghreb)#####
 MGH_absolute_monarchy;;;;;;;;;;;;;;
 MGH_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -528,7 +528,7 @@ MGH_proletarian_dictatorship;;;;;;;;;;;;;;
 MGH_presidential_dictatorship;;;;;;;;;;;;;;
 MGH_bourgeois_dictatorship;;;;;;;;;;;;;;
 MGH_fascist_dictatorship;;;;;;;;;;;;;;
-MGH_ADJ;령;;;;;;;;;;;;x;
+MGH_ADJ;령;;;;;;;;;;;;;;
 #HPM Africa
 #####BKF(Burkina Faso)#####
 BKF_absolute_monarchy;;;;;;;;;;;;;;
@@ -539,7 +539,7 @@ BKF_proletarian_dictatorship;;;;;;;;;;;;;;
 BKF_presidential_dictatorship;;;;;;;;;;;;;;
 BKF_bourgeois_dictatorship;;;;;;;;;;;;;;
 BKF_fascist_dictatorship;;;;;;;;;;;;;;
-BKF_ADJ;령;;;;;;;;;;;;x;
+BKF_ADJ;령;;;;;;;;;;;;;;
 #####ZBW(Zimbabwe)#####
 ZBW_absolute_monarchy;;;;;;;;;;;;;;
 ZBW_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -549,7 +549,7 @@ ZBW_proletarian_dictatorship;;;;;;;;;;;;;;
 ZBW_presidential_dictatorship;;;;;;;;;;;;;;
 ZBW_bourgeois_dictatorship;;;;;;;;;;;;;;
 ZBW_fascist_dictatorship;;;;;;;;;;;;;;
-ZBW_ADJ;령;;;;;;;;;;;;x;
+ZBW_ADJ;령;;;;;;;;;;;;;;
 #####CMS(Comoros)#####
 CMS_absolute_monarchy;;;;;;;;;;;;;;
 CMS_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -559,7 +559,7 @@ CMS_proletarian_dictatorship;;;;;;;;;;;;;;
 CMS_presidential_dictatorship;;;;;;;;;;;;;;
 CMS_bourgeois_dictatorship;;;;;;;;;;;;;;
 CMS_fascist_dictatorship;;;;;;;;;;;;;;
-CMS_ADJ;령;;;;;;;;;;;;x;
+CMS_ADJ;령;;;;;;;;;;;;;;
 #####EQG(Equatorial Guinea)#####
 EQG_absolute_monarchy;;;;;;;;;;;;;;
 EQG_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -569,7 +569,7 @@ EQG_proletarian_dictatorship;;;;;;;;;;;;;;
 EQG_presidential_dictatorship;;;;;;;;;;;;;;
 EQG_bourgeois_dictatorship;;;;;;;;;;;;;;
 EQG_fascist_dictatorship;;;;;;;;;;;;;;
-EQG_ADJ;령;;;;;;;;;;;;x;
+EQG_ADJ;령;;;;;;;;;;;;;;
 #Latin America
 #####BAH(Bahia)#####
 BAH_absolute_monarchy;;;;;;;;;;;;;;
@@ -580,7 +580,7 @@ BAH_proletarian_dictatorship;;;;;;;;;;;;;;
 BAH_presidential_dictatorship;;;;;;;;;;;;;;
 BAH_bourgeois_dictatorship;;;;;;;;;;;;;;
 BAH_fascist_dictatorship;;;;;;;;;;;;;;
-BAH_ADJ;령;;;;;;;;;;;;x;
+BAH_ADJ;령;;;;;;;;;;;;;;
 #####CHP(Chiapas)#####
 CHP_absolute_monarchy;;;;;;;;;;;;;;
 CHP_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -590,7 +590,7 @@ CHP_proletarian_dictatorship;;;;;;;;;;;;;;
 CHP_presidential_dictatorship;;;;;;;;;;;;;;
 CHP_bourgeois_dictatorship;;;;;;;;;;;;;;
 CHP_fascist_dictatorship;;;;;;;;;;;;;;
-CHP_ADJ;령;;;;;;;;;;;;x;
+CHP_ADJ;령;;;;;;;;;;;;;;
 #####CEQ(Equador Confederation)#####
 CEQ_absolute_monarchy;;;;;;;;;;;;;;
 CEQ_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -600,7 +600,7 @@ CEQ_proletarian_dictatorship;;;;;;;;;;;;;;
 CEQ_presidential_dictatorship;;;;;;;;;;;;;;
 CEQ_bourgeois_dictatorship;;;;;;;;;;;;;;
 CEQ_fascist_dictatorship;;;;;;;;;;;;;;
-CEQ_ADJ;령;;;;;;;;;;;;x;
+CEQ_ADJ;령;;;;;;;;;;;;;;
 #####ENT(Entre Rios)#####
 ENT_absolute_monarchy;;;;;;;;;;;;;;
 ENT_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -610,7 +610,7 @@ ENT_proletarian_dictatorship;;;;;;;;;;;;;;
 ENT_presidential_dictatorship;;;;;;;;;;;;;;
 ENT_bourgeois_dictatorship;;;;;;;;;;;;;;
 ENT_fascist_dictatorship;;;;;;;;;;;;;;
-ENT_ADJ;령;;;;;;;;;;;;x;
+ENT_ADJ;령;;;;;;;;;;;;;;
 #####GCO(Gran Colombia)#####
 GCO_absolute_monarchy;;;;;;;;;;;;;;
 GCO_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -620,7 +620,7 @@ GCO_proletarian_dictatorship;;;;;;;;;;;;;;
 GCO_presidential_dictatorship;;;;;;;;;;;;;;
 GCO_bourgeois_dictatorship;;;;;;;;;;;;;;
 GCO_fascist_dictatorship;;;;;;;;;;;;;;
-GCO_ADJ;령;;;;;;;;;;;;x;
+GCO_ADJ;령;;;;;;;;;;;;;;
 #####GUY(Guyana)#####
 GUY_absolute_monarchy;;;;;;;;;;;;;;
 GUY_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -630,7 +630,7 @@ GUY_proletarian_dictatorship;;;;;;;;;;;;;;
 GUY_presidential_dictatorship;;;;;;;;;;;;;;
 GUY_bourgeois_dictatorship;;;;;;;;;;;;;;
 GUY_fascist_dictatorship;;;;;;;;;;;;;;
-GUY_ADJ;령;;;;;;;;;;;;x;
+GUY_ADJ;령;;;;;;;;;;;;;;
 #####LOS(Los Altos)#####
 LOS_absolute_monarchy;;;;;;;;;;;;;;
 LOS_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -640,7 +640,7 @@ LOS_proletarian_dictatorship;;;;;;;;;;;;;;
 LOS_presidential_dictatorship;;;;;;;;;;;;;;
 LOS_bourgeois_dictatorship;;;;;;;;;;;;;;
 LOS_fascist_dictatorship;;;;;;;;;;;;;;
-LOS_ADJ;령;;;;;;;;;;;;x;
+LOS_ADJ;령;;;;;;;;;;;;;;
 #####LPL(La Plata)#####
 LPL_absolute_monarchy;;;;;;;;;;;;;;
 LPL_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -650,7 +650,7 @@ LPL_proletarian_dictatorship;;;;;;;;;;;;;;
 LPL_presidential_dictatorship;;;;;;;;;;;;;;
 LPL_bourgeois_dictatorship;;;;;;;;;;;;;;
 LPL_fascist_dictatorship;;;;;;;;;;;;;;
-LPL_ADJ;령;;;;;;;;;;;;x;
+LPL_ADJ;령;;;;;;;;;;;;;;
 #####PBC(Peru-Bolivia Confederation)#####
 PBC_absolute_monarchy;;;;;;;;;;;;;;
 PBC_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -660,7 +660,7 @@ PBC_proletarian_dictatorship;;;;;;;;;;;;;;
 PBC_presidential_dictatorship;;;;;;;;;;;;;;
 PBC_bourgeois_dictatorship;;;;;;;;;;;;;;
 PBC_fascist_dictatorship;;;;;;;;;;;;;;
-PBC_ADJ;령;;;;;;;;;;;;x;
+PBC_ADJ;령;;;;;;;;;;;;;;
 #####PTG(Patagonia)#####
 PTG_absolute_monarchy;;;;;;;;;;;;;;
 PTG_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -670,7 +670,7 @@ PTG_proletarian_dictatorship;;;;;;;;;;;;;;
 PTG_presidential_dictatorship;;;;;;;;;;;;;;
 PTG_bourgeois_dictatorship;;;;;;;;;;;;;;
 PTG_fascist_dictatorship;;;;;;;;;;;;;;
-PTG_ADJ;령;;;;;;;;;;;;x;
+PTG_ADJ;령;;;;;;;;;;;;;;
 #####RGR(Rio Grande)#####
 RGR_absolute_monarchy;;;;;;;;;;;;;;
 RGR_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -680,7 +680,7 @@ RGR_proletarian_dictatorship;;;;;;;;;;;;;;
 RGR_presidential_dictatorship;;;;;;;;;;;;;;
 RGR_bourgeois_dictatorship;;;;;;;;;;;;;;
 RGR_fascist_dictatorship;;;;;;;;;;;;;;
-RGR_ADJ;령;;;;;;;;;;;;x;
+RGR_ADJ;령;;;;;;;;;;;;;;
 #####RGS(Rio Grande do Sul)#####
 RGS_absolute_monarchy;;;;;;;;;;;;;;
 RGS_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -690,7 +690,7 @@ RGS_proletarian_dictatorship;;;;;;;;;;;;;;
 RGS_presidential_dictatorship;;;;;;;;;;;;;;
 RGS_bourgeois_dictatorship;;;;;;;;;;;;;;
 RGS_fascist_dictatorship;;;;;;;;;;;;;;
-RGS_ADJ;령;;;;;;;;;;;;x;
+RGS_ADJ;령;;;;;;;;;;;;;;
 #####SON(Sonora)#####
 SON_absolute_monarchy;;;;;;;;;;;;;;
 SON_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -700,7 +700,7 @@ SON_proletarian_dictatorship;;;;;;;;;;;;;;
 SON_presidential_dictatorship;;;;;;;;;;;;;;
 SON_bourgeois_dictatorship;;;;;;;;;;;;;;
 SON_fascist_dictatorship;;;;;;;;;;;;;;
-SON_ADJ;령;;;;;;;;;;;;x;
+SON_ADJ;령;;;;;;;;;;;;;;
 #####SPU(South Peru)#####
 SPU_absolute_monarchy;;;;;;;;;;;;;;
 SPU_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -710,7 +710,7 @@ SPU_proletarian_dictatorship;;;;;;;;;;;;;;
 SPU_presidential_dictatorship;;;;;;;;;;;;;;
 SPU_bourgeois_dictatorship;;;;;;;;;;;;;;
 SPU_fascist_dictatorship;;;;;;;;;;;;;;
-SPU_ADJ;령;;;;;;;;;;;;x;
+SPU_ADJ;령;;;;;;;;;;;;;;
 #####YUC(Yucatan)#####
 YUC_absolute_monarchy;;;;;;;;;;;;;;
 YUC_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -720,7 +720,7 @@ YUC_proletarian_dictatorship;;;;;;;;;;;;;;
 YUC_presidential_dictatorship;;;;;;;;;;;;;;
 YUC_bourgeois_dictatorship;;;;;;;;;;;;;;
 YUC_fascist_dictatorship;;;;;;;;;;;;;;
-YUC_ADJ;령;;;;;;;;;;;;x;
+YUC_ADJ;령;;;;;;;;;;;;;;
 #North America
 #####BLZ(Belize)#####
 BLZ_absolute_monarchy;;;;;;;;;;;;;;
@@ -731,7 +731,7 @@ BLZ_proletarian_dictatorship;;;;;;;;;;;;;;
 BLZ_presidential_dictatorship;;;;;;;;;;;;;;
 BLZ_bourgeois_dictatorship;;;;;;;;;;;;;;
 BLZ_fascist_dictatorship;;;;;;;;;;;;;;
-BLZ_ADJ;령;;;;;;;;;;;;x;
+BLZ_ADJ;령;;;;;;;;;;;;;;
 #####DAK(Dakota)#####
 DAK_absolute_monarchy;;;;;;;;;;;;;;
 DAK_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -741,7 +741,7 @@ DAK_proletarian_dictatorship;;;;;;;;;;;;;;
 DAK_presidential_dictatorship;;;;;;;;;;;;;;
 DAK_bourgeois_dictatorship;;;;;;;;;;;;;;
 DAK_fascist_dictatorship;;;;;;;;;;;;;;
-DAK_ADJ;령;;;;;;;;;;;;x;
+DAK_ADJ;령;;;;;;;;;;;;;;
 #####FSA(Free States of America)#####
 FSA_absolute_monarchy;;;;;;;;;;;;;;
 FSA_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -751,7 +751,7 @@ FSA_proletarian_dictatorship;;;;;;;;;;;;;;
 FSA_presidential_dictatorship;;;;;;;;;;;;;;
 FSA_bourgeois_dictatorship;;;;;;;;;;;;;;
 FSA_fascist_dictatorship;;;;;;;;;;;;;;
-FSA_ADJ;령;;;;;;;;;;;;x;
+FSA_ADJ;령;;;;;;;;;;;;;;
 #####GRN(Greenland)#####
 GRN_absolute_monarchy;;;;;;;;;;;;;;
 GRN_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -761,7 +761,7 @@ GRN_proletarian_dictatorship;;;;;;;;;;;;;;
 GRN_presidential_dictatorship;;;;;;;;;;;;;;
 GRN_bourgeois_dictatorship;;;;;;;;;;;;;;
 GRN_fascist_dictatorship;;;;;;;;;;;;;;
-GRN_ADJ;령;;;;;;;;;;;;x;
+GRN_ADJ;령;;;;;;;;;;;;;;
 #####JAM(Jamaica)#####
 JAM_absolute_monarchy;;;;;;;;;;;;;;
 JAM_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -771,7 +771,7 @@ JAM_proletarian_dictatorship;;;;;;;;;;;;;;
 JAM_presidential_dictatorship;;;;;;;;;;;;;;
 JAM_bourgeois_dictatorship;;;;;;;;;;;;;;
 JAM_fascist_dictatorship;;;;;;;;;;;;;;
-JAM_ADJ;령;;;;;;;;;;;;x;
+JAM_ADJ;령;;;;;;;;;;;;;;
 #####LSK(Alaska)#####
 LSK_absolute_monarchy;;;;;;;;;;;;;;
 LSK_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -781,7 +781,7 @@ LSK_proletarian_dictatorship;;;;;;;;;;;;;;
 LSK_presidential_dictatorship;;;;;;;;;;;;;;
 LSK_bourgeois_dictatorship;;;;;;;;;;;;;;
 LSK_fascist_dictatorship;;;;;;;;;;;;;;
-LSK_ADJ;령;;;;;;;;;;;;x;
+LSK_ADJ;령;;;;;;;;;;;;;;
 #####MRU(Maritime Union)#####
 MRU_absolute_monarchy;;;;;;;;;;;;;;
 MRU_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -791,7 +791,7 @@ MRU_proletarian_dictatorship;;;;;;;;;;;;;;
 MRU_presidential_dictatorship;;;;;;;;;;;;;;
 MRU_bourgeois_dictatorship;;;;;;;;;;;;;;
 MRU_fascist_dictatorship;;;;;;;;;;;;;;
-MRU_ADJ;령;;;;;;;;;;;;x;
+MRU_ADJ;령;;;;;;;;;;;;;;
 #####PRI(Puerto Rico)#####
 PRI_absolute_monarchy;;;;;;;;;;;;;;
 PRI_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -801,7 +801,7 @@ PRI_proletarian_dictatorship;;;;;;;;;;;;;;
 PRI_presidential_dictatorship;;;;;;;;;;;;;;
 PRI_bourgeois_dictatorship;;;;;;;;;;;;;;
 PRI_fascist_dictatorship;;;;;;;;;;;;;;
-PRI_ADJ;령;;;;;;;;;;;;x;
+PRI_ADJ;령;;;;;;;;;;;;;;
 #####RPL(Rupert's Land)#####
 RPL_absolute_monarchy;;;;;;;;;;;;;;
 RPL_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -811,7 +811,7 @@ RPL_proletarian_dictatorship;;;;;;;;;;;;;;
 RPL_presidential_dictatorship;;;;;;;;;;;;;;
 RPL_bourgeois_dictatorship;;;;;;;;;;;;;;
 RPL_fascist_dictatorship;;;;;;;;;;;;;;
-RPL_ADJ;령;;;;;;;;;;;;x;
+RPL_ADJ;령;;;;;;;;;;;;;;
 #####TTB(Trinidad)#####
 TTB_absolute_monarchy;;;;;;;;;;;;;;
 TTB_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -821,7 +821,7 @@ TTB_proletarian_dictatorship;;;;;;;;;;;;;;
 TTB_presidential_dictatorship;;;;;;;;;;;;;;
 TTB_bourgeois_dictatorship;;;;;;;;;;;;;;
 TTB_fascist_dictatorship;;;;;;;;;;;;;;
-TTB_ADJ;령;;;;;;;;;;;;x;
+TTB_ADJ;령;;;;;;;;;;;;;;
 #####UIL(Illinois)#####
 UIL_absolute_monarchy;;;;;;;;;;;;;;
 UIL_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -831,7 +831,7 @@ UIL_proletarian_dictatorship;;;;;;;;;;;;;;
 UIL_presidential_dictatorship;;;;;;;;;;;;;;
 UIL_bourgeois_dictatorship;;;;;;;;;;;;;;
 UIL_fascist_dictatorship;;;;;;;;;;;;;;
-UIL_ADJ;령;;;;;;;;;;;;x;
+UIL_ADJ;령;;;;;;;;;;;;;;
 #####UNB(Nebraska)#####
 UNB_absolute_monarchy;;;;;;;;;;;;;;
 UNB_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -841,7 +841,7 @@ UNB_proletarian_dictatorship;;;;;;;;;;;;;;
 UNB_presidential_dictatorship;;;;;;;;;;;;;;
 UNB_bourgeois_dictatorship;;;;;;;;;;;;;;
 UNB_fascist_dictatorship;;;;;;;;;;;;;;
-UNB_ADJ;령;;;;;;;;;;;;x;
+UNB_ADJ;령;;;;;;;;;;;;;;
 #####UNM(New Mexico)#####
 UNM_absolute_monarchy;;;;;;;;;;;;;;
 UNM_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -851,7 +851,7 @@ UNM_proletarian_dictatorship;;;;;;;;;;;;;;
 UNM_presidential_dictatorship;;;;;;;;;;;;;;
 UNM_bourgeois_dictatorship;;;;;;;;;;;;;;
 UNM_fascist_dictatorship;;;;;;;;;;;;;;
-UNM_ADJ;령;;;;;;;;;;;;x;
+UNM_ADJ;령;;;;;;;;;;;;;;
 #####UOR(Oregon)#####
 UOR_absolute_monarchy;;;;;;;;;;;;;;
 UOR_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -861,7 +861,7 @@ UOR_proletarian_dictatorship;;;;;;;;;;;;;;
 UOR_presidential_dictatorship;;;;;;;;;;;;;;
 UOR_bourgeois_dictatorship;;;;;;;;;;;;;;
 UOR_fascist_dictatorship;;;;;;;;;;;;;;
-UOR_ADJ;령;;;;;;;;;;;;x;
+UOR_ADJ;령;;;;;;;;;;;;;;
 #Europe
 #####ALS(Elsass)#####
 ALS_absolute_monarchy;;;;;;;;;;;;;;
@@ -872,7 +872,7 @@ ALS_proletarian_dictatorship;;;;;;;;;;;;;;
 ALS_presidential_dictatorship;;;;;;;;;;;;;;
 ALS_bourgeois_dictatorship;;;;;;;;;;;;;;
 ALS_fascist_dictatorship;;;;;;;;;;;;;;
-ALS_ADJ;령;;;;;;;;;;;;x;
+ALS_ADJ;령;;;;;;;;;;;;;;
 #####ATR(Asturias)#####
 ATR_absolute_monarchy;;;;;;;;;;;;;;
 ATR_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -882,7 +882,7 @@ ATR_proletarian_dictatorship;;;;;;;;;;;;;;
 ATR_presidential_dictatorship;;;;;;;;;;;;;;
 ATR_bourgeois_dictatorship;;;;;;;;;;;;;;
 ATR_fascist_dictatorship;;;;;;;;;;;;;;
-ATR_ADJ;령;;;;;;;;;;;;x;
+ATR_ADJ;령;;;;;;;;;;;;;;
 #####BAN(Banat)#####
 BAN_absolute_monarchy;;;;;;;;;;;;;;
 BAN_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -892,7 +892,7 @@ BAN_proletarian_dictatorship;;;;;;;;;;;;;;
 BAN_presidential_dictatorship;;;;;;;;;;;;;;
 BAN_bourgeois_dictatorship;;;;;;;;;;;;;;
 BAN_fascist_dictatorship;;;;;;;;;;;;;;
-BAN_ADJ;령;;;;;;;;;;;;x;
+BAN_ADJ;령;;;;;;;;;;;;;;
 #####BKV(Bukovina)#####
 BKV_absolute_monarchy;;;;;;;;;;;;;;
 BKV_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -902,7 +902,7 @@ BKV_proletarian_dictatorship;;;;;;;;;;;;;;
 BKV_presidential_dictatorship;;;;;;;;;;;;;;
 BKV_bourgeois_dictatorship;;;;;;;;;;;;;;
 BKV_fascist_dictatorship;;;;;;;;;;;;;;
-BKV_ADJ;령;;;;;;;;;;;;x;
+BKV_ADJ;령;;;;;;;;;;;;;;
 #####BRT(Brittany)#####
 BRT_absolute_monarchy;;;;;;;;;;;;;;
 BRT_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -912,7 +912,7 @@ BRT_proletarian_dictatorship;;;;;;;;;;;;;;
 BRT_presidential_dictatorship;;;;;;;;;;;;;;
 BRT_bourgeois_dictatorship;;;;;;;;;;;;;;
 BRT_fascist_dictatorship;;;;;;;;;;;;;;
-BRT_ADJ;령;;;;;;;;;;;;x;
+BRT_ADJ;령;;;;;;;;;;;;;;
 #####BSQ(Basqueland)#####
 BSQ_absolute_monarchy;;;;;;;;;;;;;;
 BSQ_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -922,7 +922,7 @@ BSQ_proletarian_dictatorship;;;;;;;;;;;;;;
 BSQ_presidential_dictatorship;;;;;;;;;;;;;;
 BSQ_bourgeois_dictatorship;;;;;;;;;;;;;;
 BSQ_fascist_dictatorship;;;;;;;;;;;;;;
-BSQ_ADJ;령;;;;;;;;;;;;x;
+BSQ_ADJ;령;;;;;;;;;;;;;;
 #####CRS(Corsica)#####
 CRS_absolute_monarchy;;;;;;;;;;;;;;
 CRS_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -932,7 +932,7 @@ CRS_proletarian_dictatorship;;;;;;;;;;;;;;
 CRS_presidential_dictatorship;;;;;;;;;;;;;;
 CRS_bourgeois_dictatorship;;;;;;;;;;;;;;
 CRS_fascist_dictatorship;;;;;;;;;;;;;;
-CRS_ADJ;령;;;;;;;;;;;;x;
+CRS_ADJ;령;;;;;;;;;;;;;;
 #####DLM(Dalmatia)#####
 DLM_absolute_monarchy;;;;;;;;;;;;;;
 DLM_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -942,7 +942,7 @@ DLM_proletarian_dictatorship;;;;;;;;;;;;;;
 DLM_presidential_dictatorship;;;;;;;;;;;;;;
 DLM_bourgeois_dictatorship;;;;;;;;;;;;;;
 DLM_fascist_dictatorship;;;;;;;;;;;;;;
-DLM_ADJ;령;;;;;;;;;;;;x;
+DLM_ADJ;령;;;;;;;;;;;;;;
 #####ENL(England)#####
 ENL_absolute_monarchy;;;;;;;;;;;;;;
 ENL_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -952,7 +952,7 @@ ENL_proletarian_dictatorship;;;;;;;;;;;;;;
 ENL_presidential_dictatorship;;;;;;;;;;;;;;
 ENL_bourgeois_dictatorship;;;;;;;;;;;;;;
 ENL_fascist_dictatorship;;;;;;;;;;;;;;
-ENL_ADJ;령;;;;;;;;;;;;x;
+ENL_ADJ;령;;;;;;;;;;;;;;
 #####GLC(Galicia)#####
 GLC_absolute_monarchy;;;;;;;;;;;;;;
 GLC_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -962,7 +962,7 @@ GLC_proletarian_dictatorship;;;;;;;;;;;;;;
 GLC_presidential_dictatorship;;;;;;;;;;;;;;
 GLC_bourgeois_dictatorship;;;;;;;;;;;;;;
 GLC_fascist_dictatorship;;;;;;;;;;;;;;
-GLC_ADJ;령;;;;;;;;;;;;x;
+GLC_ADJ;령;;;;;;;;;;;;;;
 #####GLM(Galicia-Lodomeria)#####
 GLM_absolute_monarchy;;;;;;;;;;;;;;
 GLM_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -972,7 +972,7 @@ GLM_proletarian_dictatorship;;;;;;;;;;;;;;
 GLM_presidential_dictatorship;;;;;;;;;;;;;;
 GLM_bourgeois_dictatorship;;;;;;;;;;;;;;
 GLM_fascist_dictatorship;;;;;;;;;;;;;;
-GLM_ADJ;령;;;;;;;;;;;;x;
+GLM_ADJ;령;;;;;;;;;;;;;;
 #####LOR(Lorraine)#####
 LOR_absolute_monarchy;;;;;;;;;;;;;;
 LOR_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -982,7 +982,7 @@ LOR_proletarian_dictatorship;;;;;;;;;;;;;;
 LOR_presidential_dictatorship;;;;;;;;;;;;;;
 LOR_bourgeois_dictatorship;;;;;;;;;;;;;;
 LOR_fascist_dictatorship;;;;;;;;;;;;;;
-LOR_ADJ;령;;;;;;;;;;;;x;
+LOR_ADJ;령;;;;;;;;;;;;;;
 #####MCD(Macedonia)#####
 MCD_absolute_monarchy;;;;;;;;;;;;;;
 MCD_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -992,7 +992,7 @@ MCD_proletarian_dictatorship;;;;;;;;;;;;;;
 MCD_presidential_dictatorship;;;;;;;;;;;;;;
 MCD_bourgeois_dictatorship;;;;;;;;;;;;;;
 MCD_fascist_dictatorship;;;;;;;;;;;;;;
-MCD_ADJ;령;;;;;;;;;;;;x;
+MCD_ADJ;령;;;;;;;;;;;;;;
 #####MLT(Malta)#####
 MLT_absolute_monarchy;;;;;;;;;;;;;;
 MLT_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1002,7 +1002,7 @@ MLT_proletarian_dictatorship;;;;;;;;;;;;;;
 MLT_presidential_dictatorship;;;;;;;;;;;;;;
 MLT_bourgeois_dictatorship;;;;;;;;;;;;;;
 MLT_fascist_dictatorship;;;;;;;;;;;;;;
-MLT_ADJ;령;;;;;;;;;;;;x;
+MLT_ADJ;령;;;;;;;;;;;;;;
 #####OCC(Occitania)#####
 OCC_absolute_monarchy;;;;;;;;;;;;;;
 OCC_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1012,7 +1012,7 @@ OCC_proletarian_dictatorship;;;;;;;;;;;;;;
 OCC_presidential_dictatorship;;;;;;;;;;;;;;
 OCC_bourgeois_dictatorship;;;;;;;;;;;;;;
 OCC_fascist_dictatorship;;;;;;;;;;;;;;
-OCC_ADJ;령;;;;;;;;;;;;x;
+OCC_ADJ;령;;;;;;;;;;;;;;
 #####RMG(Romagna)#####
 RMG_absolute_monarchy;;;;;;;;;;;;;;
 RMG_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1022,7 +1022,7 @@ RMG_proletarian_dictatorship;;;;;;;;;;;;;;
 RMG_presidential_dictatorship;;;;;;;;;;;;;;
 RMG_bourgeois_dictatorship;;;;;;;;;;;;;;
 RMG_fascist_dictatorship;;;;;;;;;;;;;;
-RMG_ADJ;령;;;;;;;;;;;;x;
+RMG_ADJ;령;;;;;;;;;;;;;;
 #####SPC(Carlist Spain)#####
 SPC_absolute_monarchy;;;;;;;;;;;;;;
 SPC_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1032,7 +1032,7 @@ SPC_proletarian_dictatorship;;;;;;;;;;;;;;
 SPC_presidential_dictatorship;;;;;;;;;;;;;;
 SPC_bourgeois_dictatorship;;;;;;;;;;;;;;
 SPC_fascist_dictatorship;;;;;;;;;;;;;;
-SPC_ADJ;령;;;;;;;;;;;;x;
+SPC_ADJ;령;;;;;;;;;;;;;;
 #####SRD(Sardinia)#####
 SRD_absolute_monarchy;;;;;;;;;;;;;;
 SRD_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1042,7 +1042,7 @@ SRD_proletarian_dictatorship;;;;;;;;;;;;;;
 SRD_presidential_dictatorship;;;;;;;;;;;;;;
 SRD_bourgeois_dictatorship;;;;;;;;;;;;;;
 SRD_fascist_dictatorship;;;;;;;;;;;;;;
-SRD_ADJ;령;;;;;;;;;;;;x;
+SRD_ADJ;령;;;;;;;;;;;;;;
 #####SVY(Savoy)#####
 SVY_absolute_monarchy;;;;;;;;;;;;;;
 SVY_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1052,7 +1052,7 @@ SVY_proletarian_dictatorship;;;;;;;;;;;;;;
 SVY_presidential_dictatorship;;;;;;;;;;;;;;
 SVY_bourgeois_dictatorship;;;;;;;;;;;;;;
 SVY_fascist_dictatorship;;;;;;;;;;;;;;
-SVY_ADJ;령;;;;;;;;;;;;x;
+SVY_ADJ;령;;;;;;;;;;;;;;
 #####SWH(Schleswig-Holstein)#####
 SWH_absolute_monarchy;;;;;;;;;;;;;;
 SWH_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1062,7 +1062,7 @@ SWH_proletarian_dictatorship;;;;;;;;;;;;;;
 SWH_presidential_dictatorship;;;;;;;;;;;;;;
 SWH_bourgeois_dictatorship;;;;;;;;;;;;;;
 SWH_fascist_dictatorship;;;;;;;;;;;;;;
-SWH_ADJ;령;;;;;;;;;;;;x;
+SWH_ADJ;령;;;;;;;;;;;;;;
 #####WHA(Wales)#####
 WHA_absolute_monarchy;;;;;;;;;;;;;;
 WHA_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1072,7 +1072,7 @@ WHA_proletarian_dictatorship;;;;;;;;;;;;;;
 WHA_presidential_dictatorship;;;;;;;;;;;;;;
 WHA_bourgeois_dictatorship;;;;;;;;;;;;;;
 WHA_fascist_dictatorship;;;;;;;;;;;;;;
-WHA_ADJ;령;;;;;;;;;;;;x;
+WHA_ADJ;령;;;;;;;;;;;;;;
 #Germany
 #####DNB(Danubian Federation)#####
 DNB_absolute_monarchy;;;;;;;;;;;;;;
@@ -1083,7 +1083,7 @@ DNB_proletarian_dictatorship;;;;;;;;;;;;;;
 DNB_presidential_dictatorship;;;;;;;;;;;;;;
 DNB_bourgeois_dictatorship;;;;;;;;;;;;;;
 DNB_fascist_dictatorship;;;;;;;;;;;;;;
-DNB_ADJ;령;;;;;;;;;;;;x;
+DNB_ADJ;령;;;;;;;;;;;;;;
 #####LUZ(Luzica)#####
 LUZ_absolute_monarchy;;;;;;;;;;;;;;
 LUZ_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1093,7 +1093,7 @@ LUZ_proletarian_dictatorship;;;;;;;;;;;;;;
 LUZ_presidential_dictatorship;;;;;;;;;;;;;;
 LUZ_bourgeois_dictatorship;;;;;;;;;;;;;;
 LUZ_fascist_dictatorship;;;;;;;;;;;;;;
-LUZ_ADJ;령;;;;;;;;;;;;x;
+LUZ_ADJ;령;;;;;;;;;;;;;;
 #####RHI(Rhineland)#####
 RHI_absolute_monarchy;;;;;;;;;;;;;;
 RHI_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1103,7 +1103,7 @@ RHI_proletarian_dictatorship;;;;;;;;;;;;;;
 RHI_presidential_dictatorship;;;;;;;;;;;;;;
 RHI_bourgeois_dictatorship;;;;;;;;;;;;;;
 RHI_fascist_dictatorship;;;;;;;;;;;;;;
-RHI_ADJ;령;;;;;;;;;;;;x;
+RHI_ADJ;령;;;;;;;;;;;;;;
 #####PML(Pomerelia)#####
 PML_absolute_monarchy;;;;;;;;;;;;;;
 PML_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1113,7 +1113,7 @@ PML_proletarian_dictatorship;;;;;;;;;;;;;;
 PML_presidential_dictatorship;;;;;;;;;;;;;;
 PML_bourgeois_dictatorship;;;;;;;;;;;;;;
 PML_fascist_dictatorship;;;;;;;;;;;;;;
-PML_ADJ;령;;;;;;;;;;;;x;
+PML_ADJ;령;;;;;;;;;;;;;;
 #####PZN(Poznan)#####
 PZN_absolute_monarchy;;;;;;;;;;;;;;
 PZN_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1123,7 +1123,7 @@ PZN_proletarian_dictatorship;;;;;;;;;;;;;;
 PZN_presidential_dictatorship;;;;;;;;;;;;;;
 PZN_bourgeois_dictatorship;;;;;;;;;;;;;;
 PZN_fascist_dictatorship;;;;;;;;;;;;;;
-PZN_ADJ;령;;;;;;;;;;;;x;
+PZN_ADJ;령;;;;;;;;;;;;;;
 #####SLS(Silesia)#####
 SLS_absolute_monarchy;;;;;;;;;;;;;;
 SLS_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1133,7 +1133,7 @@ SLS_proletarian_dictatorship;;;;;;;;;;;;;;
 SLS_presidential_dictatorship;;;;;;;;;;;;;;
 SLS_bourgeois_dictatorship;;;;;;;;;;;;;;
 SLS_fascist_dictatorship;;;;;;;;;;;;;;
-SLS_ADJ;령;;;;;;;;;;;;x;
+SLS_ADJ;령;;;;;;;;;;;;;;
 #####WES(Westfalen)#####
 WES_absolute_monarchy;;;;;;;;;;;;;;
 WES_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1143,7 +1143,7 @@ WES_proletarian_dictatorship;;;;;;;;;;;;;;
 WES_presidential_dictatorship;;;;;;;;;;;;;;
 WES_bourgeois_dictatorship;;;;;;;;;;;;;;
 WES_fascist_dictatorship;;;;;;;;;;;;;;
-WES_ADJ;령;;;;;;;;;;;;x;
+WES_ADJ;령;;;;;;;;;;;;;;
 #Russia
 #####AKH(Astrakhan)#####
 AKH_absolute_monarchy;;;;;;;;;;;;;;
@@ -1154,7 +1154,7 @@ AKH_proletarian_dictatorship;;;;;;;;;;;;;;
 AKH_presidential_dictatorship;;;;;;;;;;;;;;
 AKH_bourgeois_dictatorship;;;;;;;;;;;;;;
 AKH_fascist_dictatorship;;;;;;;;;;;;;;
-AKH_ADJ;령;;;;;;;;;;;;x;
+AKH_ADJ;령;;;;;;;;;;;;;;
 #####ALT(Altai Republic)#####
 ALT_absolute_monarchy;;;;;;;;;;;;;;
 ALT_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1164,7 +1164,7 @@ ALT_proletarian_dictatorship;;;;;;;;;;;;;;
 ALT_presidential_dictatorship;;;;;;;;;;;;;;
 ALT_bourgeois_dictatorship;;;;;;;;;;;;;;
 ALT_fascist_dictatorship;;;;;;;;;;;;;;
-ALT_ADJ;령;;;;;;;;;;;;x;
+ALT_ADJ;령;;;;;;;;;;;;;;
 #####CPL(Congress Poland)#####
 CPL_absolute_monarchy;;;;;;;;;;;;;;
 CPL_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1174,7 +1174,7 @@ CPL_proletarian_dictatorship;;;;;;;;;;;;;;
 CPL_presidential_dictatorship;;;;;;;;;;;;;;
 CPL_bourgeois_dictatorship;;;;;;;;;;;;;;
 CPL_fascist_dictatorship;;;;;;;;;;;;;;
-CPL_ADJ;령;;;;;;;;;;;;x;
+CPL_ADJ;령;;;;;;;;;;;;;;
 #####DON(Cossackia)#####
 DON_absolute_monarchy;;;;;;;;;;;;;;
 DON_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1184,7 +1184,7 @@ DON_proletarian_dictatorship;;;;;;;;;;;;;;
 DON_presidential_dictatorship;;;;;;;;;;;;;;
 DON_bourgeois_dictatorship;;;;;;;;;;;;;;
 DON_fascist_dictatorship;;;;;;;;;;;;;;
-DON_ADJ;령;;;;;;;;;;;;x;
+DON_ADJ;령;;;;;;;;;;;;;;
 #####IZH(Ingria)#####
 IZH_absolute_monarchy;;;;;;;;;;;;;;
 IZH_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1194,7 +1194,7 @@ IZH_proletarian_dictatorship;;;;;;;;;;;;;;
 IZH_presidential_dictatorship;;;;;;;;;;;;;;
 IZH_bourgeois_dictatorship;;;;;;;;;;;;;;
 IZH_fascist_dictatorship;;;;;;;;;;;;;;
-IZH_ADJ;령;;;;;;;;;;;;x;
+IZH_ADJ;령;;;;;;;;;;;;;;
 #####KAZ(Kazakhstan)#####
 KAZ_absolute_monarchy;;;;;;;;;;;;;;
 KAZ_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1204,7 +1204,7 @@ KAZ_proletarian_dictatorship;;;;;;;;;;;;;;
 KAZ_presidential_dictatorship;;;;;;;;;;;;;;
 KAZ_bourgeois_dictatorship;;;;;;;;;;;;;;
 KAZ_fascist_dictatorship;;;;;;;;;;;;;;
-KAZ_ADJ;령;;;;;;;;;;;;x;
+KAZ_ADJ;령;;;;;;;;;;;;;;
 #####KAM(Kamchatka)#####
 KAM_absolute_monarchy;;;;;;;;;;;;;;
 KAM_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1214,7 +1214,7 @@ KAM_proletarian_dictatorship;;;;;;;;;;;;;;
 KAM_presidential_dictatorship;;;;;;;;;;;;;;
 KAM_bourgeois_dictatorship;;;;;;;;;;;;;;
 KAM_fascist_dictatorship;;;;;;;;;;;;;;
-KAM_ADJ;령;;;;;;;;;;;;x;
+KAM_ADJ;령;;;;;;;;;;;;;;
 #####KMK(Kalmykia)#####
 KMK_absolute_monarchy;;;;;;;;;;;;;;
 KMK_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1224,7 +1224,7 @@ KMK_proletarian_dictatorship;;;;;;;;;;;;;;
 KMK_presidential_dictatorship;;;;;;;;;;;;;;
 KMK_bourgeois_dictatorship;;;;;;;;;;;;;;
 KMK_fascist_dictatorship;;;;;;;;;;;;;;
-KMK_ADJ;령;;;;;;;;;;;;x;
+KMK_ADJ;령;;;;;;;;;;;;;;
 #####KRL(Karelia)#####
 KRL_absolute_monarchy;;;;;;;;;;;;;;
 KRL_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1234,7 +1234,7 @@ KRL_proletarian_dictatorship;;;;;;;;;;;;;;
 KRL_presidential_dictatorship;;;;;;;;;;;;;;
 KRL_bourgeois_dictatorship;;;;;;;;;;;;;;
 KRL_fascist_dictatorship;;;;;;;;;;;;;;
-KRL_ADJ;령;;;;;;;;;;;;x;
+KRL_ADJ;령;;;;;;;;;;;;;;
 #####SIB(Siberian Republic)#####
 SIB_absolute_monarchy;;;;;;;;;;;;;;
 SIB_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1244,7 +1244,7 @@ SIB_proletarian_dictatorship;;;;;;;;;;;;;;
 SIB_presidential_dictatorship;;;;;;;;;;;;;;
 SIB_bourgeois_dictatorship;;;;;;;;;;;;;;
 SIB_fascist_dictatorship;;;;;;;;;;;;;;
-SIB_ADJ;령;;;;;;;;;;;;x;
+SIB_ADJ;령;;;;;;;;;;;;;;
 #####TAR(Tatarstan)#####
 TAR_absolute_monarchy;;;;;;;;;;;;;;
 TAR_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1254,7 +1254,7 @@ TAR_proletarian_dictatorship;;;;;;;;;;;;;;
 TAR_presidential_dictatorship;;;;;;;;;;;;;;
 TAR_bourgeois_dictatorship;;;;;;;;;;;;;;
 TAR_fascist_dictatorship;;;;;;;;;;;;;;
-TAR_ADJ;령;;;;;;;;;;;;x;
+TAR_ADJ;령;;;;;;;;;;;;;;
 #####TNT(Tannu Tuva)#####
 TNT_absolute_monarchy;;;;;;;;;;;;;;
 TNT_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1264,7 +1264,7 @@ TNT_proletarian_dictatorship;;;;;;;;;;;;;;
 TNT_presidential_dictatorship;;;;;;;;;;;;;;
 TNT_bourgeois_dictatorship;;;;;;;;;;;;;;
 TNT_fascist_dictatorship;;;;;;;;;;;;;;
-TNT_ADJ;령;;;;;;;;;;;;x;
+TNT_ADJ;령;;;;;;;;;;;;;;
 #####URA(Ural Republic)#####
 URA_absolute_monarchy;;;;;;;;;;;;;;
 URA_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1274,7 +1274,7 @@ URA_proletarian_dictatorship;;;;;;;;;;;;;;
 URA_presidential_dictatorship;;;;;;;;;;;;;;
 URA_bourgeois_dictatorship;;;;;;;;;;;;;;
 URA_fascist_dictatorship;;;;;;;;;;;;;;
-URA_ADJ;령;;;;;;;;;;;;x;
+URA_ADJ;령;;;;;;;;;;;;;;
 #####YAK(Yakutia)#####
 YAK_absolute_monarchy;;;;;;;;;;;;;;
 YAK_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1284,7 +1284,7 @@ YAK_proletarian_dictatorship;;;;;;;;;;;;;;
 YAK_presidential_dictatorship;;;;;;;;;;;;;;
 YAK_bourgeois_dictatorship;;;;;;;;;;;;;;
 YAK_fascist_dictatorship;;;;;;;;;;;;;;
-YAK_ADJ;령;;;;;;;;;;;;x;
+YAK_ADJ;령;;;;;;;;;;;;;;
 #Middle East
 #####ARU(Arab Union)#####
 ARU_absolute_monarchy;;;;;;;;;;;;;;
@@ -1295,7 +1295,7 @@ ARU_proletarian_dictatorship;;;;;;;;;;;;;;
 ARU_presidential_dictatorship;;;;;;;;;;;;;;
 ARU_bourgeois_dictatorship;;;;;;;;;;;;;;
 ARU_fascist_dictatorship;;;;;;;;;;;;;;
-ARU_ADJ;령;;;;;;;;;;;;x;
+ARU_ADJ;령;;;;;;;;;;;;;;
 #####ASY(Assyria)#####
 ASY_absolute_monarchy;;;;;;;;;;;;;;
 ASY_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1305,7 +1305,7 @@ ASY_proletarian_dictatorship;;;;;;;;;;;;;;
 ASY_presidential_dictatorship;;;;;;;;;;;;;;
 ASY_bourgeois_dictatorship;;;;;;;;;;;;;;
 ASY_fascist_dictatorship;;;;;;;;;;;;;;
-ASY_ADJ;령;;;;;;;;;;;;x;
+ASY_ADJ;령;;;;;;;;;;;;;;
 #####BHR(Bahrain)#####
 BHR_absolute_monarchy;;;;;;;;;;;;;;
 BHR_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1315,7 +1315,7 @@ BHR_proletarian_dictatorship;;;;;;;;;;;;;;
 BHR_presidential_dictatorship;;;;;;;;;;;;;;
 BHR_bourgeois_dictatorship;;;;;;;;;;;;;;
 BHR_fascist_dictatorship;;;;;;;;;;;;;;
-BHR_ADJ;령;;;;;;;;;;;;x;
+BHR_ADJ;령;;;;;;;;;;;;;;
 #####CIR(Circassia)#####
 CIR_absolute_monarchy;;;;;;;;;;;;;;
 CIR_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1325,7 +1325,7 @@ CIR_proletarian_dictatorship;;;;;;;;;;;;;;
 CIR_presidential_dictatorship;;;;;;;;;;;;;;
 CIR_bourgeois_dictatorship;;;;;;;;;;;;;;
 CIR_fascist_dictatorship;;;;;;;;;;;;;;
-CIR_ADJ;령;;;;;;;;;;;;x;
+CIR_ADJ;령;;;;;;;;;;;;;;
 #####CLC(Cilicia)#####
 CLC_absolute_monarchy;;;;;;;;;;;;;;
 CLC_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1335,7 +1335,7 @@ CLC_proletarian_dictatorship;;;;;;;;;;;;;;
 CLC_presidential_dictatorship;;;;;;;;;;;;;;
 CLC_bourgeois_dictatorship;;;;;;;;;;;;;;
 CLC_fascist_dictatorship;;;;;;;;;;;;;;
-CLC_ADJ;령;;;;;;;;;;;;x;
+CLC_ADJ;령;;;;;;;;;;;;;;
 #####DAG(Dagestan)#####
 DAG_absolute_monarchy;;;;;;;;;;;;;;
 DAG_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1345,7 +1345,7 @@ DAG_proletarian_dictatorship;;;;;;;;;;;;;;
 DAG_presidential_dictatorship;;;;;;;;;;;;;;
 DAG_bourgeois_dictatorship;;;;;;;;;;;;;;
 DAG_fascist_dictatorship;;;;;;;;;;;;;;
-DAG_ADJ;령;;;;;;;;;;;;x;
+DAG_ADJ;령;;;;;;;;;;;;;;
 #####DUR(Durrani Empire)#####
 DUR_absolute_monarchy;;;;;;;;;;;;;;
 DUR_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1355,7 +1355,7 @@ DUR_proletarian_dictatorship;;;;;;;;;;;;;;
 DUR_presidential_dictatorship;;;;;;;;;;;;;;
 DUR_bourgeois_dictatorship;;;;;;;;;;;;;;
 DUR_fascist_dictatorship;;;;;;;;;;;;;;
-DUR_ADJ;령;;;;;;;;;;;;x;
+DUR_ADJ;령;;;;;;;;;;;;;;
 #####HAL(Hail)#####
 HAL_absolute_monarchy;;;;;;;;;;;;;;
 HAL_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1365,7 +1365,7 @@ HAL_proletarian_dictatorship;;;;;;;;;;;;;;
 HAL_presidential_dictatorship;;;;;;;;;;;;;;
 HAL_bourgeois_dictatorship;;;;;;;;;;;;;;
 HAL_fascist_dictatorship;;;;;;;;;;;;;;
-HAL_ADJ;령;;;;;;;;;;;;x;
+HAL_ADJ;령;;;;;;;;;;;;;;
 #####HTY(Hatay)#####
 HTY_absolute_monarchy;;;;;;;;;;;;;;
 HTY_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1375,7 +1375,7 @@ HTY_proletarian_dictatorship;;;;;;;;;;;;;;
 HTY_presidential_dictatorship;;;;;;;;;;;;;;
 HTY_bourgeois_dictatorship;;;;;;;;;;;;;;
 HTY_fascist_dictatorship;;;;;;;;;;;;;;
-HTY_ADJ;령;;;;;;;;;;;;x;
+HTY_ADJ;령;;;;;;;;;;;;;;
 #####JOR(Jordan)#####
 JOR_absolute_monarchy;;;;;;;;;;;;;;
 JOR_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1385,7 +1385,7 @@ JOR_proletarian_dictatorship;;;;;;;;;;;;;;
 JOR_presidential_dictatorship;;;;;;;;;;;;;;
 JOR_bourgeois_dictatorship;;;;;;;;;;;;;;
 JOR_fascist_dictatorship;;;;;;;;;;;;;;
-JOR_ADJ;령;;;;;;;;;;;;x;
+JOR_ADJ;령;;;;;;;;;;;;;;
 #####KDS(Kurdistan)#####
 KDS_absolute_monarchy;;;;;;;;;;;;;;
 KDS_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1395,7 +1395,7 @@ KDS_proletarian_dictatorship;;;;;;;;;;;;;;
 KDS_presidential_dictatorship;;;;;;;;;;;;;;
 KDS_bourgeois_dictatorship;;;;;;;;;;;;;;
 KDS_fascist_dictatorship;;;;;;;;;;;;;;
-KDS_ADJ;령;;;;;;;;;;;;x;
+KDS_ADJ;령;;;;;;;;;;;;;;
 #####KWT(Kuwait)#####
 KWT_absolute_monarchy;;;;;;;;;;;;;;
 KWT_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1405,7 +1405,7 @@ KWT_proletarian_dictatorship;;;;;;;;;;;;;;
 KWT_presidential_dictatorship;;;;;;;;;;;;;;
 KWT_bourgeois_dictatorship;;;;;;;;;;;;;;
 KWT_fascist_dictatorship;;;;;;;;;;;;;;
-KWT_ADJ;령;;;;;;;;;;;;x;
+KWT_ADJ;령;;;;;;;;;;;;;;
 #####KYR(Kyrgyzstan)#####
 KYR_absolute_monarchy;;;;;;;;;;;;;;
 KYR_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1415,7 +1415,7 @@ KYR_proletarian_dictatorship;;;;;;;;;;;;;;
 KYR_presidential_dictatorship;;;;;;;;;;;;;;
 KYR_bourgeois_dictatorship;;;;;;;;;;;;;;
 KYR_fascist_dictatorship;;;;;;;;;;;;;;
-KYR_ADJ;령;;;;;;;;;;;;x;
+KYR_ADJ;령;;;;;;;;;;;;;;
 #####LBN(Lebanon)#####
 LBN_absolute_monarchy;;;;;;;;;;;;;;
 LBN_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1425,7 +1425,7 @@ LBN_proletarian_dictatorship;;;;;;;;;;;;;;
 LBN_presidential_dictatorship;;;;;;;;;;;;;;
 LBN_bourgeois_dictatorship;;;;;;;;;;;;;;
 LBN_fascist_dictatorship;;;;;;;;;;;;;;
-LBN_ADJ;령;;;;;;;;;;;;x;
+LBN_ADJ;령;;;;;;;;;;;;;;
 #####NYE(North Yemen)#####
 NYE_absolute_monarchy;;;;;;;;;;;;;;
 NYE_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1435,7 +1435,7 @@ NYE_proletarian_dictatorship;;;;;;;;;;;;;;
 NYE_presidential_dictatorship;;;;;;;;;;;;;;
 NYE_bourgeois_dictatorship;;;;;;;;;;;;;;
 NYE_fascist_dictatorship;;;;;;;;;;;;;;
-NYE_ADJ;령;;;;;;;;;;;;x;
+NYE_ADJ;령;;;;;;;;;;;;;;
 #####PLS(Palestine)#####
 PLS_absolute_monarchy;;;;;;;;;;;;;;
 PLS_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1445,7 +1445,7 @@ PLS_proletarian_dictatorship;;;;;;;;;;;;;;
 PLS_presidential_dictatorship;;;;;;;;;;;;;;
 PLS_bourgeois_dictatorship;;;;;;;;;;;;;;
 PLS_fascist_dictatorship;;;;;;;;;;;;;;
-PLS_ADJ;령;;;;;;;;;;;;x;
+PLS_ADJ;령;;;;;;;;;;;;;;
 #####PNT(Pontus)#####
 PNT_absolute_monarchy;;;;;;;;;;;;;;
 PNT_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1455,7 +1455,7 @@ PNT_proletarian_dictatorship;;;;;;;;;;;;;;
 PNT_presidential_dictatorship;;;;;;;;;;;;;;
 PNT_bourgeois_dictatorship;;;;;;;;;;;;;;
 PNT_fascist_dictatorship;;;;;;;;;;;;;;
-PNT_ADJ;령;;;;;;;;;;;;x;
+PNT_ADJ;령;;;;;;;;;;;;;;
 #####SYR(Syria)#####
 SYR_absolute_monarchy;;;;;;;;;;;;;;
 SYR_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1465,7 +1465,7 @@ SYR_proletarian_dictatorship;;;;;;;;;;;;;;
 SYR_presidential_dictatorship;;;;;;;;;;;;;;
 SYR_bourgeois_dictatorship;;;;;;;;;;;;;;
 SYR_fascist_dictatorship;;;;;;;;;;;;;;
-SYR_ADJ;령;;;;;;;;;;;;x;
+SYR_ADJ;령;;;;;;;;;;;;;;
 #####TAJ(Tajikstan)#####
 TAJ_absolute_monarchy;;;;;;;;;;;;;;
 TAJ_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1475,7 +1475,7 @@ TAJ_proletarian_dictatorship;;;;;;;;;;;;;;
 TAJ_presidential_dictatorship;;;;;;;;;;;;;;
 TAJ_bourgeois_dictatorship;;;;;;;;;;;;;;
 TAJ_fascist_dictatorship;;;;;;;;;;;;;;
-TAJ_ADJ;령;;;;;;;;;;;;x;
+TAJ_ADJ;령;;;;;;;;;;;;;;
 #####TCA(Transcaucasia)#####
 TCA_absolute_monarchy;;;;;;;;;;;;;;
 TCA_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1485,7 +1485,7 @@ TCA_proletarian_dictatorship;;;;;;;;;;;;;;
 TCA_presidential_dictatorship;;;;;;;;;;;;;;
 TCA_bourgeois_dictatorship;;;;;;;;;;;;;;
 TCA_fascist_dictatorship;;;;;;;;;;;;;;
-TCA_ADJ;령;;;;;;;;;;;;x;
+TCA_ADJ;령;;;;;;;;;;;;;;
 #####TKM(Turkmenistan)#####
 TKM_absolute_monarchy;;;;;;;;;;;;;;
 TKM_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1495,7 +1495,7 @@ TKM_proletarian_dictatorship;;;;;;;;;;;;;;
 TKM_presidential_dictatorship;;;;;;;;;;;;;;
 TKM_bourgeois_dictatorship;;;;;;;;;;;;;;
 TKM_fascist_dictatorship;;;;;;;;;;;;;;
-TKM_ADJ;령;;;;;;;;;;;;x;
+TKM_ADJ;령;;;;;;;;;;;;;;
 #####TKS(Turkestan)#####
 TKS_absolute_monarchy;;;;;;;;;;;;;;
 TKS_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1505,7 +1505,7 @@ TKS_proletarian_dictatorship;;;;;;;;;;;;;;
 TKS_presidential_dictatorship;;;;;;;;;;;;;;
 TKS_bourgeois_dictatorship;;;;;;;;;;;;;;
 TKS_fascist_dictatorship;;;;;;;;;;;;;;
-TKS_ADJ;령;;;;;;;;;;;;x;
+TKS_ADJ;령;;;;;;;;;;;;;;
 #####UYG(Uyghurstan)#####
 UYG_absolute_monarchy;;;;;;;;;;;;;;
 UYG_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1515,7 +1515,7 @@ UYG_proletarian_dictatorship;;;;;;;;;;;;;;
 UYG_presidential_dictatorship;;;;;;;;;;;;;;
 UYG_bourgeois_dictatorship;;;;;;;;;;;;;;
 UYG_fascist_dictatorship;;;;;;;;;;;;;;
-UYG_ADJ;령;;;;;;;;;;;;x;
+UYG_ADJ;령;;;;;;;;;;;;;;
 #####UZB(Uzbekistan)#####
 UZB_absolute_monarchy;;;;;;;;;;;;;;
 UZB_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1525,7 +1525,7 @@ UZB_proletarian_dictatorship;;;;;;;;;;;;;;
 UZB_presidential_dictatorship;;;;;;;;;;;;;;
 UZB_bourgeois_dictatorship;;;;;;;;;;;;;;
 UZB_fascist_dictatorship;;;;;;;;;;;;;;
-UZB_ADJ;령;;;;;;;;;;;;x;
+UZB_ADJ;령;;;;;;;;;;;;;;
 #India
 #####ASM(Assam)#####
 ASM_absolute_monarchy;;;;;;;;;;;;;;
@@ -1536,7 +1536,7 @@ ASM_proletarian_dictatorship;;;;;;;;;;;;;;
 ASM_presidential_dictatorship;;;;;;;;;;;;;;
 ASM_bourgeois_dictatorship;;;;;;;;;;;;;;
 ASM_fascist_dictatorship;;;;;;;;;;;;;;
-ASM_ADJ;령;;;;;;;;;;;;x;
+ASM_ADJ;령;;;;;;;;;;;;;;
 #####BIH(Bihar)#####
 BIH_absolute_monarchy;;;;;;;;;;;;;;
 BIH_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1546,7 +1546,7 @@ BIH_proletarian_dictatorship;;;;;;;;;;;;;;
 BIH_presidential_dictatorship;;;;;;;;;;;;;;
 BIH_bourgeois_dictatorship;;;;;;;;;;;;;;
 BIH_fascist_dictatorship;;;;;;;;;;;;;;
-BIH_ADJ;령;;;;;;;;;;;;x;
+BIH_ADJ;령;;;;;;;;;;;;;;
 #####BLC(Baluchistan)#####
 BLC_absolute_monarchy;;;;;;;;;;;;;;
 BLC_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1556,7 +1556,7 @@ BLC_proletarian_dictatorship;;;;;;;;;;;;;;
 BLC_presidential_dictatorship;;;;;;;;;;;;;;
 BLC_bourgeois_dictatorship;;;;;;;;;;;;;;
 BLC_fascist_dictatorship;;;;;;;;;;;;;;
-BLC_ADJ;령;;;;;;;;;;;;x;
+BLC_ADJ;령;;;;;;;;;;;;;;
 #####BNG(Bengal)#####
 BNG_absolute_monarchy;;;;;;;;;;;;;;
 BNG_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1566,7 +1566,7 @@ BNG_proletarian_dictatorship;;;;;;;;;;;;;;
 BNG_presidential_dictatorship;;;;;;;;;;;;;;
 BNG_bourgeois_dictatorship;;;;;;;;;;;;;;
 BNG_fascist_dictatorship;;;;;;;;;;;;;;
-BNG_ADJ;령;;;;;;;;;;;;x;
+BNG_ADJ;령;;;;;;;;;;;;;;
 #####DRA(Dravidistan)#####
 DRA_absolute_monarchy;;;;;;;;;;;;;;
 DRA_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1576,7 +1576,7 @@ DRA_proletarian_dictatorship;;;;;;;;;;;;;;
 DRA_presidential_dictatorship;;;;;;;;;;;;;;
 DRA_bourgeois_dictatorship;;;;;;;;;;;;;;
 DRA_fascist_dictatorship;;;;;;;;;;;;;;
-DRA_ADJ;령;;;;;;;;;;;;x;
+DRA_ADJ;령;;;;;;;;;;;;;;
 #####KRN(Karnatak)#####
 KRN_absolute_monarchy;;;;;;;;;;;;;;
 KRN_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1586,7 +1586,7 @@ KRN_proletarian_dictatorship;;;;;;;;;;;;;;
 KRN_presidential_dictatorship;;;;;;;;;;;;;;
 KRN_bourgeois_dictatorship;;;;;;;;;;;;;;
 KRN_fascist_dictatorship;;;;;;;;;;;;;;
-KRN_ADJ;령;;;;;;;;;;;;x;
+KRN_ADJ;령;;;;;;;;;;;;;;
 #####MAH(Maharashtra)#####
 MAH_absolute_monarchy;;;;;;;;;;;;;;
 MAH_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1596,7 +1596,7 @@ MAH_proletarian_dictatorship;;;;;;;;;;;;;;
 MAH_presidential_dictatorship;;;;;;;;;;;;;;
 MAH_bourgeois_dictatorship;;;;;;;;;;;;;;
 MAH_fascist_dictatorship;;;;;;;;;;;;;;
-MAH_ADJ;령;;;;;;;;;;;;x;
+MAH_ADJ;령;;;;;;;;;;;;;;
 ######MRT(Marathas)#####
 MRT_absolute_monarchy;;;;;;;;;;;;;;
 MRT_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1606,7 +1606,7 @@ MRT_proletarian_dictatorship;;;;;;;;;;;;;;
 MRT_presidential_dictatorship;;;;;;;;;;;;;;
 MRT_bourgeois_dictatorship;;;;;;;;;;;;;;
 MRT_fascist_dictatorship;;;;;;;;;;;;;;
-MRT_ADJ;령;;;;;;;;;;;;x;
+MRT_ADJ;령;;;;;;;;;;;;;;
 #####RAJ(Rajputana)#####
 RAJ_absolute_monarchy;;;;;;;;;;;;;;
 RAJ_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1616,7 +1616,7 @@ RAJ_proletarian_dictatorship;;;;;;;;;;;;;;
 RAJ_presidential_dictatorship;;;;;;;;;;;;;;
 RAJ_bourgeois_dictatorship;;;;;;;;;;;;;;
 RAJ_fascist_dictatorship;;;;;;;;;;;;;;
-RAJ_ADJ;령;;;;;;;;;;;;x;
+RAJ_ADJ;령;;;;;;;;;;;;;;
 #####SRI(Sri Lanka)#####
 SRI_absolute_monarchy;;;;;;;;;;;;;;
 SRI_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -1626,7 +1626,7 @@ SRI_proletarian_dictatorship;;;;;;;;;;;;;;
 SRI_presidential_dictatorship;;;;;;;;;;;;;;
 SRI_bourgeois_dictatorship;;;;;;;;;;;;;;
 SRI_fascist_dictatorship;;;;;;;;;;;;;;
-SRI_ADJ;령;;;;;;;;;;;;x;
+SRI_ADJ;령;;;;;;;;;;;;;;
 #Africa
 #####AGC(Angoche)#####
 AGC_absolute_monarchy;;;;;;;;;;;;;;
@@ -4704,7 +4704,7 @@ PEU_proletarian_dictatorship;;;;;;;;;;;;;;
 PEU_presidential_dictatorship;;;;;;;;;;;;;;
 PEU_bourgeois_dictatorship;;;;;;;;;;;;;;
 PEU_fascist_dictatorship;;;;;;;;;;;;;;
-PEU_ADJ;령;;;;;;;;;;;;x;
+PEU_ADJ;령;;;;;;;;;;;;;;
 #####PRG(Paraguay)#####
 PRG_absolute_monarchy;;;;;;;;;;;;;;
 PRG_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -4714,7 +4714,7 @@ PRG_proletarian_dictatorship;;;;;;;;;;;;;;
 PRG_presidential_dictatorship;;;;;;;;;;;;;;
 PRG_bourgeois_dictatorship;;;;;;;;;;;;;;
 PRG_fascist_dictatorship;;;;;;;;;;;;;;
-PRG_ADJ;령;;;;;;;;;;;;x;
+PRG_ADJ;령;;;;;;;;;;;;;;
 #####URU(Uruguay)#####
 URU_absolute_monarchy;;;;;;;;;;;;;;
 URU_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -4724,7 +4724,7 @@ URU_proletarian_dictatorship;;;;;;;;;;;;;;
 URU_presidential_dictatorship;;;;;;;;;;;;;;
 URU_bourgeois_dictatorship;;;;;;;;;;;;;;
 URU_fascist_dictatorship;;;;;;;;;;;;;;
-URU_ADJ;령;;;;;;;;;;;;x;
+URU_ADJ;령;;;;;;;;;;;;;;
 #####VNZ(Venezuela)#####
 VNZ_absolute_monarchy;;;;;;;;;;;;;;
 VNZ_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -4734,7 +4734,7 @@ VNZ_proletarian_dictatorship;;;;;;;;;;;;;;
 VNZ_presidential_dictatorship;;;;;;;;;;;;;;
 VNZ_bourgeois_dictatorship;;;;;;;;;;;;;;
 VNZ_fascist_dictatorship;;;;;;;;;;;;;;
-VNZ_ADJ;령;;;;;;;;;;;;x;
+VNZ_ADJ;령;;;;;;;;;;;;;;
 # Australasia
 #####AST(Australia)#####
 AST_absolute_monarchy;;;;;;;;;;;;;;
@@ -4745,7 +4745,7 @@ AST_proletarian_dictatorship;;;;;;;;;;;;;;
 AST_presidential_dictatorship;;;;;;;;;;;;;;
 AST_bourgeois_dictatorship;;;;;;;;;;;;;;
 AST_fascist_dictatorship;;;;;;;;;;;;;;
-AST_ADJ;령;;;;;;;;;;;;x;
+AST_ADJ;령;;;;;;;;;;;;;;
 #####NZL(New Zealand)#####
 NZL_absolute_monarchy;;;;;;;;;;;;;;
 NZL_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -4755,7 +4755,7 @@ NZL_proletarian_dictatorship;;;;;;;;;;;;;;
 NZL_presidential_dictatorship;;;;;;;;;;;;;;
 NZL_bourgeois_dictatorship;;;;;;;;;;;;;;
 NZL_fascist_dictatorship;;;;;;;;;;;;;;
-NZL_ADJ;령;;;;;;;;;;;;x;
+NZL_ADJ;령;;;;;;;;;;;;;;
 # Common Great Powers
 #####ENG(United Kingdom)#####
 ENG_absolute_monarchy;;;;;;;;;;;;;;
@@ -4766,7 +4766,7 @@ ENG_proletarian_dictatorship;;;;;;;;;;;;;;
 ENG_presidential_dictatorship;;;;;;;;;;;;;;
 ENG_bourgeois_dictatorship;;;;;;;;;;;;;;
 ENG_fascist_dictatorship;;;;;;;;;;;;;;
-ENG_ADJ;령;;;;;;;;;;;;x;
+ENG_ADJ;령;;;;;;;;;;;;;;
 #####RUS(Russia)#####
 RUS_absolute_monarchy;;;;;;;;;;;;;;
 RUS_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -4776,7 +4776,7 @@ RUS_proletarian_dictatorship;;;;;;;;;;;;;;
 RUS_presidential_dictatorship;;;;;;;;;;;;;;
 RUS_bourgeois_dictatorship;;;;;;;;;;;;;;
 RUS_fascist_dictatorship;;;;;;;;;;;;;;
-RUS_ADJ;령;;;;;;;;;;;;x;
+RUS_ADJ;령;;;;;;;;;;;;;;
 #####FRA(France)#####
 FRA_absolute_monarchy;;;;;;;;;;;;;;
 FRA_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -4786,7 +4786,7 @@ FRA_proletarian_dictatorship;;;;;;;;;;;;;;
 FRA_presidential_dictatorship;;;;;;;;;;;;;;
 FRA_bourgeois_dictatorship;;;;;;;;;;;;;;
 FRA_fascist_dictatorship;;;;;;;;;;;;;;
-FRA_ADJ;령;;;;;;;;;;;;x;
+FRA_ADJ;령;;;;;;;;;;;;;;
 #####PRU(Prussia)#####
 PRU_absolute_monarchy;;;;;;;;;;;;;;
 PRU_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -4796,7 +4796,7 @@ PRU_proletarian_dictatorship;;;;;;;;;;;;;;
 PRU_presidential_dictatorship;;;;;;;;;;;;;;
 PRU_bourgeois_dictatorship;;;;;;;;;;;;;;
 PRU_fascist_dictatorship;;;;;;;;;;;;;;
-PRU_ADJ;령;;;;;;;;;;;;x;
+PRU_ADJ;령;;;;;;;;;;;;;;
 #####GER(Germany)#####
 GER_absolute_monarchy;;;;;;;;;;;;;;
 GER_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -4806,7 +4806,7 @@ GER_proletarian_dictatorship;;;;;;;;;;;;;;
 GER_presidential_dictatorship;;;;;;;;;;;;;;
 GER_bourgeois_dictatorship;;;;;;;;;;;;;;
 GER_fascist_dictatorship;;;;;;;;;;;;;;
-GER_ADJ;령;;;;;;;;;;;;x;
+GER_ADJ;령;;;;;;;;;;;;;;
 #####AUS(Austria)#####
 AUS_absolute_monarchy;;;;;;;;;;;;;;
 AUS_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -4816,7 +4816,7 @@ AUS_proletarian_dictatorship;;;;;;;;;;;;;;
 AUS_presidential_dictatorship;;;;;;;;;;;;;;
 AUS_bourgeois_dictatorship;;;;;;;;;;;;;;
 AUS_fascist_dictatorship;;;;;;;;;;;;;;
-AUS_ADJ;령;;;;;;;;;;;;x;
+AUS_ADJ;령;;;;;;;;;;;;;;
 #####USA(USA)#####
 USA_absolute_monarchy;;;;;;;;;;;;;;
 USA_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -4826,7 +4826,7 @@ USA_proletarian_dictatorship;;;;;;;;;;;;;;
 USA_presidential_dictatorship;;;;;;;;;;;;;;
 USA_bourgeois_dictatorship;;;;;;;;;;;;;;
 USA_fascist_dictatorship;;;;;;;;;;;;;;
-USA_ADJ;령;;;;;;;;;;;;x;
+USA_ADJ;령;;;;;;;;;;;;;;
 #####JAP(Japan)#####
 JAP_absolute_monarchy;;;;;;;;;;;;;;
 JAP_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -4836,7 +4836,7 @@ JAP_proletarian_dictatorship;;;;;;;;;;;;;;
 JAP_presidential_dictatorship;;;;;;;;;;;;;;
 JAP_bourgeois_dictatorship;;;;;;;;;;;;;;
 JAP_fascist_dictatorship;;;;;;;;;;;;;;
-JAP_ADJ;령;;;;;;;;;;;;x;
+JAP_ADJ;령;;;;;;;;;;;;;;
 #####ITA(Italy)#####
 ITA_absolute_monarchy;;;;;;;;;;;;;;
 ITA_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -4846,7 +4846,7 @@ ITA_proletarian_dictatorship;;;;;;;;;;;;;;
 ITA_presidential_dictatorship;;;;;;;;;;;;;;
 ITA_bourgeois_dictatorship;;;;;;;;;;;;;;
 ITA_fascist_dictatorship;;;;;;;;;;;;;;
-ITA_ADJ;령;;;;;;;;;;;;x;
+ITA_ADJ;령;;;;;;;;;;;;;;
 #####KUK(Austria-Hungary)#####
 KRA_absolute_monarchy;;;;;;;;;;;;;;
 KUK_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -4856,7 +4856,7 @@ KUK_proletarian_dictatorship;;;;;;;;;;;;;;
 KUK_presidential_dictatorship;;;;;;;;;;;;;;
 KUK_bourgeois_dictatorship;;;;;;;;;;;;;;
 KUK_fascist_dictatorship;;;;;;;;;;;;;;
-KUK_ADJ;령;;;;;;;;;;;;x;
+KUK_ADJ;령;;;;;;;;;;;;;;
 #new for 1.2
 #####ISR(Israel)#####
 ISR_absolute_monarchy;;;;;;;;;;;;;;
@@ -4867,7 +4867,7 @@ ISR_proletarian_dictatorship;;;;;;;;;;;;;;
 ISR_presidential_dictatorship;;;;;;;;;;;;;;
 ISR_bourgeois_dictatorship;;;;;;;;;;;;;;
 ISR_fascist_dictatorship;;;;;;;;;;;;;;
-ISR_ADJ;령;;;;;;;;;;;;x;
+ISR_ADJ;령;;;;;;;;;;;;;;
 #####ICL(Iceland)#####
 ICL_absolute_monarchy;;;;;;;;;;;;;;
 ICL_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -4877,7 +4877,7 @@ ICL_proletarian_dictatorship;;;;;;;;;;;;;;
 ICL_presidential_dictatorship;;;;;;;;;;;;;;
 ICL_bourgeois_dictatorship;;;;;;;;;;;;;;
 ICL_fascist_dictatorship;;;;;;;;;;;;;;
-ICL_ADJ;령;;;;;;;;;;;;x;
+ICL_ADJ;령;;;;;;;;;;;;;;
 ##NNM and Vanilla Scrapped tags
 #####IBR(Iberia)#####
 IBR_absolute_monarchy;;;;;;;;;;;;;;
@@ -4888,7 +4888,7 @@ IBR_proletarian_dictatorship;;;;;;;;;;;;;;
 IBR_presidential_dictatorship;;;;;;;;;;;;;;
 IBR_bourgeois_dictatorship;;;;;;;;;;;;;;
 IBR_fascist_dictatorship;;;;;;;;;;;;;;
-IBR_ADJ;령;;;;;;;;;;;;x;
+IBR_ADJ;령;;;;;;;;;;;;;;
 #####BYZ(Byzantium)#####
 BYZ_absolute_monarchy;;;;;;;;;;;;;;
 BYZ_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -4898,7 +4898,7 @@ BYZ_proletarian_dictatorship;;;;;;;;;;;;;;
 BYZ_presidential_dictatorship;;;;;;;;;;;;;;
 BYZ_bourgeois_dictatorship;;;;;;;;;;;;;;
 BYZ_fascist_dictatorship;;;;;;;;;;;;;;
-BYZ_ADJ;령;;;;;;;;;;;;x;
+BYZ_ADJ;령;;;;;;;;;;;;;;
 #####BAB(Babylonia)#####
 BAB_absolute_monarchy;;;;;;;;;;;;;;
 BAB_prussian_constitutionalism;;;;;;;;;;;;;;
@@ -4908,7 +4908,7 @@ BAB_proletarian_dictatorship;;;;;;;;;;;;;;
 BAB_presidential_dictatorship;;;;;;;;;;;;;;
 BAB_bourgeois_dictatorship;;;;;;;;;;;;;;
 BAB_fascist_dictatorship;;;;;;;;;;;;;;
-BAB_ADJ;령;;;;;;;;;;;;x;
+BAB_ADJ;령;;;;;;;;;;;;;;
 #new for AHD
 #####TPG(Taiping)#####
 TPG_absolute_monarchy;;;;;;;;;;;;;;
@@ -4919,7 +4919,7 @@ TPG_proletarian_dictatorship;;;;;;;;;;;;;;
 TPG_presidential_dictatorship;;;;;;;;;;;;;;
 TPG_bourgeois_dictatorship;;;;;;;;;;;;;;
 TPG_fascist_dictatorship;;;;;;;;;;;;;;
-TPG_ADJ;령;;;;;;;;;;;;x;
+TPG_ADJ;령;;;;;;;;;;;;;;
 ##EIC
 #####EIC(East India Company)#####
 EIC_absolute_monarchy;;;;;;;;;;;;;;
@@ -4930,869 +4930,4 @@ EIC_proletarian_dictatorship;;;;;;;;;;;;;;
 EIC_presidential_dictatorship;;;;;;;;;;;;;;
 EIC_bourgeois_dictatorship;;;;;;;;;;;;;;
 EIC_fascist_dictatorship;;;;;;;;;;;;;;
-EIC_ADJ;령;;;;;;;;;;;;x;
-;
-MAK^_proletarian^_dictatorship;;;;;;;;;;;;;;
-MAK^_presidential^_dictatorship;;;;;;;;;;;;;;
-MAK^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-MAK^_fascist^_dictatorship;;;;;;;;;;;;;;
-MAK^_ADJ;령;;;;;;;;;;;;;;
-#####MEW(Mewar)#####
-MEW^_absolute^_monarchy;;;;;;;;;;;;;;
-MEW^_prussian^_constitutionalism;;;;;;;;;;;;;;
-MEW^_hms^_government;;;;;;;;;;;;;;
-MEW^_democracy;;;;;;;;;;;;;;
-MEW^_proletarian^_dictatorship;;;;;;;;;;;;;;
-MEW^_presidential^_dictatorship;;;;;;;;;;;;;;
-MEW^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-MEW^_fascist^_dictatorship;;;;;;;;;;;;;;
-MEW^_ADJ;령;;;;;;;;;;;;;;
-#####MYS(Mysore)#####
-MYS^_absolute^_monarchy;;;;;;;;;;;;;;
-MYS^_prussian^_constitutionalism;;;;;;;;;;;;;;
-MYS^_hms^_government;;;;;;;;;;;;;;
-MYS^_democracy;;;;;;;;;;;;;;
-MYS^_proletarian^_dictatorship;;;;;;;;;;;;;;
-MYS^_presidential^_dictatorship;;;;;;;;;;;;;;
-MYS^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-MYS^_fascist^_dictatorship;;;;;;;;;;;;;;
-MYS^_ADJ;령;;;;;;;;;;;;;;
-#####NAG(Nagpur)#####
-NAG^_absolute^_monarchy;;;;;;;;;;;;;;
-NAG^_prussian^_constitutionalism;;;;;;;;;;;;;;
-NAG^_hms^_government;;;;;;;;;;;;;;
-NAG^_democracy;;;;;;;;;;;;;;
-NAG^_proletarian^_dictatorship;;;;;;;;;;;;;;
-NAG^_presidential^_dictatorship;;;;;;;;;;;;;;
-NAG^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-NAG^_fascist^_dictatorship;;;;;;;;;;;;;;
-NAG^_ADJ;령;;;;;;;;;;;;;;
-#####NEP(Nepal)#####
-NEP^_absolute^_monarchy;;;;;;;;;;;;;;
-NEP^_prussian^_constitutionalism;;;;;;;;;;;;;;
-NEP^_hms^_government;;;;;;;;;;;;;;
-NEP^_democracy;;;;;;;;;;;;;;
-NEP^_proletarian^_dictatorship;;;;;;;;;;;;;;
-NEP^_presidential^_dictatorship;;;;;;;;;;;;;;
-NEP^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-NEP^_fascist^_dictatorship;;;;;;;;;;;;;;
-NEP^_ADJ;령;;;;;;;;;;;;;;
-#####ORI(Orissa)#####
-ORI^_absolute^_monarchy;;;;;;;;;;;;;;
-ORI^_prussian^_constitutionalism;;;;;;;;;;;;;;
-ORI^_hms^_government;;;;;;;;;;;;;;
-ORI^_democracy;;;;;;;;;;;;;;
-ORI^_proletarian^_dictatorship;;;;;;;;;;;;;;
-ORI^_presidential^_dictatorship;;;;;;;;;;;;;;
-ORI^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-ORI^_fascist^_dictatorship;;;;;;;;;;;;;;
-ORI^_ADJ;령;;;;;;;;;;;;;;
-#####PNJ(Panjab)#####
-PNJ^_absolute^_monarchy;;;;;;;;;;;;;;
-PNJ^_prussian^_constitutionalism;;;;;;;;;;;;;;
-PNJ^_hms^_government;;;;;;;;;;;;;;
-PNJ^_democracy;;;;;;;;;;;;;;
-PNJ^_proletarian^_dictatorship;;;;;;;;;;;;;;
-PNJ^_presidential^_dictatorship;;;;;;;;;;;;;;
-PNJ^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-PNJ^_fascist^_dictatorship;;;;;;;;;;;;;;
-PNJ^_ADJ;령;;;;;;;;;;;;;;
-#####SHI(Shimla)#####
-SHI^_absolute^_monarchy;;;;;;;;;;;;;;
-SHI^_prussian^_constitutionalism;;;;;;;;;;;;;;
-SHI^_hms^_government;;;;;;;;;;;;;;
-SHI^_democracy;;;;;;;;;;;;;;
-SHI^_proletarian^_dictatorship;;;;;;;;;;;;;;
-SHI^_presidential^_dictatorship;;;;;;;;;;;;;;
-SHI^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-SHI^_fascist^_dictatorship;;;;;;;;;;;;;;
-SHI^_ADJ;령;;;;;;;;;;;;;;
-#####SIK(Sikkim)#####
-SIK^_absolute^_monarchy;;;;;;;;;;;;;;
-SIK^_prussian^_constitutionalism;;;;;;;;;;;;;;
-SIK^_hms^_government;;;;;;;;;;;;;;
-SIK^_democracy;;;;;;;;;;;;;;
-SIK^_proletarian^_dictatorship;;;;;;;;;;;;;;
-SIK^_presidential^_dictatorship;;;;;;;;;;;;;;
-SIK^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-SIK^_fascist^_dictatorship;;;;;;;;;;;;;;
-SIK^_ADJ;령;;;;;;;;;;;;;;
-#####SIN(Sind)#####
-SIN^_absolute^_monarchy;;;;;;;;;;;;;;
-SIN^_prussian^_constitutionalism;;;;;;;;;;;;;;
-SIN^_hms^_government;;;;;;;;;;;;;;
-SIN^_democracy;;;;;;;;;;;;;;
-SIN^_proletarian^_dictatorship;;;;;;;;;;;;;;
-SIN^_presidential^_dictatorship;;;;;;;;;;;;;;
-SIN^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-SIN^_fascist^_dictatorship;;;;;;;;;;;;;;
-SIN^_ADJ;령;;;;;;;;;;;;;;
-#####TRA(Travancore)#####
-TRA^_absolute^_monarchy;;;;;;;;;;;;;;
-TRA^_prussian^_constitutionalism;;;;;;;;;;;;;;
-TRA^_hms^_government;;;;;;;;;;;;;;
-TRA^_democracy;;;;;;;;;;;;;;
-TRA^_proletarian^_dictatorship;;;;;;;;;;;;;;
-TRA^_presidential^_dictatorship;;;;;;;;;;;;;;
-TRA^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-TRA^_fascist^_dictatorship;;;;;;;;;;;;;;
-TRA^_ADJ;령;;;;;;;;;;;;;;
-# Eastern Asia
-#####ATJ(Atjeh)#####
-ATJ^_absolute^_monarchy;;;;;;;;;;;;;;
-ATJ^_prussian^_constitutionalism;;;;;;;;;;;;;;
-ATJ^_hms^_government;;;;;;;;;;;;;;
-ATJ^_democracy;;;;;;;;;;;;;;
-ATJ^_proletarian^_dictatorship;;;;;;;;;;;;;;
-ATJ^_presidential^_dictatorship;;;;;;;;;;;;;;
-ATJ^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-ATJ^_fascist^_dictatorship;;;;;;;;;;;;;;
-ATJ^_ADJ;령;;;;;;;;;;;;;;
-#####BAL(Bali)#####
-BAL^_absolute^_monarchy;;;;;;;;;;;;;;
-BAL^_prussian^_constitutionalism;;;;;;;;;;;;;;
-BAL^_hms^_government;;;;;;;;;;;;;;
-BAL^_democracy;;;;;;;;;;;;;;
-BAL^_proletarian^_dictatorship;;;;;;;;;;;;;;
-BAL^_presidential^_dictatorship;;;;;;;;;;;;;;
-BAL^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-BAL^_fascist^_dictatorship;;;;;;;;;;;;;;
-BAL^_ADJ;령;;;;;;;;;;;;;;
-#####BHU(Bhutan)#####
-BHU^_absolute^_monarchy;;;;;;;;;;;;;;
-BHU^_prussian^_constitutionalism;;;;;;;;;;;;;;
-BHU^_hms^_government;;;;;;;;;;;;;;
-BHU^_democracy;;;;;;;;;;;;;;
-BHU^_proletarian^_dictatorship;;;;;;;;;;;;;;
-BHU^_presidential^_dictatorship;;;;;;;;;;;;;;
-BHU^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-BHU^_fascist^_dictatorship;;;;;;;;;;;;;;
-BHU^_ADJ;령;;;;;;;;;;;;;;
-#####BRU(Brunei)#####
-BRU^_absolute^_monarchy;;;;;;;;;;;;;;
-BRU^_prussian^_constitutionalism;;;;;;;;;;;;;;
-BRU^_hms^_government;;;;;;;;;;;;;;
-BRU^_democracy;;;;;;;;;;;;;;
-BRU^_proletarian^_dictatorship;;;;;;;;;;;;;;
-BRU^_presidential^_dictatorship;;;;;;;;;;;;;;
-BRU^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-BRU^_fascist^_dictatorship;;;;;;;;;;;;;;
-BRU^_ADJ;령;;;;;;;;;;;;;;
-#####BUR(Burma)#####
-BUR^_absolute^_monarchy;;;;;;;;;;;;;;
-BUR^_prussian^_constitutionalism;;;;;;;;;;;;;;
-BUR^_hms^_government;;;;;;;;;;;;;;
-BUR^_democracy;;;;;;;;;;;;;;
-BUR^_proletarian^_dictatorship;;;;;;;;;;;;;;
-BUR^_presidential^_dictatorship;;;;;;;;;;;;;;
-BUR^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-BUR^_fascist^_dictatorship;;;;;;;;;;;;;;
-BUR^_ADJ;령;;;;;;;;;;;;;;
-#####CAM(Cambodia)#####
-CAM^_absolute^_monarchy;;;;;;;;;;;;;;
-CAM^_prussian^_constitutionalism;;;;;;;;;;;;;;
-CAM^_hms^_government;;;;;;;;;;;;;;
-CAM^_democracy;;;;;;;;;;;;;;
-CAM^_proletarian^_dictatorship;;;;;;;;;;;;;;
-CAM^_presidential^_dictatorship;;;;;;;;;;;;;;
-CAM^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-CAM^_fascist^_dictatorship;;;;;;;;;;;;;;
-CAM^_ADJ;령;;;;;;;;;;;;;;
-#####CHI(China)#####
-CHI^_absolute^_monarchy;;;;;;;;;;;;;;
-CHI^_prussian^_constitutionalism;;;;;;;;;;;;;;
-CHI^_hms^_government;;;;;;;;;;;;;;
-CHI^_democracy;;;;;;;;;;;;;;
-CHI^_proletarian^_dictatorship;;;;;;;;;;;;;;
-CHI^_presidential^_dictatorship;;;;;;;;;;;;;;
-CHI^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-CHI^_fascist^_dictatorship;;;;;;;;;;;;;;
-CHI^_ADJ;령;;;;;;;;;;;;;;
-#####DAI(Dai Viet)#####
-DAI^_absolute^_monarchy;;;;;;;;;;;;;;
-DAI^_prussian^_constitutionalism;;;;;;;;;;;;;;
-DAI^_hms^_government;;;;;;;;;;;;;;
-DAI^_democracy;;;;;;;;;;;;;;
-DAI^_proletarian^_dictatorship;;;;;;;;;;;;;;
-DAI^_presidential^_dictatorship;;;;;;;;;;;;;;
-DAI^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-DAI^_fascist^_dictatorship;;;;;;;;;;;;;;
-DAI^_ADJ;령;;;;;;;;;;;;;;
-#####JAV(Java)#####
-JAV^_absolute^_monarchy;;;;;;;;;;;;;;
-JAV^_prussian^_constitutionalism;;;;;;;;;;;;;;
-JAV^_hms^_government;;;;;;;;;;;;;;
-JAV^_democracy;;;;;;;;;;;;;;
-JAV^_proletarian^_dictatorship;;;;;;;;;;;;;;
-JAV^_presidential^_dictatorship;;;;;;;;;;;;;;
-JAV^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-JAV^_fascist^_dictatorship;;;;;;;;;;;;;;
-JAV^_ADJ;령;;;;;;;;;;;;;;
-#####KOR(Korea)#####
-KOR^_absolute^_monarchy;;;;;;;;;;;;;;
-KOR^_prussian^_constitutionalism;;;;;;;;;;;;;;
-KOR^_hms^_government;;;;;;;;;;;;;;
-KOR^_democracy;;;;;;;;;;;;;;
-KOR^_proletarian^_dictatorship;;;;;;;;;;;;;;
-KOR^_presidential^_dictatorship;;;;;;;;;;;;;;
-KOR^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-KOR^_fascist^_dictatorship;;;;;;;;;;;;;;
-KOR^_ADJ;령;;;;;;;;;;;;;;
-#####LUA(Luang Prabang)#####
-LUA^_absolute^_monarchy;;;;;;;;;;;;;;
-LUA^_prussian^_constitutionalism;;;;;;;;;;;;;;
-LUA^_hms^_government;;;;;;;;;;;;;;
-LUA^_democracy;;;;;;;;;;;;;;
-LUA^_proletarian^_dictatorship;;;;;;;;;;;;;;
-LUA^_presidential^_dictatorship;;;;;;;;;;;;;;
-LUA^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-LUA^_fascist^_dictatorship;;;;;;;;;;;;;;
-LUA^_ADJ;령;;;;;;;;;;;;;;
-#####JOH(Johore)#####
-JOH^_absolute^_monarchy;;;;;;;;;;;;;;
-JOH^_prussian^_constitutionalism;;;;;;;;;;;;;;
-JOH^_hms^_government;;;;;;;;;;;;;;
-JOH^_democracy;;;;;;;;;;;;;;
-JOH^_proletarian^_dictatorship;;;;;;;;;;;;;;
-JOH^_presidential^_dictatorship;;;;;;;;;;;;;;
-JOH^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-JOH^_fascist^_dictatorship;;;;;;;;;;;;;;
-JOH^_ADJ;령;;;;;;;;;;;;;;
-#####SIA(Siam)#####
-SIA^_absolute^_monarchy;;;;;;;;;;;;;;
-SIA^_prussian^_constitutionalism;;;;;;;;;;;;;;
-SIA^_hms^_government;;;;;;;;;;;;;;
-SIA^_democracy;;;;;;;;;;;;;;
-SIA^_proletarian^_dictatorship;;;;;;;;;;;;;;
-SIA^_presidential^_dictatorship;;;;;;;;;;;;;;
-SIA^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-SIA^_fascist^_dictatorship;;;;;;;;;;;;;;
-SIA^_ADJ;령;;;;;;;;;;;;;;
-#####TIB(Tibet)#####
-TIB^_absolute^_monarchy;;;;;;;;;;;;;;
-TIB^_prussian^_constitutionalism;;;;;;;;;;;;;;
-TIB^_hms^_government;;;;;;;;;;;;;;
-TIB^_democracy;;;;;;;;;;;;;;
-TIB^_proletarian^_dictatorship;;;;;;;;;;;;;;
-TIB^_presidential^_dictatorship;;;;;;;;;;;;;;
-TIB^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-TIB^_fascist^_dictatorship;;;;;;;;;;;;;;
-TIB^_ADJ;령;;;;;;;;;;;;;;
-#####MGL(Mongolia)#####
-MGL^_absolute^_monarchy;;;;;;;;;;;;;;
-MGL^_prussian^_constitutionalism;;;;;;;;;;;;;;
-MGL^_hms^_government;;;;;;;;;;;;;;
-MGL^_democracy;;;;;;;;;;;;;;
-MGL^_proletarian^_dictatorship;;;;;;;;;;;;;;
-MGL^_presidential^_dictatorship;;;;;;;;;;;;;;
-MGL^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-MGL^_fascist^_dictatorship;;;;;;;;;;;;;;
-MGL^_ADJ;령;;;;;;;;;;;;;;
-#####WIA(Wiang Chhan)#####
-WIA^_absolute^_monarchy;;;;;;;;;;;;;;
-WIA^_prussian^_constitutionalism;;;;;;;;;;;;;;
-WIA^_hms^_government;;;;;;;;;;;;;;
-WIA^_democracy;;;;;;;;;;;;;;
-WIA^_proletarian^_dictatorship;;;;;;;;;;;;;;
-WIA^_presidential^_dictatorship;;;;;;;;;;;;;;
-WIA^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-WIA^_fascist^_dictatorship;;;;;;;;;;;;;;
-WIA^_ADJ;령;;;;;;;;;;;;;;
-#####PHL(Philippines)#####
-PHL^_absolute^_monarchy;;;;;;;;;;;;;;
-PHL^_prussian^_constitutionalism;;;;;;;;;;;;;;
-PHL^_hms^_government;;;;;;;;;;;;;;
-PHL^_democracy;;;;;;;;;;;;;;
-PHL^_proletarian^_dictatorship;;;;;;;;;;;;;;
-PHL^_presidential^_dictatorship;;;;;;;;;;;;;;
-PHL^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-PHL^_fascist^_dictatorship;;;;;;;;;;;;;;
-PHL^_ADJ;령;;;;;;;;;;;;;;
-#####MCK(Manchukuo)#####
-MCK^_absolute^_monarchy;;;;;;;;;;;;;;
-MCK^_prussian^_constitutionalism;;;;;;;;;;;;;;
-MCK^_hms^_government;;;;;;;;;;;;;;
-MCK^_democracy;;;;;;;;;;;;;;
-MCK^_proletarian^_dictatorship;;;;;;;;;;;;;;
-MCK^_presidential^_dictatorship;;;;;;;;;;;;;;
-MCK^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-MCK^_fascist^_dictatorship;;;;;;;;;;;;;;
-MCK^_ADJ;령;;;;;;;;;;;;;;
-#####GXI(Guangxi Clique)#####
-GXI^_absolute^_monarchy;;;;;;;;;;;;;;
-GXI^_prussian^_constitutionalism;;;;;;;;;;;;;;
-GXI^_hms^_government;;;;;;;;;;;;;;
-GXI^_democracy;;;;;;;;;;;;;;
-GXI^_proletarian^_dictatorship;;;;;;;;;;;;;;
-GXI^_presidential^_dictatorship;;;;;;;;;;;;;;
-GXI^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-GXI^_fascist^_dictatorship;;;;;;;;;;;;;;
-GXI^_ADJ;령;;;;;;;;;;;;;;
-#####SXI(Shanxi)#####
-SXI^_absolute^_monarchy;;;;;;;;;;;;;;
-SXI^_prussian^_constitutionalism;;;;;;;;;;;;;;
-SXI^_hms^_government;;;;;;;;;;;;;;
-SXI^_democracy;;;;;;;;;;;;;;
-SXI^_proletarian^_dictatorship;;;;;;;;;;;;;;
-SXI^_presidential^_dictatorship;;;;;;;;;;;;;;
-SXI^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-SXI^_fascist^_dictatorship;;;;;;;;;;;;;;
-SXI^_ADJ;령;;;;;;;;;;;;;;
-#####YNN(Yunnan)#####
-YNN^_absolute^_monarchy;;;;;;;;;;;;;;
-YNN^_prussian^_constitutionalism;;;;;;;;;;;;;;
-YNN^_hms^_government;;;;;;;;;;;;;;
-YNN^_democracy;;;;;;;;;;;;;;
-YNN^_proletarian^_dictatorship;;;;;;;;;;;;;;
-YNN^_presidential^_dictatorship;;;;;;;;;;;;;;
-YNN^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-YNN^_fascist^_dictatorship;;;;;;;;;;;;;;
-YNN^_ADJ;령;;;;;;;;;;;;;;
-#####XBI(Xibei San Ma)#####
-XBI^_absolute^_monarchy;;;;;;;;;;;;;;
-XBI^_prussian^_constitutionalism;;;;;;;;;;;;;;
-XBI^_hms^_government;;;;;;;;;;;;;;
-XBI^_democracy;;;;;;;;;;;;;;
-XBI^_proletarian^_dictatorship;;;;;;;;;;;;;;
-XBI^_presidential^_dictatorship;;;;;;;;;;;;;;
-XBI^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-XBI^_fascist^_dictatorship;;;;;;;;;;;;;;
-XBI^_ADJ;령;;;;;;;;;;;;;;
-#####XIN(Xinjiang)#####
-XIN^_absolute^_monarchy;;;;;;;;;;;;;;
-XIN^_prussian^_constitutionalism;;;;;;;;;;;;;;
-XIN^_hms^_government;;;;;;;;;;;;;;
-XIN^_democracy;;;;;;;;;;;;;;
-XIN^_proletarian^_dictatorship;;;;;;;;;;;;;;
-XIN^_presidential^_dictatorship;;;;;;;;;;;;;;
-XIN^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-XIN^_fascist^_dictatorship;;;;;;;;;;;;;;
-XIN^_ADJ;령;;;;;;;;;;;;;;
-# North America
-#####CAL(Californian Republic)#####
-CAL^_absolute^_monarchy;;;;;;;;;;;;;;
-CAL^_prussian^_constitutionalism;;;;;;;;;;;;;;
-CAL^_hms^_government;;;;;;;;;;;;;;
-CAL^_democracy;;;;;;;;;;;;;;
-CAL^_proletarian^_dictatorship;;;;;;;;;;;;;;
-CAL^_presidential^_dictatorship;;;;;;;;;;;;;;
-CAL^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-CAL^_fascist^_dictatorship;;;;;;;;;;;;;;
-CAL^_ADJ;령;;;;;;;;;;;;;;
-#####CAN(Canada)#####
-CAN^_absolute^_monarchy;;;;;;;;;;;;;;
-CAN^_prussian^_constitutionalism;;;;;;;;;;;;;;
-CAN^_hms^_government;;;;;;;;;;;;;;
-CAN^_democracy;;;;;;;;;;;;;;
-CAN^_proletarian^_dictatorship;;;;;;;;;;;;;;
-CAN^_presidential^_dictatorship;;;;;;;;;;;;;;
-CAN^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-CAN^_fascist^_dictatorship;;;;;;;;;;;;;;
-CAN^_ADJ;령;;;;;;;;;;;;;;
-#####CHE(Cherokee)#####
-CHE^_absolute^_monarchy;;;;;;;;;;;;;;
-CHE^_prussian^_constitutionalism;;;;;;;;;;;;;;
-CHE^_hms^_government;;;;;;;;;;;;;;
-CHE^_democracy;;;;;;;;;;;;;;
-CHE^_proletarian^_dictatorship;;;;;;;;;;;;;;
-CHE^_presidential^_dictatorship;;;;;;;;;;;;;;
-CHE^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-CHE^_fascist^_dictatorship;;;;;;;;;;;;;;
-CHE^_ADJ;령;;;;;;;;;;;;;;
-#####COL(Columbia)#####
-COL^_absolute^_monarchy;;;;;;;;;;;;;;
-COL^_prussian^_constitutionalism;;;;;;;;;;;;;;
-COL^_hms^_government;;;;;;;;;;;;;;
-COL^_democracy;;;;;;;;;;;;;;
-COL^_proletarian^_dictatorship;;;;;;;;;;;;;;
-COL^_presidential^_dictatorship;;;;;;;;;;;;;;
-COL^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-COL^_fascist^_dictatorship;;;;;;;;;;;;;;
-COL^_ADJ;령;;;;;;;;;;;;;;
-#####COS(Costa Rica)#####
-COS^_absolute^_monarchy;;;;;;;;;;;;;;
-COS^_prussian^_constitutionalism;;;;;;;;;;;;;;
-COS^_hms^_government;;;;;;;;;;;;;;
-COS^_democracy;;;;;;;;;;;;;;
-COS^_proletarian^_dictatorship;;;;;;;;;;;;;;
-COS^_presidential^_dictatorship;;;;;;;;;;;;;;
-COS^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-COS^_fascist^_dictatorship;;;;;;;;;;;;;;
-COS^_ADJ;령;;;;;;;;;;;;;;
-#####CSA(CSA)#####
-CSA^_absolute^_monarchy;;;;;;;;;;;;;;
-CSA^_prussian^_constitutionalism;;;;;;;;;;;;;;
-CSA^_hms^_government;;;;;;;;;;;;;;
-CSA^_democracy;;;;;;;;;;;;;;
-CSA^_proletarian^_dictatorship;;;;;;;;;;;;;;
-CSA^_presidential^_dictatorship;;;;;;;;;;;;;;
-CSA^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-CSA^_fascist^_dictatorship;;;;;;;;;;;;;;
-CSA^_ADJ;령;;;;;;;;;;;;;;
-#####CUB(Cuba)#####
-CUB^_absolute^_monarchy;;;;;;;;;;;;;;
-CUB^_prussian^_constitutionalism;;;;;;;;;;;;;;
-CUB^_hms^_government;;;;;;;;;;;;;;
-CUB^_democracy;;;;;;;;;;;;;;
-CUB^_proletarian^_dictatorship;;;;;;;;;;;;;;
-CUB^_presidential^_dictatorship;;;;;;;;;;;;;;
-CUB^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-CUB^_fascist^_dictatorship;;;;;;;;;;;;;;
-CUB^_ADJ;령;;;;;;;;;;;;;;
-#####DES(Deseret)#####
-DES^_absolute^_monarchy;;;;;;;;;;;;;;
-DES^_prussian^_constitutionalism;;;;;;;;;;;;;;
-DES^_hms^_government;;;;;;;;;;;;;;
-DES^_democracy;;;;;;;;;;;;;;
-DES^_proletarian^_dictatorship;;;;;;;;;;;;;;
-DES^_presidential^_dictatorship;;;;;;;;;;;;;;
-DES^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-DES^_fascist^_dictatorship;;;;;;;;;;;;;;
-DES^_ADJ;령;;;;;;;;;;;;;;
-#####DOM(Dominican Republic)#####
-DOM^_absolute^_monarchy;;;;;;;;;;;;;;
-DOM^_prussian^_constitutionalism;;;;;;;;;;;;;;
-DOM^_hms^_government;;;;;;;;;;;;;;
-DOM^_democracy;;;;;;;;;;;;;;
-DOM^_proletarian^_dictatorship;;;;;;;;;;;;;;
-DOM^_presidential^_dictatorship;;;;;;;;;;;;;;
-DOM^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-DOM^_fascist^_dictatorship;;;;;;;;;;;;;;
-DOM^_ADJ;령;;;;;;;;;;;;;;
-#####ELS(El Salvador)#####
-DOM^_absolute^_monarchy;;;;;;;;;;;;;;
-DOM^_prussian^_constitutionalism;;;;;;;;;;;;;;
-DOM^_hms^_government;;;;;;;;;;;;;;
-DOM^_democracy;;;;;;;;;;;;;;
-DOM^_proletarian^_dictatorship;;;;;;;;;;;;;;
-DOM^_presidential^_dictatorship;;;;;;;;;;;;;;
-DOM^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-DOM^_fascist^_dictatorship;;;;;;;;;;;;;;
-DOM^_ADJ;령;;;;;;;;;;;;;;
-#####GUA(Guatemala)#####
-GUA^_absolute^_monarchy;;;;;;;;;;;;;;
-GUA^_prussian^_constitutionalism;;;;;;;;;;;;;;
-GUA^_hms^_government;;;;;;;;;;;;;;
-GUA^_democracy;;;;;;;;;;;;;;
-GUA^_proletarian^_dictatorship;;;;;;;;;;;;;;
-GUA^_presidential^_dictatorship;;;;;;;;;;;;;;
-GUA^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-GUA^_fascist^_dictatorship;;;;;;;;;;;;;;
-GUA^_ADJ;령;;;;;;;;;;;;;;
-#####HAI(Haiti)#####
-HAI^_absolute^_monarchy;;;;;;;;;;;;;;
-HAI^_prussian^_constitutionalism;;;;;;;;;;;;;;
-HAI^_hms^_government;;;;;;;;;;;;;;
-HAI^_democracy;;;;;;;;;;;;;;
-HAI^_proletarian^_dictatorship;;;;;;;;;;;;;;
-HAI^_presidential^_dictatorship;;;;;;;;;;;;;;
-HAI^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-HAI^_fascist^_dictatorship;;;;;;;;;;;;;;
-HAI^_ADJ;령;;;;;;;;;;;;;;
-#####HAW(Hawaii)#####
-HAW^_absolute^_monarchy;;;;;;;;;;;;;;
-HAW^_prussian^_constitutionalism;;;;;;;;;;;;;;
-HAW^_hms^_government;;;;;;;;;;;;;;
-HAW^_democracy;;;;;;;;;;;;;;
-HAW^_proletarian^_dictatorship;;;;;;;;;;;;;;
-HAW^_presidential^_dictatorship;;;;;;;;;;;;;;
-HAW^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-HAW^_fascist^_dictatorship;;;;;;;;;;;;;;
-HAW^_ADJ;령;;;;;;;;;;;;;;
-#####MEX(Mexico)#####
-MEX^_absolute^_monarchy;;;;;;;;;;;;;;
-MEX^_prussian^_constitutionalism;;;;;;;;;;;;;;
-MEX^_hms^_government;;;;;;;;;;;;;;
-MEX^_democracy;;;;;;;;;;;;;;
-MEX^_proletarian^_dictatorship;;;;;;;;;;;;;;
-MEX^_presidential^_dictatorship;;;;;;;;;;;;;;
-MEX^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-MEX^_fascist^_dictatorship;;;;;;;;;;;;;;
-MEX^_ADJ;령;;;;;;;;;;;;;;
-#####MTC(Metis Confederacy)#####
-MTC^_absolute^_monarchy;;;;;;;;;;;;;;
-MTC^_prussian^_constitutionalism;;;;;;;;;;;;;;
-MTC^_hms^_government;;;;;;;;;;;;;;
-MTC^_democracy;;;;;;;;;;;;;;
-MTC^_proletarian^_dictatorship;;;;;;;;;;;;;;
-MTC^_presidential^_dictatorship;;;;;;;;;;;;;;
-MTC^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-MTC^_fascist^_dictatorship;;;;;;;;;;;;;;
-MTC^_ADJ;령;;;;;;;;;;;;;;
-#####HON(Honduras)#####
-HON^_absolute^_monarchy;;;;;;;;;;;;;;
-HON^_prussian^_constitutionalism;;;;;;;;;;;;;;
-HON^_hms^_government;;;;;;;;;;;;;;
-HON^_democracy;;;;;;;;;;;;;;
-HON^_proletarian^_dictatorship;;;;;;;;;;;;;;
-HON^_presidential^_dictatorship;;;;;;;;;;;;;;
-HON^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-HON^_fascist^_dictatorship;;;;;;;;;;;;;;
-HON^_ADJ;령;;;;;;;;;;;;;;
-#####NEN(New England)#####
-NEN^_absolute^_monarchy;;;;;;;;;;;;;;
-NEN^_prussian^_constitutionalism;;;;;;;;;;;;;;
-NEN^_hms^_government;;;;;;;;;;;;;;
-NEN^_democracy;;;;;;;;;;;;;;
-NEN^_proletarian^_dictatorship;;;;;;;;;;;;;;
-NEN^_presidential^_dictatorship;;;;;;;;;;;;;;
-NEN^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-NEN^_fascist^_dictatorship;;;;;;;;;;;;;;
-NEN^_ADJ;령;;;;;;;;;;;;;;
-#####NEW(Newfoundland)#####
-NEW^_absolute^_monarchy;;;;;;;;;;;;;;
-NEW^_prussian^_constitutionalism;;;;;;;;;;;;;;
-NEW^_hms^_government;;;;;;;;;;;;;;
-NEW^_democracy;;;;;;;;;;;;;;
-NEW^_proletarian^_dictatorship;;;;;;;;;;;;;;
-NEW^_presidential^_dictatorship;;;;;;;;;;;;;;
-NEW^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-NEW^_fascist^_dictatorship;;;;;;;;;;;;;;
-NEW^_ADJ;령;;;;;;;;;;;;;;
-#####NIC(Nicaragua)#####
-NIC^_absolute^_monarchy;;;;;;;;;;;;;;
-NIC^_prussian^_constitutionalism;;;;;;;;;;;;;;
-NIC^_hms^_government;;;;;;;;;;;;;;
-NIC^_democracy;;;;;;;;;;;;;;
-NIC^_proletarian^_dictatorship;;;;;;;;;;;;;;
-NIC^_presidential^_dictatorship;;;;;;;;;;;;;;
-NIC^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-NIC^_fascist^_dictatorship;;;;;;;;;;;;;;
-NIC^_ADJ;령;;;;;;;;;;;;;;
-#####PNM(Panama)#####
-PNM^_absolute^_monarchy;;;;;;;;;;;;;;
-PNM^_prussian^_constitutionalism;;;;;;;;;;;;;;
-PNM^_hms^_government;;;;;;;;;;;;;;
-PNM^_democracy;;;;;;;;;;;;;;
-PNM^_proletarian^_dictatorship;;;;;;;;;;;;;;
-PNM^_presidential^_dictatorship;;;;;;;;;;;;;;
-PNM^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-PNM^_fascist^_dictatorship;;;;;;;;;;;;;;
-PNM^_ADJ;령;;;;;;;;;;;;;;
-#####QUE(Quebec)#####
-QUE^_absolute^_monarchy;;;;;;;;;;;;;;
-QUE^_prussian^_constitutionalism;;;;;;;;;;;;;;
-QUE^_hms^_government;;;;;;;;;;;;;;
-QUE^_democracy;;;;;;;;;;;;;;
-QUE^_proletarian^_dictatorship;;;;;;;;;;;;;;
-QUE^_presidential^_dictatorship;;;;;;;;;;;;;;
-QUE^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-QUE^_fascist^_dictatorship;;;;;;;;;;;;;;
-QUE^_ADJ;령;;;;;;;;;;;;;;
-#####TEX(Texas)#####
-TEX^_absolute^_monarchy;;;;;;;;;;;;;;
-TEX^_prussian^_constitutionalism;;;;;;;;;;;;;;
-TEX^_hms^_government;;;;;;;;;;;;;;
-TEX^_democracy;;;;;;;;;;;;;;
-TEX^_proletarian^_dictatorship;;;;;;;;;;;;;;
-TEX^_presidential^_dictatorship;;;;;;;;;;;;;;
-TEX^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-TEX^_fascist^_dictatorship;;;;;;;;;;;;;;
-TEX^_ADJ;령;;;;;;;;;;;;;;
-#####UCA(United States of Central America)#####
-UCA^_absolute^_monarchy;;;;;;;;;;;;;;
-UCA^_prussian^_constitutionalism;;;;;;;;;;;;;;
-UCA^_hms^_government;;;;;;;;;;;;;;
-UCA^_democracy;;;;;;;;;;;;;;
-UCA^_proletarian^_dictatorship;;;;;;;;;;;;;;
-UCA^_presidential^_dictatorship;;;;;;;;;;;;;;
-UCA^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-UCA^_fascist^_dictatorship;;;;;;;;;;;;;;
-UCA^_ADJ;령;;;;;;;;;;;;;;
-# South America
-#####ARG(Argentina)#####
-ARG^_absolute^_monarchy;;;;;;;;;;;;;;
-ARG^_prussian^_constitutionalism;;;;;;;;;;;;;;
-ARG^_hms^_government;;;;;;;;;;;;;;
-ARG^_democracy;;;;;;;;;;;;;;
-ARG^_proletarian^_dictatorship;;;;;;;;;;;;;;
-ARG^_presidential^_dictatorship;;;;;;;;;;;;;;
-ARG^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-ARG^_fascist^_dictatorship;;;;;;;;;;;;;;
-ARG^_ADJ;령;;;;;;;;;;;;;;
-#####BOL(Bolivia)#####
-BOL^_absolute^_monarchy;;;;;;;;;;;;;;
-BOL^_prussian^_constitutionalism;;;;;;;;;;;;;;
-BOL^_hms^_government;;;;;;;;;;;;;;
-BOL^_democracy;;;;;;;;;;;;;;
-BOL^_proletarian^_dictatorship;;;;;;;;;;;;;;
-BOL^_presidential^_dictatorship;;;;;;;;;;;;;;
-BOL^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-BOL^_fascist^_dictatorship;;;;;;;;;;;;;;
-BOL^_ADJ;령;;;;;;;;;;;;;;
-#####BRZ(Brazil)#####
-BRZ^_absolute^_monarchy;;;;;;;;;;;;;;
-BRZ^_prussian^_constitutionalism;;;;;;;;;;;;;;
-BRZ^_hms^_government;;;;;;;;;;;;;;
-BRZ^_democracy;;;;;;;;;;;;;;
-BRZ^_proletarian^_dictatorship;;;;;;;;;;;;;;
-BRZ^_presidential^_dictatorship;;;;;;;;;;;;;;
-BRZ^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-BRZ^_fascist^_dictatorship;;;;;;;;;;;;;;
-BRZ^_ADJ;령;;;;;;;;;;;;;;
-#####CHL(Chile)#####
-CHL^_absolute^_monarchy;;;;;;;;;;;;;;
-CHL^_prussian^_constitutionalism;;;;;;;;;;;;;;
-CHL^_hms^_government;;;;;;;;;;;;;;
-CHL^_democracy;;;;;;;;;;;;;;
-CHL^_proletarian^_dictatorship;;;;;;;;;;;;;;
-CHL^_presidential^_dictatorship;;;;;;;;;;;;;;
-CHL^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-CHL^_fascist^_dictatorship;;;;;;;;;;;;;;
-CHL^_ADJ;령;;;;;;;;;;;;;;
-#####CLM(Colombia)#####
-CLM^_absolute^_monarchy;;;;;;;;;;;;;;
-CLM^_prussian^_constitutionalism;;;;;;;;;;;;;;
-CLM^_hms^_government;;;;;;;;;;;;;;
-CLM^_democracy;;;;;;;;;;;;;;
-CLM^_proletarian^_dictatorship;;;;;;;;;;;;;;
-CLM^_presidential^_dictatorship;;;;;;;;;;;;;;
-CLM^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-CLM^_fascist^_dictatorship;;;;;;;;;;;;;;
-CLM^_ADJ;령;;;;;;;;;;;;;;
-#####ECU(Ecuador)#####
-ECU^_absolute^_monarchy;;;;;;;;;;;;;;
-ECU^_prussian^_constitutionalism;;;;;;;;;;;;;;
-ECU^_hms^_government;;;;;;;;;;;;;;
-ECU^_democracy;;;;;;;;;;;;;;
-ECU^_proletarian^_dictatorship;;;;;;;;;;;;;;
-ECU^_presidential^_dictatorship;;;;;;;;;;;;;;
-ECU^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-ECU^_fascist^_dictatorship;;;;;;;;;;;;;;
-ECU^_ADJ;령;;;;;;;;;;;;;;
-#####PEU(Peru)#####
-PEU^_absolute^_monarchy;;;;;;;;;;;;;;
-PEU^_prussian^_constitutionalism;;;;;;;;;;;;;;
-PEU^_hms^_government;;;;;;;;;;;;;;
-PEU^_democracy;;;;;;;;;;;;;;
-PEU^_proletarian^_dictatorship;;;;;;;;;;;;;;
-PEU^_presidential^_dictatorship;;;;;;;;;;;;;;
-PEU^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-PEU^_fascist^_dictatorship;;;;;;;;;;;;;;
-PEU^_ADJ;령;;;;;;;;;;;;x;
-#####PRG(Paraguay)#####
-PRG^_absolute^_monarchy;;;;;;;;;;;;;;
-PRG^_prussian^_constitutionalism;;;;;;;;;;;;;;
-PRG^_hms^_government;;;;;;;;;;;;;;
-PRG^_democracy;;;;;;;;;;;;;;
-PRG^_proletarian^_dictatorship;;;;;;;;;;;;;;
-PRG^_presidential^_dictatorship;;;;;;;;;;;;;;
-PRG^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-PRG^_fascist^_dictatorship;;;;;;;;;;;;;;
-PRG^_ADJ;령;;;;;;;;;;;;x;
-#####URU(Uruguay)#####
-URU^_absolute^_monarchy;;;;;;;;;;;;;;
-URU^_prussian^_constitutionalism;;;;;;;;;;;;;;
-URU^_hms^_government;;;;;;;;;;;;;;
-URU^_democracy;;;;;;;;;;;;;;
-URU^_proletarian^_dictatorship;;;;;;;;;;;;;;
-URU^_presidential^_dictatorship;;;;;;;;;;;;;;
-URU^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-URU^_fascist^_dictatorship;;;;;;;;;;;;;;
-URU^_ADJ;령;;;;;;;;;;;;x;
-#####VNZ(Venezuela)#####
-VNZ^_absolute^_monarchy;;;;;;;;;;;;;;
-VNZ^_prussian^_constitutionalism;;;;;;;;;;;;;;
-VNZ^_hms^_government;;;;;;;;;;;;;;
-VNZ^_democracy;;;;;;;;;;;;;;
-VNZ^_proletarian^_dictatorship;;;;;;;;;;;;;;
-VNZ^_presidential^_dictatorship;;;;;;;;;;;;;;
-VNZ^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-VNZ^_fascist^_dictatorship;;;;;;;;;;;;;;
-VNZ^_ADJ;령;;;;;;;;;;;;x;
-# Australasia
-#####AST(Australia)#####
-AST^_absolute^_monarchy;;;;;;;;;;;;;;
-AST^_prussian^_constitutionalism;;;;;;;;;;;;;;
-AST^_hms^_government;;;;;;;;;;;;;;
-AST^_democracy;;;;;;;;;;;;;;
-AST^_proletarian^_dictatorship;;;;;;;;;;;;;;
-AST^_presidential^_dictatorship;;;;;;;;;;;;;;
-AST^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-AST^_fascist^_dictatorship;;;;;;;;;;;;;;
-AST^_ADJ;령;;;;;;;;;;;;x;
-#####NZL(New Zealand)#####
-NZL^_absolute^_monarchy;;;;;;;;;;;;;;
-NZL^_prussian^_constitutionalism;;;;;;;;;;;;;;
-NZL^_hms^_government;;;;;;;;;;;;;;
-NZL^_democracy;;;;;;;;;;;;;;
-NZL^_proletarian^_dictatorship;;;;;;;;;;;;;;
-NZL^_presidential^_dictatorship;;;;;;;;;;;;;;
-NZL^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-NZL^_fascist^_dictatorship;;;;;;;;;;;;;;
-NZL^_ADJ;령;;;;;;;;;;;;x;
-# Common Great Powers
-#####ENG(United Kingdom)#####
-ENG^_absolute^_monarchy;;;;;;;;;;;;;;
-ENG^_prussian^_constitutionalism;;;;;;;;;;;;;;
-ENG^_hms^_government;;;;;;;;;;;;;;
-ENG^_democracy;;;;;;;;;;;;;;
-ENG^_proletarian^_dictatorship;;;;;;;;;;;;;;
-ENG^_presidential^_dictatorship;;;;;;;;;;;;;;
-ENG^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-ENG^_fascist^_dictatorship;;;;;;;;;;;;;;
-ENG^_ADJ;령;;;;;;;;;;;;x;
-#####RUS(Russia)#####
-RUS^_absolute^_monarchy;;;;;;;;;;;;;;
-RUS^_prussian^_constitutionalism;;;;;;;;;;;;;;
-RUS^_hms^_government;;;;;;;;;;;;;;
-RUS^_democracy;;;;;;;;;;;;;;
-RUS^_proletarian^_dictatorship;;;;;;;;;;;;;;
-RUS^_presidential^_dictatorship;;;;;;;;;;;;;;
-RUS^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-RUS^_fascist^_dictatorship;;;;;;;;;;;;;;
-RUS^_ADJ;령;;;;;;;;;;;;x;
-#####FRA(France)#####
-FRA^_absolute^_monarchy;;;;;;;;;;;;;;
-FRA^_prussian^_constitutionalism;;;;;;;;;;;;;;
-FRA^_hms^_government;;;;;;;;;;;;;;
-FRA^_democracy;;;;;;;;;;;;;;
-FRA^_proletarian^_dictatorship;;;;;;;;;;;;;;
-FRA^_presidential^_dictatorship;;;;;;;;;;;;;;
-FRA^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-FRA^_fascist^_dictatorship;;;;;;;;;;;;;;
-FRA^_ADJ;령;;;;;;;;;;;;x;
-#####PRU(Prussia)#####
-PRU^_absolute^_monarchy;;;;;;;;;;;;;;
-PRU^_prussian^_constitutionalism;;;;;;;;;;;;;;
-PRU^_hms^_government;;;;;;;;;;;;;;
-PRU^_democracy;;;;;;;;;;;;;;
-PRU^_proletarian^_dictatorship;;;;;;;;;;;;;;
-PRU^_presidential^_dictatorship;;;;;;;;;;;;;;
-PRU^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-PRU^_fascist^_dictatorship;;;;;;;;;;;;;;
-PRU^_ADJ;령;;;;;;;;;;;;x;
-#####GER(Germany)#####
-GER^_absolute^_monarchy;;;;;;;;;;;;;;
-GER^_prussian^_constitutionalism;;;;;;;;;;;;;;
-GER^_hms^_government;;;;;;;;;;;;;;
-GER^_democracy;;;;;;;;;;;;;;
-GER^_proletarian^_dictatorship;;;;;;;;;;;;;;
-GER^_presidential^_dictatorship;;;;;;;;;;;;;;
-GER^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-GER^_fascist^_dictatorship;;;;;;;;;;;;;;
-GER^_ADJ;령;;;;;;;;;;;;x;
-#####AUS(Austria)#####
-AUS^_absolute^_monarchy;;;;;;;;;;;;;;
-AUS^_prussian^_constitutionalism;;;;;;;;;;;;;;
-AUS^_hms^_government;;;;;;;;;;;;;;
-AUS^_democracy;;;;;;;;;;;;;;
-AUS^_proletarian^_dictatorship;;;;;;;;;;;;;;
-AUS^_presidential^_dictatorship;;;;;;;;;;;;;;
-AUS^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-AUS^_fascist^_dictatorship;;;;;;;;;;;;;;
-AUS^_ADJ;령;;;;;;;;;;;;x;
-#####USA(USA)#####
-USA^_absolute^_monarchy;;;;;;;;;;;;;;
-USA^_prussian^_constitutionalism;;;;;;;;;;;;;;
-USA^_hms^_government;;;;;;;;;;;;;;
-USA^_democracy;;;;;;;;;;;;;;
-USA^_proletarian^_dictatorship;;;;;;;;;;;;;;
-USA^_presidential^_dictatorship;;;;;;;;;;;;;;
-USA^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-USA^_fascist^_dictatorship;;;;;;;;;;;;;;
-USA^_ADJ;령;;;;;;;;;;;;x;
-#####JAP(Japan)#####
-JAP^_absolute^_monarchy;;;;;;;;;;;;;;
-JAP^_prussian^_constitutionalism;;;;;;;;;;;;;;
-JAP^_hms^_government;;;;;;;;;;;;;;
-JAP^_democracy;;;;;;;;;;;;;;
-JAP^_proletarian^_dictatorship;;;;;;;;;;;;;;
-JAP^_presidential^_dictatorship;;;;;;;;;;;;;;
-JAP^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-JAP^_fascist^_dictatorship;;;;;;;;;;;;;;
-JAP^_ADJ;령;;;;;;;;;;;;x;
-#####ITA(Italy)#####
-ITA^_absolute^_monarchy;;;;;;;;;;;;;;
-ITA^_prussian^_constitutionalism;;;;;;;;;;;;;;
-ITA^_hms^_government;;;;;;;;;;;;;;
-ITA^_democracy;;;;;;;;;;;;;;
-ITA^_proletarian^_dictatorship;;;;;;;;;;;;;;
-ITA^_presidential^_dictatorship;;;;;;;;;;;;;;
-ITA^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-ITA^_fascist^_dictatorship;;;;;;;;;;;;;;
-ITA^_ADJ;령;;;;;;;;;;;;x;
-#####KUK(Austria-Hungary)#####
-KRA^_absolute^_monarchy;;;;;;;;;;;;;;
-KUK^_prussian^_constitutionalism;;;;;;;;;;;;;;
-KUK^_hms^_government;;;;;;;;;;;;;;
-KUK^_democracy;;;;;;;;;;;;;;
-KUK^_proletarian^_dictatorship;;;;;;;;;;;;;;
-KUK^_presidential^_dictatorship;;;;;;;;;;;;;;
-KUK^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-KUK^_fascist^_dictatorship;;;;;;;;;;;;;;
-KUK^_ADJ;령;;;;;;;;;;;;x;
-#new for 1.2
-#####ISR(Israel)#####
-ISR^_absolute^_monarchy;;;;;;;;;;;;;;
-ISR^_prussian^_constitutionalism;;;;;;;;;;;;;;
-ISR^_hms^_government;;;;;;;;;;;;;;
-ISR^_democracy;;;;;;;;;;;;;;
-ISR^_proletarian^_dictatorship;;;;;;;;;;;;;;
-ISR^_presidential^_dictatorship;;;;;;;;;;;;;;
-ISR^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-ISR^_fascist^_dictatorship;;;;;;;;;;;;;;
-ISR^_ADJ;령;;;;;;;;;;;;x;
-#####ICL(Iceland)#####
-KRA^_absolute^_monarchy;;;;;;;;;;;;;;
-KRA^_prussian^_constitutionalism;;;;;;;;;;;;;;
-KRA^_hms^_government;;;;;;;;;;;;;;
-KRA^_democracy;;;;;;;;;;;;;;
-KRA^_proletarian^_dictatorship;;;;;;;;;;;;;;
-KRA^_presidential^_dictatorship;;;;;;;;;;;;;;
-KRA^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-KRA^_fascist^_dictatorship;;;;;;;;;;;;;;
-KRA^_ADJ;령;;;;;;;;;;;;x;
-##NNM and Vanilla Scrapped tags
-#####IBR(Iberia)#####
-KRA^_absolute^_monarchy;;;;;;;;;;;;;;
-KRA^_prussian^_constitutionalism;;;;;;;;;;;;;;
-KRA^_hms^_government;;;;;;;;;;;;;;
-KRA^_democracy;;;;;;;;;;;;;;
-KRA^_proletarian^_dictatorship;;;;;;;;;;;;;;
-KRA^_presidential^_dictatorship;;;;;;;;;;;;;;
-KRA^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-KRA^_fascist^_dictatorship;;;;;;;;;;;;;;
-KRA^_ADJ;령;;;;;;;;;;;;x;
-#####BYZ(Byzantium)#####
-KRA^_absolute^_monarchy;;;;;;;;;;;;;;
-KRA^_prussian^_constitutionalism;;;;;;;;;;;;;;
-KRA^_hms^_government;;;;;;;;;;;;;;
-KRA^_democracy;;;;;;;;;;;;;;
-KRA^_proletarian^_dictatorship;;;;;;;;;;;;;;
-KRA^_presidential^_dictatorship;;;;;;;;;;;;;;
-KRA^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-KRA^_fascist^_dictatorship;;;;;;;;;;;;;;
-KRA^_ADJ;령;;;;;;;;;;;;x;
-#####BAB(Babylonia)#####
-KRA^_absolute^_monarchy;;;;;;;;;;;;;;
-KRA^_prussian^_constitutionalism;;;;;;;;;;;;;;
-KRA^_hms^_government;;;;;;;;;;;;;;
-KRA^_democracy;;;;;;;;;;;;;;
-KRA^_proletarian^_dictatorship;;;;;;;;;;;;;;
-KRA^_presidential^_dictatorship;;;;;;;;;;;;;;
-KRA^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-KRA^_fascist^_dictatorship;;;;;;;;;;;;;;
-KRA^_ADJ;령;;;;;;;;;;;;x;
-#new for AHD
-#####TPG(Taiping)#####
-KRA^_absolute^_monarchy;;;;;;;;;;;;;;
-KRA^_prussian^_constitutionalism;;;;;;;;;;;;;;
-KRA^_hms^_government;;;;;;;;;;;;;;
-KRA^_democracy;;;;;;;;;;;;;;
-KRA^_proletarian^_dictatorship;;;;;;;;;;;;;;
-KRA^_presidential^_dictatorship;;;;;;;;;;;;;;
-KRA^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-KRA^_fascist^_dictatorship;;;;;;;;;;;;;;
-KRA^_ADJ;령;;;;;;;;;;;;x;
-##EIC
-#####EIC(East India Company)#####
-KRA^_absolute^_monarchy;;;;;;;;;;;;;;
-KRA^_prussian^_constitutionalism;;;;;;;;;;;;;;
-KRA^_hms^_government;;;;;;;;;;;;;;
-KRA^_democracy;;;;;;;;;;;;;;
-KRA^_proletarian^_dictatorship;;;;;;;;;;;;;;
-KRA^_presidential^_dictatorship;;;;;;;;;;;;;;
-KRA^_bourgeois^_dictatorship;;;;;;;;;;;;;;
-KRA^_fascist^_dictatorship;;;;;;;;;;;;;;
-KRA^_ADJ;령;;;;;;;;;;;;x;
+EIC_ADJ;령;;;;;;;;;;;;;;
