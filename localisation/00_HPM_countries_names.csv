@@ -1780,7 +1780,7 @@ BNG^_absolute^_monarchy^_ADJ;벵골령;;;;;;;;;;;;;
 BNG^_prussian^_constitutionalism^_ADJ;벵골령;;;;;;;;;;;;;
 BNG^_hms^_government^_ADJ;벵골령;;;;;;;;;;;;;
 #####DRA(Dravidistan)#####
-NEH^_theocracy;드라비디스탄국;;;;;;;;;;;;;;
+DRA^_theocracy;드라비디스탄국;;;;;;;;;;;;;;
 DRA^_absolute^_monarchy;드라비다 제국;;;;;;;;;;;;;
 DRA^_prussian^_constitutionalism;드라비다 제국;;;;;;;;;;;;;
 DRA^_hms^_government;드라비다 제국;;;;;;;;;;;;;
@@ -1795,7 +1795,7 @@ DRA^_prussian^_constitutionalism^_ADJ;드라비다령;;;;;;;;;;;;;
 DRA^_hms^_government^_ADJ;드라비다령;;;;;;;;;;;;;
 DRA^_fascist^_dictatorship^_ADJ;드라비다나두령;;;;;;;;;;;;;
 #####KRN(Karnatak)#####
-NEH^_theocracy;카르나타카국;;;;;;;;;;;;;;
+KRN^_theocracy;카르나타카국;;;;;;;;;;;;;;
 KRN^_absolute^_monarchy;카르나타카국;;;;;;;;;;;;;
 KRN^_prussian^_constitutionalism;카르나타카국;;;;;;;;;;;;;
 KRN^_hms^_government;카르나타카국;;;;;;;;;;;;;
@@ -1807,7 +1807,7 @@ KRN^_fascist^_dictatorship;카르나타카국;;;;;;;;;;;;;
 KRN^_ADJ;카르나타카령;;;;;;;;;;;;;;
 KRN^_proletarian^_dictatorship^_ADJ;카르나티크령;;;;;;;;;;;;;
 #####MAH(Maharashtra)#####
-NEH^_theocracy;마하라슈트라국;;;;;;;;;;;;;;
+MAH^_theocracy;마하라슈트라국;;;;;;;;;;;;;;
 MAH^_absolute^_monarchy;마하라슈트라국;;;;;;;;;;;;;
 MAH^_prussian^_constitutionalism;마하라슈트라국;;;;;;;;;;;;;
 MAH^_hms^_government;마하라슈트라국;;;;;;;;;;;;;
@@ -1818,7 +1818,7 @@ MAH^_bourgeois^_dictatorship;마하라슈트라 공화국;;;;;;;;;;;;;
 MAH^_fascist^_dictatorship;마하라슈트라국;;;;;;;;;;;;;
 MAH^_ADJ;마하라슈트라령;;;;;;;;;;;;;;
 ######MRT(Marathas)#####
-NEH^_theocracy;마라타국;;;;;;;;;;;;;;
+MRT^_theocracy;마라타국;;;;;;;;;;;;;;
 MRT^_absolute^_monarchy;마라타 제국;;;;;;;;;;;;;
 MRT^_prussian^_constitutionalism;마라타 제국;;;;;;;;;;;;;
 MRT^_hms^_government;마라타 제국;;;;;;;;;;;;;
@@ -1829,7 +1829,7 @@ MRT^_bourgeois^_dictatorship; 공화국;;;;;;;;;;;;;
 MRT^_fascist^_dictatorship;마라타국;;;;;;;;;;;;;
 MRT^_ADJ;마라타령;;;;;;;;;;;;;;
 #####RAJ(Rajputana)#####
-NEH^_theocracy;라지푸타나국;;;;;;;;;;;;;;
+RAJ^_theocracy;라지푸타나국;;;;;;;;;;;;;;
 RAJ^_absolute^_monarchy;라지푸타나국;;;;;;;;;;;;;
 RAJ^_prussian^_constitutionalism;라지푸타나국;;;;;;;;;;;;;
 RAJ^_hms^_government;라지푸타나국;;;;;;;;;;;;;
@@ -1840,7 +1840,7 @@ RAJ^_bourgeois^_dictatorship;라지푸타나 공화국;;;;;;;;;;;;;
 RAJ^_fascist^_dictatorship;라지푸타나국;;;;;;;;;;;;;
 RAJ^_ADJ;라지푸타나령;;;;;;;;;;;;;;
 #####SRI(Sri Lanka)#####
-NEH^_theocracy;스리랑카국;;;;;;;;;;;;;;
+SRI^_theocracy;스리랑카국;;;;;;;;;;;;;;
 SRI^_absolute^_monarchy;실론 왕국;;;;;;;;;;;;;
 SRI^_prussian^_constitutionalism;실론 왕국;;;;;;;;;;;;;
 SRI^_hms^_government;실론 왕국;;;;;;;;;;;;;
@@ -1855,7 +1855,7 @@ SRI^_prussian^_constitutionalism^_ADJ;실론령;;;;;;;;;;;;;;
 SRI^_hms^_government^_ADJ;실론령;;;;;;;;;;;;;;
 #Africa
 #####AGC(Angoche)#####
-NEH^_theocracy;앙고셰국;;;;;;;;;;;;;;
+AGC^_theocracy;앙고셰국;;;;;;;;;;;;;;
 AGC^_absolute^_monarchy;앙고셰 술탄국;;;;;;;;;;;;;
 AGC^_prussian^_constitutionalism;앙고셰 술탄국;;;;;;;;;;;;;
 AGC^_hms^_government;앙고셰 술탄국;;;;;;;;;;;;;
@@ -1866,7 +1866,7 @@ AGC^_bourgeois^_dictatorship;앙고셰 공화국;;;;;;;;;;;;;
 AGC^_fascist^_dictatorship;앙고셰국;;;;;;;;;;;;;
 AGC^_ADJ;앙고셰령;;;;;;;;;;;;;;
 #####ANG(Angola)#####
-NEH^_theocracy;앙골라국;;;;;;;;;;;;;;
+ANG^_theocracy;앙골라국;;;;;;;;;;;;;;
 ANG^_absolute^_monarchy;앙골라 왕국;;;;;;;;;;;;;
 ANG^_prussian^_constitutionalism;앙골라 왕국;;;;;;;;;;;;;
 ANG^_hms^_government;앙골라 왕국;;;;;;;;;;;;;
@@ -1877,7 +1877,7 @@ ANG^_bourgeois^_dictatorship;앙골라 공화국;;;;;;;;;;;;;
 ANG^_fascist^_dictatorship;앙골라국;;;;;;;;;;;;;
 ANG^_ADJ;앙골라령;;;;;;;;;;;;;;
 #####ARO(Aro)#####
-NEH^_theocracy;아로국;;;;;;;;;;;;;;
+ARO^_theocracy;아로국;;;;;;;;;;;;;;
 ARO^_absolute^_monarchy;아로국;;;;;;;;;;;;;
 ARO^_prussian^_constitutionalism;아로국;;;;;;;;;;;;;
 ARO^_hms^_government;아로국;;;;;;;;;;;;;
@@ -1888,7 +1888,7 @@ ARO^_bourgeois^_dictatorship;아로 공화국;;;;;;;;;;;;;
 ARO^_fascist^_dictatorship;아로국;;;;;;;;;;;;;
 ARO^_ADJ;아로령;;;;;;;;;;;;;;
 #####ASH(Ashanti)#####
-NEH^_theocracy;아샨티국;;;;;;;;;;;;;;
+ASH^_theocracy;아샨티국;;;;;;;;;;;;;;
 ASH^_absolute^_monarchy;아샨티 왕국;;;;;;;;;;;;;
 ASH^_prussian^_constitutionalism;아샨티 왕국;;;;;;;;;;;;;
 ASH^_hms^_government;아샨티 왕국;;;;;;;;;;;;;
@@ -1899,7 +1899,7 @@ ASH^_bourgeois^_dictatorship;아샨티 공화국;;;;;;;;;;;;;
 ASH^_fascist^_dictatorship;아샨티국;;;;;;;;;;;;;
 ASH^_ADJ;아샨티령;;;;;;;;;;;;;;
 #####AWS(Awsa)#####
-NEH^_theocracy;아우사국;;;;;;;;;;;;;;
+AWS^_theocracy;아우사국;;;;;;;;;;;;;;
 AWS^_absolute^_monarchy;아우사 술탄국;;;;;;;;;;;;;
 AWS^_prussian^_constitutionalism;아우사 술탄국;;;;;;;;;;;;;
 AWS^_hms^_government;아우사 술탄국;;;;;;;;;;;;;
@@ -1910,7 +1910,7 @@ AWS^_bourgeois^_dictatorship;아우사 공화국;;;;;;;;;;;;;
 AWS^_fascist^_dictatorship;아우사국;;;;;;;;;;;;;
 AWS^_ADJ;아우사령;;;;;;;;;;;;;;
 #####AZA(Azande)#####
-NEH^_theocracy;잔데국;;;;;;;;;;;;;;
+AZA^_theocracy;잔데국;;;;;;;;;;;;;;
 AZA^_absolute^_monarchy;잔데 왕국;;;;;;;;;;;;;
 AZA^_prussian^_constitutionalism;잔데 왕국;;;;;;;;;;;;;
 AZA^_hms^_government;잔데 왕국;;;;;;;;;;;;;
@@ -1921,7 +1921,7 @@ AZA^_bourgeois^_dictatorship;잔데 공화국;;;;;;;;;;;;;
 AZA^_fascist^_dictatorship;잔데국;;;;;;;;;;;;;
 AZA^_ADJ;잔데령;;;;;;;;;;;;;;
 #####BEN(Benin)#####
-NEH^_theocracy;베냉국;;;;;;;;;;;;;;
+BEN^_theocracy;베냉국;;;;;;;;;;;;;;
 BEN^_absolute^_monarchy;베닌 제국;;;;;;;;;;;;;
 BEN^_prussian^_constitutionalism;베닌 제국;;;;;;;;;;;;;
 BEN^_hms^_government;베닌 제국;;;;;;;;;;;;;
@@ -1935,7 +1935,7 @@ BEN^_absolute^_monarchy^_ADJ;베닌령;;;;;;;;;;;;;
 BEN^_prussian^_constitutionalism^_ADJ;베닌령;;;;;;;;;;;;;
 BEN^_hms^_government^_ADJ;베닌령;;;;;;;;;;;;;
 #####BRD(Urundi)#####
-NEH^_theocracy;부룬디국;;;;;;;;;;;;;;
+BRD^_theocracy;부룬디국;;;;;;;;;;;;;;
 BRD^_absolute^_monarchy;부룬디 왕국;;;;;;;;;;;;;
 BRD^_prussian^_constitutionalism;부룬디 왕국;;;;;;;;;;;;;
 BRD^_hms^_government;부룬디 왕국;;;;;;;;;;;;;
@@ -1946,7 +1946,7 @@ BRD^_bourgeois^_dictatorship;부룬디 공화국;;;;;;;;;;;;;
 BRD^_fascist^_dictatorship;부룬디국;;;;;;;;;;;;;
 BRD^_ADJ;부룬디령;;;;;;;;;;;;;;
 #####BSH(Basotho)#####
-NEH^_theocracy;레소토국;;;;;;;;;;;;;;
+BSH^_theocracy;레소토국;;;;;;;;;;;;;;
 BSH^_absolute^_monarchy;바소토 왕국;;;;;;;;;;;;;
 BSH^_prussian^_constitutionalism;바소토 왕국;;;;;;;;;;;;;
 BSH^_hms^_government;바소토 왕국;;;;;;;;;;;;;
@@ -1960,7 +1960,7 @@ BSH^_absolute^_monarchy^_ADJ;바소토령;;;;;;;;;;;;;
 BSH^_prussian^_constitutionalism^_ADJ;바소토령;;;;;;;;;;;;;
 BSH^_hms^_government^_ADJ;바소토령;;;;;;;;;;;;;
 #####BUG(Buganda)#####
-NEH^_theocracy;우간다국;;;;;;;;;;;;;;
+BUG^_theocracy;우간다국;;;;;;;;;;;;;;
 BUG^_absolute^_monarchy;부간다 왕국;;;;;;;;;;;;;
 BUG^_prussian^_constitutionalism;부간다 왕국;;;;;;;;;;;;;
 BUG^_hms^_government;우간다 왕국;;;;;;;;;;;;;
@@ -1973,7 +1973,7 @@ BUG^_ADJ;우간다령;;;;;;;;;;;;;;
 BUG^_absolute^_monarchy^_ADJ;부간다령;;;;;;;;;;;;;
 BUG^_prussian^_constitutionalism^_ADJ;부간다령;;;;;;;;;;;;;
 #####CAR(Central African Republic)#####
-NEH^_theocracy;중앙아프리카국;;;;;;;;;;;;;;
+CAR^_theocracy;중앙아프리카국;;;;;;;;;;;;;;
 CAR^_absolute^_monarchy;중앙아프리카 제국;;;;;;;;;;;;;
 CAR^_prussian^_constitutionalism;우방기-샤리 왕국;;;;;;;;;;;;;
 CAR^_hms^_government;우방기-샤리 왕국;;;;;;;;;;;;;
@@ -1986,7 +1986,7 @@ CAR^_ADJ;중앙아프리카령;;;;;;;;;;;;;;
 CAR^_prussian^_constitutionalism^_ADJ;우방기-샤리령;;;;;;;;;;;;;
 CAR^_hms^_government^_ADJ;우방기-샤리령;;;;;;;;;;;;;
 #####CGO(Congo-Brazzaville)#####
-NEH^_theocracy;콩고국;;;;;;;;;;;;;;
+CGO^_theocracy;콩고국;;;;;;;;;;;;;;
 CGO^_absolute^_monarchy;콩고 왕국;;;;;;;;;;;;;
 CGO^_prussian^_constitutionalism;콩고 왕국;;;;;;;;;;;;;
 CGO^_hms^_government;콩고 왕국;;;;;;;;;;;;;
