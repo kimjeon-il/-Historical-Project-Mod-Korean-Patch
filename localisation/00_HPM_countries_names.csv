@@ -3106,16 +3106,17 @@ ARA^_bourgeois^_dictatorship; 공화국;;;;;;;;;;;;;
 ARA^_fascist^_dictatorship;국;;;;;;;;;;;;;
 ARA^_ADJ;령;;;;;;;;;;;;;;
 #####BYE(Belarus)#####
-NEH^_theocracy;국;;;;;;;;;;;;;;
-BYE^_absolute^_monarchy;;;;;;;;;;;;;;
-BYE^_prussian^_constitutionalism;;;;;;;;;;;;;;
-BYE^_hms^_government;;;;;;;;;;;;;;
-BYE^_democracy; 공화국;;;;;;;;;;;;;
+NEH^_theocracy;벨라루스국;;;;;;;;;;;;;;
+BYE^_absolute^_monarchy벨라루스 왕국;;;;;;;;;;;;;;
+BYE^_prussian^_constitutionalism;벨라루스 왕국;;;;;;;;;;;;;
+BYE^_hms^_government;벨라루스 왕국;;;;;;;;;;;;;
+BYE^_democracy;벨라루스 공화국;;;;;;;;;;;;;
 BYE^_proletarian^_dictatorship;벨로루시 소비에트사회주의공화국;;;;;;;;;;;;;
-BYE^_presidential^_dictatorship; 공화국;;;;;;;;;;;;;
-BYE^_bourgeois^_dictatorship; 공화국;;;;;;;;;;;;;
-BYE^_fascist^_dictatorship;국;;;;;;;;;;;;;
-BYE^_ADJ;령;;;;;;;;;;;;;;
+BYE^_presidential^_dictatorship;벨라루스 공화국;;;;;;;;;;;;;
+BYE^_bourgeois^_dictatorship;벨라루스 공화국;;;;;;;;;;;;;
+BYE^_fascist^_dictatorship;벨라루스국;;;;;;;;;;;;;
+BYE^_ADJ;벨라루스령;;;;;;;;;;;;;;
+BYE^_proletarian^_dictatorship_ADJ;벨로루시령;;;;;;;;;;;;;
 #####PLC(Poland-Lithuania)#####
 NEH^_theocracy;국;;;;;;;;;;;;;;
 PLC^_absolute^_monarchy;;;;;;;;;;;;;;
