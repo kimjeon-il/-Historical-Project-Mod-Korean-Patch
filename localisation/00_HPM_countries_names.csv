@@ -4363,7 +4363,7 @@ IRQ^_bourgeois^_dictatorship; 공화국;;;;;;;;;;;;;
 IRQ^_fascist^_dictatorship;국;;;;;;;;;;;;;
 IRQ^_ADJ;령;;;;;;;;;;;;;;
 #####KHI(Khiva)#####
-NEH^_theocracy;국;;;;;;;;;;;;;;
+KHI^_theocracy;국;;;;;;;;;;;;;;
 KHI^_absolute^_monarchy;;;;;;;;;;;;;;
 KHI^_prussian^_constitutionalism;;;;;;;;;;;;;;
 KHI^_hms^_government;;;;;;;;;;;;;;
@@ -4374,16 +4374,16 @@ KHI^_bourgeois^_dictatorship; 공화국;;;;;;;;;;;;;
 KHI^_fascist^_dictatorship;국;;;;;;;;;;;;;
 KHI^_ADJ;령;;;;;;;;;;;;;;
 #####KOK(Kokand)#####
-NEH^_theocracy;국;;;;;;;;;;;;;;
-KOK^_absolute^_monarchy;;;;;;;;;;;;;;
-KOK^_prussian^_constitutionalism;;;;;;;;;;;;;;
-KOK^_hms^_government;;;;;;;;;;;;;;
-KOK^_democracy; 공화국;;;;;;;;;;;;;
+KOK^_theocracy;코콘국;;;;;;;;;;;;;;
+KOK^_absolute^_monarchy;코콘 칸국;;;;;;;;;;;;;
+KOK^_prussian^_constitutionalism;코콘 칸국;;;;;;;;;;;;;
+KOK^_hms^_government;코콘 칸국;;;;;;;;;;;;;
+KOK^_democracy;코콘 공화국;;;;;;;;;;;;;
 KOK^_proletarian^_dictatorship;;;;;;;;;;;;;;
-KOK^_presidential^_dictatorship; 공화국;;;;;;;;;;;;;
-KOK^_bourgeois^_dictatorship; 공화국;;;;;;;;;;;;;
-KOK^_fascist^_dictatorship;국;;;;;;;;;;;;;
-KOK^_ADJ;령;;;;;;;;;;;;;;
+KOK^_presidential^_dictatorship;코콘 공화국;;;;;;;;;;;;;
+KOK^_bourgeois^_dictatorship;코콘 공화국;;;;;;;;;;;;;
+KOK^_fascist^_dictatorship;코콘국;;;;;;;;;;;;;
+KOK^_ADJ;코콘령;;;;;;;;;;;;;;
 #####MUG(Mughalistan)#####
 NEH^_theocracy;국;;;;;;;;;;;;;;
 MUG^_absolute^_monarchy;;;;;;;;;;;;;;
