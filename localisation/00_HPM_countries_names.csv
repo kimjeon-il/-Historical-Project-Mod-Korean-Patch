@@ -5645,9 +5645,9 @@ TPG_ADJ;태평령;;;;;;;;;;;;;;
 ##EIC
 #####EIC(East India Company)#####
 EIC_theocracy;동인도국;;;;;;;;;;;;;;
-EIC_absolute_monarchy;동인도회사령;;;;;;;;;;;;;
-EIC_prussian_constitutionalism;동인도회사령;;;;;;;;;;;;;
-EIC_hms_government;동인도회사령;;;;;;;;;;;;;
+EIC_absolute_monarchy;동인도회사;;;;;;;;;;;;;
+EIC_prussian_constitutionalism;동인도회사;;;;;;;;;;;;;
+EIC_hms_government;동인도회사;;;;;;;;;;;;;
 EIC_democracy;동인도 공화국;;;;;;;;;;;;;
 EIC_proletarian_dictatorship;동인도 인민공화국;;;;;;;;;;;;;
 EIC_presidential_dictatorship;동인도 공화국;;;;;;;;;;;;;
