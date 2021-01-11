@@ -3049,9 +3049,9 @@ SEN_prussian_constitutionalism_ADJ;센다이령;;;;;;;;;;;;;
 SEN_hms_government_ADJ;센다이령;;;;;;;;;;;;;
 #####TKG(Shogunate Japan)#####
 TKG_theocracy;에도국;;;;;;;;;;;;;;
-TKG_absolute_monarchy;에도 막부국;;;;;;;;;;;;;
-TKG_prussian_constitutionalism;에도 막부국;;;;;;;;;;;;;
-TKG_hms_government;에도 막부국;;;;;;;;;;;;;
+TKG_absolute_monarchy;에도 막부령;;;;;;;;;;;;;
+TKG_prussian_constitutionalism;에도 막부령;;;;;;;;;;;;;
+TKG_hms_government;에도 막부;;;;;;;;;;;;;
 TKG_democracy;에도 공화국;;;;;;;;;;;;;
 TKG_proletarian_dictatorship;에도 인민공화국;;;;;;;;;;;;;
 TKG_presidential_dictatorship;에도 공화국;;;;;;;;;;;;;
@@ -5645,9 +5645,9 @@ TPG_ADJ;태평령;;;;;;;;;;;;;;
 ##EIC
 #####EIC(East India Company)#####
 EIC_theocracy;동인도국;;;;;;;;;;;;;;
-EIC_absolute_monarchy;동인도회사;;;;;;;;;;;;;
-EIC_prussian_constitutionalism;동인도회사;;;;;;;;;;;;;
-EIC_hms_government;동인도회사;;;;;;;;;;;;;
+EIC_absolute_monarchy;동인도회사령;;;;;;;;;;;;;
+EIC_prussian_constitutionalism;동인도회사령;;;;;;;;;;;;;
+EIC_hms_government;동인도회사령;;;;;;;;;;;;;
 EIC_democracy;동인도 공화국;;;;;;;;;;;;;
 EIC_proletarian_dictatorship;동인도 인민공화국;;;;;;;;;;;;;
 EIC_presidential_dictatorship;동인도 공화국;;;;;;;;;;;;;
