@@ -206,7 +206,7 @@ acceptable_subsidies_l;적당한 보조금;;;;;;;;;;;;;
 MONEY_IS_ATLEAST_TRIGGER; 돈 ≥ [SUB_A7]Y$VALUE$[SUB_A7]W[SUB_A4] \n;;;;;;;;;;;;;
 EFFECT_BUILD_IN_CAPITAL_DESC; [SUB_A7]Y$PROVS$[SUB_A7]W에 [SUB_A7]Y$BLD$[SUB_A7]W 건물을 건설합니다.\n;;;;;;;;;;;;;
 ADD_WARGOAL_PRESTIGE;해당 전쟁목표를 달성하면 [SUB_A7]Y위신[SUB_A7]W이 $COST$ 증가합니다.;;;;;;;;;;;;;
-ADD_WARGOAL_MILITANCY;해당 전쟁목표를 달성하지 못하면 평균 [SUB_A7]Y불만도[SUB_A7]W가 $MILITANCY$ 증가합니다.;;;;;;;;;;;;;
+ADD_WARGOAL_MILITANCY;해당 전쟁목표를 달성하지 못하면 평균 [SUB_A7]Y투쟁도[SUB_A7]W가 $MILITANCY$ 증가합니다.;;;;;;;;;;;;;
 ADD_WARGOAL_EFFECT;해당 전쟁목표를 추가했을 때:;;;;;;;;;;;;;
 ADD_WARGOAL_SUCCESS;해당 전쟁목표를 달성했을 때:;;;;;;;;;;;;;
 ADD_WARGOAL_FAILURE;해당 전쟁목표를 달성하지 못했을 때:;;;;;;;;;;;;;
