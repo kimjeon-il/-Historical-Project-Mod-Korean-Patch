@@ -200,7 +200,7 @@ great_war_place_in_the_sun_short;$STATE$ 인수;;;;;;;;;;;;;
 great_war_release_puppet;종속국 해방;;;;;;;;;;;;;
 great_war_release_puppet_short;$THIRD$ 해방;;;;;;;;;;;;;
 great_war_release_puppet_setup;$RECIPIENT$에 종속된 $THIRD$을 해방합니다.;;;;;;;;;;;;;
-great_war_release_puppet_desc;적국에 종속된 [SUB_A7]Y종속국[SUB_A7]W을 해방합니다.;;;;;;;;;;;;;
+great_war_release_puppet_desc;적국의 [SUB_A7]Y종속국[SUB_A7]W을 해방합니다.;;;;;;;;;;;;;
 great_war_take_from_sphere;영향권 강탈;;;;;;;;;;;;;
 great_war_take_from_sphere_desc;적국의 [SUB_A7]Y영향권[SUB_A7]W에 속한 국가를 영향권에 편입합니다.;;;;;;;;;;;;;
 great_war_take_from_sphere_short;$THIRD$ 영향권 강탈;;;;;;;;;;;;;
@@ -231,7 +231,7 @@ free_allied_cores_setup;$THIRD$에게 $RECIPIENT$이 점유한 $STATE$ 지방을
 release_puppet_AI;종속국 해방;;;;;;;;;;;;;
 release_puppet_AI_short;$THIRD$ 해방;;;;;;;;;;;;;
 release_puppet_AI_setup;$RECIPIENT$에 종속된 $THIRD$을 해방합니다.;;;;;;;;;;;;;
-release_puppet_AI_desc;적국에 종속된 [SUB_A7]Y종속국[SUB_A7]W을 주권국으로 해방합니다.;;;;;;;;;;;;;
+release_puppet_AI_desc;적국의 [SUB_A7]Y종속국[SUB_A7]W을 주권국으로 해방합니다.;;;;;;;;;;;;;
 demand_concession_NI_casus_belli;조차지 요구;;;;;;;;;;;;;
 demand_concession_NI_casus_belli_desc;[SUB_A7]Y비문명국[SUB_A7]W이 점유한 주를 식민주로 편성합니다.;;;;;;;;;;;;;
 demand_concession_NI_casus_belli_setup;$RECIPIENT$이 점유한 주를 인수합니다.;;;;;;;;;;;;;
