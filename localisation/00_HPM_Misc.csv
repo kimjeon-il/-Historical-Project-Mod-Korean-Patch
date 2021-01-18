@@ -144,7 +144,7 @@ BUDGET_GOLD_INCOME_DESC;귀중품 수입입니다.;;;;;;;;;;;;;
 BUDGET_GOLD;귀중품: [SUB_A7]Y$VAL$[SUB_A7]W;;;;;;;;;;;;;
 EDU_DESC;교육비는 지식인의 봉급 지급과 문해율 증대에 쓰입니다.;;;;;;;;;;;;;
 MIL_COST_DESC;군대의 보급 비용입니다. 편제, 봉급, 해외령 유지비는 포함하지 않습니다.;;;;;;;;;;;;;
-STOCKPILE_COST_ESTIMATED;국가비축품은 육군예산, 해군예산, 건설예산, 해외령 유지비로 이루어집니다.\n내일 [SUB_A7]Y예상[SUB_A7]! 비축품 구매비:;;;;;;;;;;;;;
+STOCKPILE_COST_ESTIMATED;국가비축품은 육군예산, 해군예산, 건설예산, 해외령 유지비로 이루어집니다.\n내일 [SUB_A7]Y예상[SUB_A7]W 비축품 구매비:;;;;;;;;;;;;;
 BUDGET_OVERSEAS;해외령 유지비;;;;;;;;;;;;;
 BUDGET_CONSUMED_OVERSEAS;해외령 유지비는 국가비축품으로 계산하며 인하할 수 없습니다.\n어제 해외령 소비 예상치:;;;;;;;;;;;;;
 BUDGET_CONSUMED_MILITARY;어제 군대 소비 예상치:;;;;;;;;;;;;;
