@@ -760,7 +760,7 @@ native_rebels_title;반식민주의자;;;;;;;;;;;;;
 native_rebels_name;반식민주의 반군;;;;;;;;;;;;;
 native_rebels_desc;반식민주의자는 모국의 통치권을 토착 문화에게 되돌려주고자 합니다.;;;;;;;;;;;;;
 native_rebels_army;반식민주의 반군;;;;;;;;;;;;;
-liberal_rebels_desc;자코뱅은 전제군주정 하에서 입헌군주정을 시행하고자 노력할 것입니다. 이외의 정치체제에서는 자유주의 이념과 정치개혁에 중점을 둔 민주정 정부를 수립하고자 노력할 것입니다.;;;;;;;;;;;;;
+liberal_rebels_desc;자코뱅 당원은 전제군주정 하에서 입헌군주정을 시행하고자 노력할 것입니다. 이외의 정치체제에서는 자유주의 이념과 정치개혁에 중점을 둔 민주정 정부를 수립하고자 노력할 것입니다.;;;;;;;;;;;;;
 NORMAL_WAR_CONQUEST_ANY_NAME;$ORDER$$SECOND_COUNTRY$ 정복전쟁;;;;;;;;;;;;;
 AGRESSION_WAR_CONQUEST_ANY_NAME;$ORDER$$FIRST_COUNTRY$의 $SECOND_COUNTRY$ 침공;;;;;;;;;;;;;
 RANK_INDUSTRY_D;산업력은 국가의 산업화 수준에 대한 척도입니다. 고용한 직공과 사무원의 수를 2500으로 나눈 값과 해외 투자를 합산한 값입니다.;;;;;;;;;;;;;
