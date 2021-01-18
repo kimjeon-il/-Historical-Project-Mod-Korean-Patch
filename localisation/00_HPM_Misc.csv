@@ -274,7 +274,7 @@ NOT_IN_POLITICAL_MOVEMENT; ≠ 정치 운동 있음\n;;;;;;;;;;;;;
 NEUTRALITY_EFFECT; 모든 동맹을 파기하고 모든 위성국을 해방함으로써 중립국이 됩니다.;;;;;;;;;;;;;
 INFLUENCE_CHANGE; [SUB_A7]Y$ACTIVE$[SUB_A7]W이 [SUB_A7]Y$PASSIVE$[SUB_A7]W에게 영향력을 $MUCH$ 투사합니다.\n;;;;;;;;;;;;;
 THE_CAPITAL_IS_NOT; 수도 ≠;;;;;;;;;;;;;
-ENDGAME_DESC;100년이라는 세월이 흘러 현대시대로 들어섰습니다. 세상은 완전히 탈바꿈했는데, 우리나라는 어떻게 지냈나요?;;;;;;;;;;;;;
+ENDGAME_DESC;100년이라는 긴 세월이 흘러 현대시대로 들어섰습니다. 세상은 완전히 탈바꿈했는데, 우리나라는 어떻게 바뀌었나요?;;;;;;;;;;;;;
 DIPLOMACY_FILTER_NORTH_AMERICA;북아메리카;;;;;;;;;;;;;
 DIPLOMACY_FILTER_OCEANIA;근동;;;;;;;;;;;;;
 DIPLOMACY_FILTER_OCEANIA_TOOLTIP;[SUB_A7]Y근동[SUB_A7]W 국가만 표시합니다.;;;;;;;;;;;;;
