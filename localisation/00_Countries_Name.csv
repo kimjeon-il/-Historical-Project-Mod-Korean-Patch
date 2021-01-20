@@ -3095,9 +3095,9 @@ SEN_prussian_constitutionalism_ADJ;센다이령;;;;;;;;;;;;;
 SEN_hms_government_ADJ;센다이령;;;;;;;;;;;;;
 #####TKG(Shogunate Japan)#####
 TKG_theocracy;에도국;;;;;;;;;;;;;;
-TKG_absolute_monarchy;에도 막부정권;;;;;;;;;;;;;
-TKG_prussian_constitutionalism;에도 막부정권;;;;;;;;;;;;;
-TKG_hms_government;에도 막부정권;;;;;;;;;;;;;
+TKG_absolute_monarchy;에도 막부 정권;;;;;;;;;;;;;
+TKG_prussian_constitutionalism;에도 막부 정권;;;;;;;;;;;;;
+TKG_hms_government;에도 막부 정권;;;;;;;;;;;;;
 TKG_democracy;에도 공화국;;;;;;;;;;;;;
 TKG_proletarian_dictatorship;에도 인민공화국;;;;;;;;;;;;;
 TKG_presidential_dictatorship;에도 공화국;;;;;;;;;;;;;
