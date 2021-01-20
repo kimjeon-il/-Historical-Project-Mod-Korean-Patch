@@ -36,17 +36,17 @@ install_fascism_make_puppet;파쇼주의 괴뢰정부 수립;;;;;;;;;;;;;;;;;;;;
 install_fascism_make_puppet_desc;적국의 수도에 [SUB_A7]Y파쇼주의[SUB_A7]W 괴뢰정부를 수립합니다.;;;;;;;;;;;;;
 install_fascism_make_puppet_short;$RECIPIENT$ 파쇼주의 괴뢰정부 수립;;;;;;;;;;;;;;
 install_fascism_make_puppet_setup;$RECIPIENT$을 괴뢰화합니다.;;;;;;;;;;;;;;;;;;;;;
-NORMAL_WAR_LIBERATE_NAME_FRA_EGY;$ORDER$프랑스의 이집트 개입;;;;;;;;;;;;;
-NORMAL_WAR_LIBERATE_NAME_NET_EGY;$ORDER$네덜란드의 이집트 개입;;;;;;;;;;;;;
-NORMAL_WAR_LIBERATE_NAME_SPA_EGY;$ORDER$에스파냐의 이집트 개입;;;;;;;;;;;;;
-NORMAL_WAR_LIBERATE_NAME_AUS_EGY;$ORDER$오스트리아의 이집트 개입;;;;;;;;;;;;;
-NORMAL_WAR_LIBERATE_NAME_RUS_EGY;$ORDER$러시아의 이집트 개입;;;;;;;;;;;;;
-NORMAL_WAR_LIBERATE_NAME_PRU_EGY;$ORDER$프로이센의 이집트 개입;;;;;;;;;;;;;
-NORMAL_WAR_LIBERATE_NAME_ENG_EGY;$ORDER$영국의 이집트 개입;;;;;;;;;;;;;
+NORMAL_WAR_LIBERATE_NAME_FRA_EGY;$ORDER$프랑스의 이집트 간섭;;;;;;;;;;;;;
+NORMAL_WAR_LIBERATE_NAME_NET_EGY;$ORDER$네덜란드의 이집트 간섭;;;;;;;;;;;;;
+NORMAL_WAR_LIBERATE_NAME_SPA_EGY;$ORDER$에스파냐의 이집트 간섭;;;;;;;;;;;;;
+NORMAL_WAR_LIBERATE_NAME_AUS_EGY;$ORDER$오스트리아의 이집트 간섭;;;;;;;;;;;;;
+NORMAL_WAR_LIBERATE_NAME_RUS_EGY;$ORDER$러시아의 이집트 간섭;;;;;;;;;;;;;
+NORMAL_WAR_LIBERATE_NAME_PRU_EGY;$ORDER$프로이센의 이집트 간섭;;;;;;;;;;;;;
+NORMAL_WAR_LIBERATE_NAME_ENG_EGY;$ORDER$영국의 이집트 간섭;;;;;;;;;;;;;
 AGRESSION_WAR_NAME_TUR_ITA;$ORDER$이탈리아-튀르크 전쟁;;;;;;;;;;;;;;;;;;;
-NORMAL_WAR_PUPPET_NAME_QNG_PGG;$ORDER$반데의 난;;;;;;;;;;;;;;;;;;;
-NORMAL_WAR_PUPPET_NAME_QNG_UYG;$ORDER$둥간의 난;;;;;;;;;;;;;;;;;;;
-NORMAL_WAR_CONQUEST_ANY_NAME_QNG_XBI;$ORDER$둥간의 난;;;;;;;;;;;;;;;;;;;
+NORMAL_WAR_PUPPET_NAME_QNG_PGG;$ORDER$운남회변;;;;;;;;;;;;;;;;;;;
+NORMAL_WAR_PUPPET_NAME_QNG_UYG;$ORDER$둥간반란;;;;;;;;;;;;;;;;;;;
+NORMAL_WAR_CONQUEST_ANY_NAME_QNG_XBI;$ORDER$둥간반란;;;;;;;;;;;;;;;;;;;
 AGRESSION_WAR_CONQUEST_ANY_NAME_BHR_QAT;$ORDER$카타르-바레인 전쟁;;;;;;;;;;;;;;;;;;;
 NORMAL_WAR_CONQUEST_ANY_NAME_BHR_QAT;$ORDER$카타르-바레인 전쟁;;;;;;;;;;;;;;;;;;;
 AGRESSION_WAR_CONQUEST_ANY_NAME_RUS_CIR;$ORDER$러시아-체르케스 전쟁;;;;;;;;;;;;;;;;;;;
@@ -55,116 +55,116 @@ AGRESSION_WAR_CONQUEST_ANY_NAME_RUS_DAG;$ORDER$무리드 전쟁;;;;;;;;;;;;;;;;;
 NORMAL_WAR_CONQUEST_ANY_NAME_RUS_DAG;$ORDER$무리드 전쟁;;;;;;;;;;;;;;;;;;;
 AGRESSION_WAR_CONQUEST_ANY_NAME_ENG_PNJ;$ORDER$영국-펀자브 전쟁;;;;;;;;;;;;;;;;;;;
 NORMAL_WAR_CONQUEST_ANY_NAME_ENG_PNJ;$ORDER$영국-펀자브 전쟁;;;;;;;;;;;;;;;;;;;
-NORMAL_CIVIL_WAR_NAME_ARC_ENT;$ORDER$플라티네 전쟁;;;;;;;;;;;;;;;;;;;;;
-AGRESSION_CIVIL_WAR_NAME_ARC_ENT;$ORDER$플라티네 전쟁;;;;;;;;;;;;;;;;;;;;;
+NORMAL_CIVIL_WAR_NAME_ARC_ENT;$ORDER$라플라타 전쟁;;;;;;;;;;;;;;;;;;;;;
+AGRESSION_CIVIL_WAR_NAME_ARC_ENT;$ORDER$라플라타 전쟁;;;;;;;;;;;;;;;;;;;;;
 NO_ALLOWED_STATES;(해당 주 없음);;;;;;;;;;;;;;;
 po_reduce_prestige;위신이 [SUB_A7]R-$VALUE$[SUB_A7]W 감소합니다.;;;;;;;;;;;;;;;;;;;;;;;;;;
-NORMAL_PUNITIVE_EXPEDITION_WAR_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;;;;;;;;
-AGRESSION_PUNITIVE_EXPEDITION_WAR_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;
+NORMAL_PUNITIVE_EXPEDITION_WAR_NAME;$ORDER$$SECOND_COUNTRY$ 토벌 전쟁;;;;;;;;;;;;;;;;;;;;
+AGRESSION_PUNITIVE_EXPEDITION_WAR_NAME;$ORDER$$SECOND_COUNTRY$ 토벌 전쟁;;;;;;;;;;;;;
 NORMAL_PUNITIVE_EXPEDITION_WAR_NAME_ENG_QNG;$ORDER$아편 전쟁;;;;;;;;;;;;;
 treaty_port_casus_belli;토벌;;;;;;;;;;;;;;;;;;
 treaty_port_casus_belli_desc;[SUB_A7]Y국가[SUB_A7]W에게 [SUB_A7]Y조약항[SUB_A7]W 할양과 [SUB_A7]Y불평등조약[SUB_A7]Y을 요구합니다.;;;;;;;;;;;;;
 treaty_port_casus_belli_short;$RECIPIENT$ 토벌;;;;;;;;;;;;;
 treaty_port_casus_belli_setup;$RECIPIENT$에게 조약항 할양과 불평등조약을 요구합니다.;;;;;;;;;;;;;
-NORMAL_WAR_CONQUEST_NAME_HAI_DOM;$ORDER$도미니카 독립 전쟁;;;;;;;;;;;;x,,,
-AGRESSION_WAR_CONQUEST_NAME_HAI_DOM;$ORDER$도미니카 독립 전쟁;;;;;;;;;;;;x,,,
+NORMAL_WAR_CONQUEST_NAME_HAI_DOM;$ORDER$도미니카 독립 전쟁;;;;;;;;;;;;;
+AGRESSION_WAR_CONQUEST_NAME_HAI_DOM;$ORDER$도미니카 독립 전쟁;;;;;;;;;;;;;
 AGRESSION_WAR_GUNBOAT_NAME;포함 외교;;;;;;;;;;;;;
 status_quo;원상 복구;;;;;;;;;;;;;
 AGRESSION_WAR_BOXER_NAME;의화단 전쟁;;;;;;;;;;;;;
 call_allies_cb;동맹군 소집;;;;;;;;;;;;;
 call_allies_cb_desc;동맹국에 참전을 요청합니다.;;;;;;;;;;;;;
-AGRESSION_WAR_ALL_CORES_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;
-NORMAL_WAR_ALL_CORES_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;
-AGRESSION_WAR_HUMILIATE_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;
-AGRESSION_WAR_PUPPET_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;
-NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;;
+AGRESSION_WAR_ALL_CORES_NAME;$ORDER$$FIRST_COUNTRY$ 해방 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_ALL_CORES_NAME;$ORDER$$FIRST_COUNTRY$ 해방 전쟁;;;;;;;;;;;;;
+AGRESSION_WAR_HUMILIATE_NAME;$ORDER$$SECOND_COUNTRY$ 모욕 전쟁;;;;;;;;;;;;;
+AGRESSION_WAR_PUPPET_NAME;$ORDER$$SECOND_COUNTRY$ 복속 전쟁;;;;;;;;;;;;;
+NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME;$ORDER$$FIRST_COUNTRY$의 $SECOND_COUNTRY$ 침공;;;;;;;;;;;;;;
 AGRESSION_CUT_DOWN_TO_SIZE_WAR_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;;
-NORMAL_WAR_DISMANTLE_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;;
-AGRESSION_WAR_DISMANTLE_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;
-NORMAL_WAR_AUSTRIAN_EMPIRE_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;
-AGRESSION_WAR_AUSTRIAN_EMPIRE_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;
-NORMAL_WAR_FREE_BALKANS_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 발칸 전쟁;;;;;;;;;;;;;
-AGRESSION_WAR_FREE_BALKANS_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 발칸 전쟁;;;;;;;;;;;;;
-NORMAL_WAR_MONROE_DOCTRINE_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;
-AGRESSION_WAR_MONROE_DOCTRINE_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;
-NORMAL_WAR_RESTORE_AMERICA_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;
-AGRESSION_WAR_RESTORE_AMERICA_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;
-NORMAL_WAR_HOLY_LAND_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 레반트 전쟁;;;;;;;;;;;;;
-AGRESSION_WAR_HOLY_LAND_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 레반트 전쟁;;;;;;;;;;;;;
-NORMAL_WAR_BRITISH_RAJ_NAME;$ORDER$$ $FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;
-AGRESSION_WAR_BRITISH_RAJ_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_DISMANTLE_NAME;$ORDER$$SECOND_COUNTRY$ 해체 전쟁;;;;;;;;;;;;;;
+AGRESSION_WAR_DISMANTLE_NAME;$ORDER$$FIRST_COUNTRY$의 $SECOND_COUNTRY$ 침공;;;;;;;;;;;;;
+NORMAL_WAR_AUSTRIAN_EMPIRE_NAME;$ORDER$오스트리아 제국 복원 전쟁;;;;;;;;;;;;;
+AGRESSION_WAR_AUSTRIAN_EMPIRE_NAME;$ORDER$오스트리아 제국 복원 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_FREE_BALKANS_NAME;$ORDER$발칸 전쟁;;;;;;;;;;;;;
+AGRESSION_WAR_FREE_BALKANS_NAME;$ORDER$발칸 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_MONROE_DOCTRINE_NAME;$ORDER$반제국주의 전쟁;;;;;;;;;;;;;
+AGRESSION_WAR_MONROE_DOCTRINE_NAME;$ORDER$반제국주의 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_RESTORE_AMERICA_NAME;$ORDER$미국 복원 전쟁;;;;;;;;;;;;;
+AGRESSION_WAR_RESTORE_AMERICA_NAME;$ORDER$미국 복원 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_HOLY_LAND_NAME;$ORDER$레반트 전쟁;;;;;;;;;;;;;
+AGRESSION_WAR_HOLY_LAND_NAME;$ORDER$레반트 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_BRITISH_RAJ_NAME;$ORDER$인도 제국 전쟁;;;;;;;;;;;;;
+AGRESSION_WAR_BRITISH_RAJ_NAME;$ORDER$$SECOND_COUNTRY$ 복속 전쟁;;;;;;;;;;;;;
 NORMAL_CIVIL_WAR_NAME_USA_FSA;$ORDER$남북 전쟁;;;;;;;;;;;;;
 NORMAL_CIVIL_WAR_NAME_USA_CSA_USA;$ORDER$남북 전쟁;;;;;;;;;;;;;
-NORMAL_WAR_CHINA_REUNIFICATION;$ORDER$군벌 전쟁;;;;;;;;;;;;;
-AGRESSION_WAR_CHINA_REUNIFICATION;$ORDER$군벌 전쟁;;;;;;;;;;;;;
-NORMAL_WAR_SAHEL_JIHAD_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 성전;;;;;;;;;;;;;
-AGRESSION_WAR_SAHEL_JIHAD_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 성전;;;;;;;;;;;;;
-NORMAL_WAR_RESTORE_ORDER_NAME_ARG_ENT;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;
-AGRESSION_WAR_RESTORE_ORDER_NAME_ARG_ENT;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 플라티네 전쟁;;;;;;;;;;;;;
-NORMAL_CIVIL_WAR_NAME_TKG_SAT;$ORDER$무진 전쟁;;;;;;;;;;;;x,,,
-NORMAL_CIVIL_WAR_NAME_TKG_CHO;$ORDER$무진 전쟁;;;;;;;;;;;;x,,,
-NORMAL_CIVIL_WAR_NAME_TKG_TOS;$ORDER$무진 전쟁;;;;;;;;;;;;x,,,
-NORMAL_CIVIL_WAR_NAME_TKG_KAG;$ORDER$무진 전쟁;;;;;;;;;;;;x,,,
-NORMAL_CIVIL_WAR_NAME_TKG_SEN;$ORDER$무진 전쟁;;;;;;;;;;;;x,,,
-NORMAL_CIVIL_WAR_NAME_TKG_YZW;$ORDER$무진 전쟁;;;;;;;;;;;;x,,,
-NORMAL_WAR_RESTORE_ORDER_NAME_ENG_TRN;$ORDER$보어 전쟁;;;;;;;;;;;;x,,,
-NORMAL_WAR_RESTORE_ORDER_NAME_ENG_ORA;$ORDER$보어 전쟁;;;;;;;;;;;;x,,,
-NORMAL_WAR_RESTORE_ORDER_NAME_ENG_NAL;$ORDER$보어 전쟁;;;;;;;;;;;;x,,,
-NORMAL_WAR_PUPPET_NAME_TUR_EGY;$ORDER$동방 위기;;;;;;;;;;;;x,,,
-NORMAL_WAR_TAKE_NAME_ENG_QNG;$ORDER$아편 전쟁;;;;;;;;;;;;x,,,
-NORMAL_WAR_TAKE_CORE_NAME_SHW_GON;판관시대;;;;;;;;;;;;x,,,
-NORMAL_WAR_RESTORE_ORDER_NAME_SHW_GON;판관시대;;;;;;;;;;;;x,,,
-NORMAL_WAR_TAKE_CORE_NAME_SHW_TIG;판관시대;;;;;;;;;;;;x,,,
-NORMAL_WAR_RESTORE_ORDER_NAME_SHW_TIG;판관시대;;;;;;;;;;;;x,,,
-NORMAL_WAR_TAKE_CORE_NAME_GON_SHW;판관시대;;;;;;;;;;;;x,,,
-NORMAL_WAR_RESTORE_ORDER_NAME_GON_SHW;판관시대;;;;;;;;;;;;x,,,
-NORMAL_WAR_TAKE_CORE_NAME_GON_TIG;판관시대;;;;;;;;;;;;x,,,
-NORMAL_WAR_RESTORE_ORDER_NAME_GON_TIG;판관시대;;;;;;;;;;;;x,,,
-NORMAL_WAR_TAKE_CORE_NAME_TIG_SHW;판관시대;;;;;;;;;;;;x,,,
-NORMAL_WAR_RESTORE_ORDER_NAME_TIG_SHW;판관시대;;;;;;;;;;;;x,,,
-NORMAL_WAR_TAKE_CORE_NAME_TIG_GON;판관시대;;;;;;;;;;;;x,,,
-NORMAL_WAR_RESTORE_ORDER_NAME_TIG_GON;판관시대;;;;;;;;;;;;x,,,
-NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME_RUS_TUR;$ORDER$크림 전쟁;;;;;;;;;;;;x,,,
-AGRESSION_CUT_DOWN_TO_SIZE_WAR_NAME_RUS_TUR;$ORDER$크림 전쟁;;;;;;;;;;;;x,,,
-NORMAL_WAR_FREE_ALLIED_CORE_NAME;$ORDER$$FIRST_COUNTRY$ $COUNTRY$ 해방 전쟁;;;;;;;;;;;;x,,,
-AGRESSION_WAR_FREE_ALLIED_CORE_NAME;$ORDER$$FIRST_COUNTRY$ $COUNTRY$ 해방 전쟁;;;;;;;;;;;;x,,,
-NORMAL_WAR_COLONIAL_RECONQUEST_NAME;$ORDER$$FIRST_COUNTRY$ 식민지 재정복 전쟁;;;;;;;;;;;;x,,,
-AGRESSION_WAR_COLONIAL_RECONQUEST_NAME;$ORDER$$FIRST_COUNTRY$ 식민지 재정복 전쟁;;;;;;;;;;;;x,,,
-NORMAL_WAR_PUPPET_NAME_TUR_ROM;$ORDER$루마니아 독립 전쟁;;;;;;;;;;;;x,,,
-AGRESSION_WAR_PUPPET_NAME_TUR_ROM;$ORDER$루마니아 독립 전쟁;;;;;;;;;;;;x,,,
-NORMAL_WAR_PUPPET_NAME_ENG_IRE;$ORDER$아일랜드 독립 전쟁;;;;;;;;;;;;x,,,
-AGRESSION_WAR_PUPPET_NAME_ENG_IRE;$ORDER$아일랜드 독립 전쟁;;;;;;;;;;;;x,,,
-NORMAL_CIVIL_WAR_NAME_NEJ_HAL;$ORDER$아라비아 패권 전쟁;;;;;;;;;;;;x,,,
-NORMAL_CIVIL_WAR_NAME_HAL_NEJ;$ORDER$아라비아 패권 전쟁;;;;;;;;;;;;x,,,
-NORMAL_WAR_NAME_ENG_USA;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;x,,,
-NORMAL_WAR_TAKE_NAME_ENG_USA;$ORDER$$FIRST_COUNTRY$ $STATE$ 정복 전쟁;;;;;;;;;;;;x,,,
-NORMAL_WAR_TAKE_CORE_NAME_ENG_USA;$ORDER$$FIRST_COUNTRY$ $STATE$ 해방 전쟁;;;;;;;;;;;;x,,,
-AGRESSION_WAR_ALL_CORES_NAME_USA_MEX;$ORDER$미국-멕시코 전쟁;;;;;;;;;;;;x,,,
-NORMAL_WAR_ALL_CORES_NAME_USA_MEX;$ORDER$미국-멕시코 전쟁;;;;;;;;;;;;x,,,
-AGRESSION_CIVIL_WAR_NAME_QNG_TPG;$ORDER$태평천국의 난;;;;;;;;;;;;x,,,
-NORMAL_CIVIL_WAR_NAME_QNG_TPG;$ORDER$태평천국의 난;;;;;;;;;;;;x,,,
-punitive_effects;국가적 모욕;;;;;;;;;;;;x,,,
+NORMAL_WAR_CHINA_REUNIFICATION;$ORDER$중국 재통일 전쟁;;;;;;;;;;;;;
+AGRESSION_WAR_CHINA_REUNIFICATION;$ORDER$중국 재통일 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_SAHEL_JIHAD_NAME;$ORDER$$FIRST_COUNTRY$의 성전;;;;;;;;;;;;;
+AGRESSION_WAR_SAHEL_JIHAD_NAME;$ORDER$$FIRST_COUNTRY$의 성전;;;;;;;;;;;;;
+NORMAL_WAR_RESTORE_ORDER_NAME_ARG_ENT;$ORDER$라플라타 전쟁;;;;;;;;;;;;;
+AGRESSION_WAR_RESTORE_ORDER_NAME_ARG_ENT;$ORDER$ 라플라타 전쟁;;;;;;;;;;;;;
+NORMAL_CIVIL_WAR_NAME_TKG_SAT;$ORDER$무진 전쟁;;;;;;;;;;;;;
+NORMAL_CIVIL_WAR_NAME_TKG_CHO;$ORDER$무진 전쟁;;;;;;;;;;;;;
+NORMAL_CIVIL_WAR_NAME_TKG_TOS;$ORDER$무진 전쟁;;;;;;;;;;;;;
+NORMAL_CIVIL_WAR_NAME_TKG_KAG;$ORDER$무진 전쟁;;;;;;;;;;;;;
+NORMAL_CIVIL_WAR_NAME_TKG_SEN;$ORDER$무진 전쟁;;;;;;;;;;;;;
+NORMAL_CIVIL_WAR_NAME_TKG_YZW;$ORDER$무진 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_RESTORE_ORDER_NAME_ENG_TRN;$ORDER$보어 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_RESTORE_ORDER_NAME_ENG_ORA;$ORDER$보어 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_RESTORE_ORDER_NAME_ENG_NAL;$ORDER$보어 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_PUPPET_NAME_TUR_EGY;$ORDER$동방 위기 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_ENG_QNG;$ORDER$아편 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_CORE_NAME_SHW_GON;판관시대;;;;;;;;;;;;;
+NORMAL_WAR_RESTORE_ORDER_NAME_SHW_GON;판관시대 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_CORE_NAME_SHW_TIG;판관시대 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_RESTORE_ORDER_NAME_SHW_TIG;판관시대 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_CORE_NAME_GON_SHW;판관시대 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_RESTORE_ORDER_NAME_GON_SHW;판관시대 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_CORE_NAME_GON_TIG;판관시대;;;;;;;;;;;;;
+NORMAL_WAR_RESTORE_ORDER_NAME_GON_TIG;판관시대 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_CORE_NAME_TIG_SHW;판관시대 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_RESTORE_ORDER_NAME_TIG_SHW;판관시대 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_CORE_NAME_TIG_GON;판관시대 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_RESTORE_ORDER_NAME_TIG_GON;판관시대 전쟁;;;;;;;;;;;;;
+NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME_RUS_TUR;$ORDER$크림 전쟁;;;;;;;;;;;;;
+AGRESSION_CUT_DOWN_TO_SIZE_WAR_NAME_RUS_TUR;$ORDER$크림 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_FREE_ALLIED_CORE_NAME;$ORDER$$COUNTRY$ 복원 전쟁;;;;;;;;;;;;;
+AGRESSION_WAR_FREE_ALLIED_CORE_NAME;$ORDER$$COUNTRY$ 복원 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_COLONIAL_RECONQUEST_NAME;$ORDER$$SECOND_COUNTRY$ 재정복 전쟁;;;;;;;;;;;;;
+AGRESSION_WAR_COLONIAL_RECONQUEST_NAME;$ORDER$$SECOND_COUNTRY$ 재정복 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_PUPPET_NAME_TUR_ROM;$ORDER$루마니아 독립 전쟁;;;;;;;;;;;;;
+AGRESSION_WAR_PUPPET_NAME_TUR_ROM;$ORDER$루마니아 독립 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_PUPPET_NAME_ENG_IRE;$ORDER$아일랜드 독립 전쟁;;;;;;;;;;;;;
+AGRESSION_WAR_PUPPET_NAME_ENG_IRE;$ORDER$아일랜드 독립 전쟁;;;;;;;;;;;;;
+NORMAL_CIVIL_WAR_NAME_NEJ_HAL;$ORDER$아라비아 패권 전쟁;;;;;;;;;;;;;
+NORMAL_CIVIL_WAR_NAME_HAL_NEJ;$ORDER$아라비아 패권 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_NAME_ENG_USA;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_ENG_USA;$ORDER$$STATE$ 정복 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_CORE_NAME_ENG_USA;$ORDER$$STATE$ 해방 전쟁;;;;;;;;;;;;;
+AGRESSION_WAR_ALL_CORES_NAME_USA_MEX;$ORDER$미국-멕시코 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_ALL_CORES_NAME_USA_MEX;$ORDER$미국-멕시코 전쟁;;;;;;;;;;;;;
+AGRESSION_CIVIL_WAR_NAME_QNG_TPG;$ORDER$태평천국의 난;;;;;;;;;;;;;
+NORMAL_CIVIL_WAR_NAME_QNG_TPG;$ORDER$태평천국의 난;;;;;;;;;;;;;
+punitive_effects;국가적 모욕;;;;;;;;;;;;;
 punitive_effects_desc;패전의 굴욕과 징벌적인 배상금이 국민들을 힘들게 하고 있습니다. 누군가 먼저 우리에게 전쟁을 선포하지 않으면 우리는 전쟁을 치를 수 없습니다.;;;;;;;;;;;;;x,,
-no_more_war;염전주의;;;;;;;;;;;;x,,,
+no_more_war;염전주의;;;;;;;;;;;;;
 no_more_war_desc;국민들은 전쟁에 지쳤습니다. 순식간에 국민들이 전쟁에 열정을 갇기란 어려울 것이기 때문에, 그 동안의 전쟁 수행능력은 매우 제한적일 것입니다.[SUB_A7]Y경고: 해당 변동사항이 지속하는 동안은 전쟁을 일으킬 수 있는 전쟁명분이 거의 없습니다![SUB_A7]W.;;;;;;;;;;;;;x,,
-end_the_war;전쟁 종결;;;;;;;;;;;;x,,,
+end_the_war;전쟁 종결;;;;;;;;;;;;;
 end_the_war_desc;적은 패배했습니다. 국민들은 의도했던 모든 것을 얻지는 못하더라도 전쟁을 끝내라고 요구합니다.;;;;;;;;;;;;;x,,
-dismantle_cb;국가 해체;;;;;;;;;;;;x,,,
-dismantle_cb_desc;적 [SUB_A7]Y강대국[SUB_A7]W의 식민제국을 해체하고 배상금을 상환받습니다.;;;;;;;;;;;;x,,,
-dismantle_cb_short;$RECIPIENT$ 해체;;;;;;;;;;;;x,,,
-dismantle_cb_setup;$RECIPIENT$을 해체합니다.;;;;;;;;;;;;x,,,
+dismantle_cb;국가 해체;;;;;;;;;;;;;
+dismantle_cb_desc;적 [SUB_A7]Y강대국[SUB_A7]W의 식민제국을 해체하고 배상금을 상환받습니다.;;;;;;;;;;;;;
+dismantle_cb_short;$RECIPIENT$ 해체;;;;;;;;;;;;;
+dismantle_cb_setup;$RECIPIENT$을 해체합니다.;;;;;;;;;;;;;
 dismantle_cb_add;국가 해체;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,
-dismantle_cb_add_desc;적 [SUB_A7]Y강대국[SUB_A7]W의 식민제국을 해체하고 배상금을 상환받습니다.;;;;;;;;;;;;x,,,
+dismantle_cb_add_desc;적 [SUB_A7]Y강대국[SUB_A7]W의 식민제국을 해체하고 배상금을 상환받습니다.;;;;;;;;;;;;;
 dismantle_cb_add_short;$RECIPIENT$ 해체;;;;;;;;;;;;;;;;;;;;;;;;;;,,,
-dismantle_cb_add_setup;$RECIPIENT$을 해체합니다.;;;;;;;;;;;;x,,,
-dismantle_cb_add_new;국가 해체;;;;;;;;;;;;x,,,
-dismantle_cb_add_new_desc;적 [SUB_A7]Y강대국[SUB_A7]W의 식민제국을 해체하고 전쟁배상금을 상환받습니다.;;;;;;;;;;;;x,,,
-dismantle_cb_add_new_short;$RECIPIENT$ 해체;;;;;;;;;;;;x,,,
-dismantle_cb_add_new_setup;$RECIPIENT$을 해체합니다.;;;;;;;;;;;;x,,,
+dismantle_cb_add_setup;$RECIPIENT$을 해체합니다.;;;;;;;;;;;;;
+dismantle_cb_add_new;국가 해체;;;;;;;;;;;;;
+dismantle_cb_add_new_desc;적 [SUB_A7]Y강대국[SUB_A7]W의 식민제국을 해체하고 전쟁배상금을 상환받습니다.;;;;;;;;;;;;;
+dismantle_cb_add_new_short;$RECIPIENT$ 해체;;;;;;;;;;;;;
+dismantle_cb_add_new_setup;$RECIPIENT$을 해체합니다.;;;;;;;;;;;;;
 great_war_install_democracy;민주주의 정부 수립;;;;;;;;;;;;;;;;;;;;;;;;;;,,,
 great_war_install_democracy_desc;적국의 수도에 [SUB_A7]Y우호적인 민주주의 정부[SUB_A7]W를 수립합니다.;;;;;;;;;;;;;
-great_war_install_democracy_short;$RECIPIENT$ 민주주의 정부 수립;;;;;;;;;;;;x,,,
-great_war_install_democracy_setup;$RECIPIENT$에 민주공화제 정부를 수립합니다.;;;;;;;;;;;;x,,,
+great_war_install_democracy_short;$RECIPIENT$ 민주주의 정부 수립;;;;;;;;;;;;;
+great_war_install_democracy_setup;$RECIPIENT$에 민주공화제 정부를 수립합니다.;;;;;;;;;;;;;
 great_war_install_fascism;파쇼주의 정부 수립;;;;;;;;;;;;;
 great_war_install_fascism_desc;적국의 수도에 [SUB_A7]Y우호적인 파쇼주의 정부[SUB_A7]W를 수립합니다.;;;;;;;;;;;;;
 great_war_install_fascism_short;$RECIPIENT$ 극우화;;;;;;;;;;;;;
@@ -301,11 +301,11 @@ claim_holy_land_desc;[SUB_A7]Y오스만 제국[SUB_A7]W에 속했던 [SUB_A7]Y�
 claim_holy_land_short;$STATE$ 인수;;;;;;;;;;;;;
 claim_holy_land_setup;$RECIPIENT$이 점유한 $STATE$ 지방을 인수합니다.;;;;;;;;;;;;;
 restore_british_raj;인도 제국 재건;;;;;;;;;;;;;
-restore_british_raj_desc;[SUB_A7]Y영국령 인도 제국[SUB_A7]W의 정당한 영토를 점유한 [SUB_A7]Y적국[SUB_A7]W에 괴뢰화합니다.;;;;;;;;;;;;;
+restore_british_raj_desc;[SUB_A7]Y영국령 인도 제국[SUB_A7]W의 정당한 영토에 속하는 [SUB_A7]Y적국[SUB_A7]W에 괴뢰정부를 수립합니다.;;;;;;;;;;;;;
 restore_british_raj_short;$RECIPIENT$ 괴뢰화;;;;;;;;;;;;;
 restore_british_raj_setup;$RECIPIENT$을 괴뢰화합니다.;;;;;;;;;;;;;
 great_game_cb;그레이트 게임;;;;;;;;;;;;;
-great_game_cb_desc;그레이트 게임의 일환으로 중앙아시아의 [SUB_A7]Y비문명국[SUB_A7]W을 [SUB_A7]Y괴뢰정부[SUB_A7]W를 수립합니다.;;;;;;;;;;;;;
+great_game_cb_desc;그레이트 게임의 일환으로 중앙아시아의 [SUB_A7]Y비문명국[SUB_A7]W에 [SUB_A7]Y괴뢰정부[SUB_A7]W를 수립합니다.;;;;;;;;;;;;;
 great_game_cb_short;$RECIPIENT$ 괴뢰화;;;;;;;;;;;;;
 great_game_cb_setup;$RECIPIENT$을 괴뢰화합니다.;;;;;;;;;;;;;
 china_acquire_state;중국 재통합;;;;;;;;;;;;;
@@ -336,7 +336,7 @@ acquire_all_cores;모든 영유권 보유 지역 인수;;;;;;;;;;;;;
 acquire_all_cores_short;$RECIPIENT$이 점유한 모든 영유권 보유 지역 인수;;;;;;;;;;;;;
 acquire_all_cores_setup;$RECIPIENT$이 점유한 모든 영유권 보유 지역을 인수합니다.;;;;;;;;;;;;;
 acquire_all_cores_desc;우리 [SUB_A7]Y영유권 보유 지역[SUB_A7]W이 있는 [SUB_A7]Y주[SUB_A7]W를 인수합니다.;;;;;;;;;;;;;
-AGRESSION_WAR_ALL_CORES_NAME_USA_ENG;$ORDER$영국-미국 전쟁;;;;;;;;;;;;x,,,
-NORMAL_WAR_ALL_CORES_NAME_USA_ENG;$ORDER$영국-미국 전쟁;;;;;;;;;;;;x,,,
-AGRESSION_WAR_ALL_CORES_NAME_ENG_USA;$ORDER$영국-미국 전쟁;;;;;;;;;;;;x,,,
-NORMAL_WAR_ALL_CORES_NAME_ENG_USA;$ORDER$영국-미국 전쟁;;;;;;;;;;;;x,,,
+AGRESSION_WAR_ALL_CORES_NAME_USA_ENG;$ORDER$영국-미국 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_ALL_CORES_NAME_USA_ENG;$ORDER$영국-미국 전쟁;;;;;;;;;;;;;
+AGRESSION_WAR_ALL_CORES_NAME_ENG_USA;$ORDER$영국-미국 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_ALL_CORES_NAME_ENG_USA;$ORDER$영국-미국 전쟁;;;;;;;;;;;;;
