@@ -360,7 +360,7 @@ option_disable_starting_party_loyalty_desc;모든 정당의 애당심을 제거�
 option_disable_hpm_crisis_title;설정: 분쟁 해소;;;;;;;;;;;;;
 option_disable_hpm_crisis_desc;HPM에서 분쟁은 혁명과 반혁명을 연구해야 발발하므로 보통 1870년경부터 활성화됩니다. 이는 여러 기괴한 분쟁(특히 기근 발생으로 인한 전투를 통해 1840년에 아일랜드가 독립하는 사건)을 막으려는 의도에 기인합니다. 이 설정을 선택하면 이러한 제한사항을 제거해 바닐라 빅토리아2처럼 게임 시작부터 분쟁이 발생합니다.;;;;;;;;;;;;;
 option_enable_fantasy_countries_title;설정: 폐기된 바닐라/뉴네이션모드(NNM) 국가태그 사용;;;;;;;;;;;;;
-option_enable_fantasy_countries_desc;이베리아, 동로마, 바빌로니아 각각의 전용 결정을 활성화합니다. HPM 제작자는 이 나라들을 위해 어떤 향도 첨가하지 않을 것이고 세 나라 모두 나머지 국가들과 함께 제대로 작동하는지 실험하지 않았기 때문에 이상한 일이 일어날지도 모릅니다.;;;;;;;;;;;;;
+option_enable_fantasy_countries_desc;이베리아, 동로마, 바빌론 각각의 전용 결정을 활성화합니다. HPM 제작자는 이 나라들을 위해 어떤 향도 첨가하지 않을 것이고 세 나라 모두 나머지 국가들과 함께 제대로 작동하는지 실험하지 않았기 때문에 이상한 일이 일어날지도 모릅니다.;;;;;;;;;;;;;
 option_enable_easter_eggs_title;설정 : 이스터에그 사용;;;;;;;;;;;;;
 option_enable_easter_eggs_desc;바닐라 빅토리아2에는 일부 국가에서만 발생하는 이스터에그성 사건이 여럿 존재합니다. HPM에서는 이러한 사건들을 비활성화했지만, 이 결정으로 다시 활성화할 수 있습니다.;;;;;;;;;;;;;
 option_disable_workplace_events_title;설정: 작업장 사건 비활성화;;;;;;;;;;;;;
